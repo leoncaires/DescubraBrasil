@@ -2624,101 +2624,1939 @@
     }
 ],
     "Parques naturais": [
-      {
-        "nome": "Lençóis Maranhenses",
-        "descricao": "Dunas e lagoas cristalinas",
+     {
+        "nome": "Parque Nacional dos Lençóis Maranhenses",
+        "descricao": "Este parque é famoso por suas vastas extensões de dunas de areia branca intercaladas com lagoas cristalinas sazonais. O cenário surreal é um dos mais icônicos do Brasil.",
+        "lat": -2.5333,
+        "lon": -43.1167,
         "detalhes": {
-          "endereço": "Parque Nacional dos Lençóis Maranhenses - Barreirinhas - MA",
-          "hospedagem": "Porto Preguiças Resort",
-          "clima": "Tropical",
-          "transporte": "4x4"
+            "endereço": "Barreirinhas - MA (principal acesso)",
+            "hospedagem": "Pousadas em Barreirinhas, Atins ou Santo Amaro",
+            "clima": "Tropical semiúmido, 28°C em média",
+            "transporte": "Voo até Barreirinhas + passeios de 4x4 ou barco"
         }
+    },
+    {
+        "nome": "Parque Estadual do Mirador",
+        "descricao": "Maior unidade de conservação do Maranhão, protege importantes nascentes de rios e abriga espécies ameaçadas como a onça-pintada.",
+        "lat": -6.3667,
+        "lon": -45.0333,
+        "detalhes": {
+            "endereço": "Mirador - MA",
+            "hospedagem": "Pousadas rústicas em Mirador",
+            "clima": "Tropical semiúmido, 26°C em média",
+            "transporte": "Carro pela BR-226 (12h desde São Luís)"
+        }
+    },
+    {
+        "nome": "Parque Nacional da Chapada das Mesas",
+        "descricao": "Caracterizado por impressionantes formações rochosas em forma de mesas, o parque possui cachoeiras espetaculares como a Pedra Caída (queda de 50m) e a Cachoeira do Santuário.",
+        "lat": -7.0000,
+        "lon": -47.2500,
+        "detalhes": {
+            "endereço": "Carolina - MA (divisa com Tocantins)",
+            "hospedagem": "Pousadas em Carolina ou Riachão",
+            "clima": "Tropical úmido, 25°C em média",
+            "transporte": "Carro pela BR-230 (10h desde São Luís)"
+        }
+    },
+    {
+        "nome": "Parque Estadual da Lagoa do Cajari",
+        "descricao": "Importante berçário natural que protege ecossistemas de manguezais e várzeas, essenciais para a reprodução de espécies aquáticas e aves migratórias na região do Golfão Maranhense.",
+        "lat": -3.5000,
+        "lon": -45.2500,
+        "detalhes": {
+            "endereço": "Carutapera - MA",
+            "hospedagem": "Pousadas em Carutapera",
+            "clima": "Tropical úmido, 27°C em média",
+            "transporte": "Carro pela BR-316 + balsa (8h desde São Luís)"
+        }
+    },
+    {
+        "nome": "Parque Estadual do Bacanga",
+        "descricao": "Localizado na área urbana de São Luís, protege remanescentes de Mata dos Cocais e manguezais.",
+        "lat": -2.5500,
+        "lon": -44.2667,
+        "detalhes": {
+            "endereço": "São Luís - MA",
+            "hospedagem": "Hotéis na capital",
+            "clima": "Tropical úmido, 29°C em média",
+            "transporte": "Ônibus ou carro (15 minutos do centro)"
+        }
+    }
+],
+"Cultura e história": [
+    {
+        "nome": "Centro Histórico de São Luís",
+        "descricao": "Patrimônio Mundial da UNESCO, com mais de 3.500 casarões coloniais revestidos de azulejos portugueses.",
+        "lat": -2.5300,
+        "lon": -44.3028,
+        "detalhes": {
+            "endereço": "Centro, São Luís - MA",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Tropical úmido, média de 29°C",
+            "transporte": "Ônibus, táxi ou a pé"
+        }
+    },
+    {
+        "nome": "Alcântara",
+        "descricao": "Cidade histórica do século XVII, conhecida como a 'cidade que parou no tempo'.",
+        "lat": -2.4083,
+        "lon": -44.4167,
+        "detalhes": {
+            "endereço": "Alcântara - MA",
+            "hospedagem": "Pousadas em casarões restaurados",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Barco desde São Luís (1h) ou lancha rápida"
+        }
+    },
+    {
+        "nome": "Terreiro da Casa Fanti Ashanti",
+        "descricao": "Um dos mais importantes centros de cultura afro-brasileira no Maranhão, preserva tradições do Tambor de Mina.",
+        "lat": -2.5167,
+        "lon": -44.2667,
+        "detalhes": {
+            "endereço": "São Luís - MA",
+            "hospedagem": "Hotéis no centro ou bairros próximos",
+            "clima": "Tropical úmido, média de 29°C",
+            "transporte": "Ônibus ou táxi"
+        }
+    },
+    {
+        "nome": "Vila de Cururupu",
+        "descricao": "Porto histórico com arquitetura colonial e tradições pesqueiras.",
+        "lat": -1.8283,
+        "lon": -44.8683,
+        "detalhes": {
+            "endereço": "Cururupu - MA",
+            "hospedagem": "Pousadas simples na vila",
+            "clima": "Tropical úmido, média de 27°C",
+            "transporte": "Carro pela BR-222 (3h desde São Luís)"
+        }
+    },
+    {
+        "nome": "Forte de Santo Antônio da Barra",
+        "descricao": "Construído em 1612 para proteger São Luís de invasões, é um dos mais antigos do Brasil.",
+        "lat": -2.5333,
+        "lon": -44.3000,
+        "detalhes": {
+            "endereço": "Av. Litorânea, São Luís - MA",
+            "hospedagem": "Hotéis na orla marítima",
+            "clima": "Tropical úmido, média de 29°C",
+            "transporte": "Ônibus ou táxi"
+        }
+    }
+],
+"Museus": [
+    {
+        "nome": "Museu Histórico e Artístico do Maranhão",
+        "descricao": "O museu preserva mobiliário, objetos decorativos e documentos que retratam a vida aristocrática no período áureo da economia algodoeira do Maranhão.",
+        "lat": -2.5289,
+        "lon": -44.3042,
+        "detalhes": {
+            "endereço": "Rua do Sol, 302, Centro, São Luís - MA",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Tropical úmido, média de 29°C",
+            "transporte": "Ônibus ou táxi"
+        }
+    },
+    {
+        "nome": "Museu de Arte Sacra",
+        "descricao": "Localizado no Convento das Mercês, abriga um importante acervo de arte sacra maranhense, com imagens barrocas, paramentos religiosos e peças do século XVII ao XIX.",
+        "lat": -2.5300,
+        "lon": -44.3033,
+        "detalhes": {
+            "endereço": "Rua Jacinto Maia, 51, Centro, São Luís - MA",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Tropical úmido, média de 29°C",
+            "transporte": "Acesso a pé desde a Praça Deodoro"
+        }
+    },
+    {
+        "nome": "Museu da Casa do Maranhão",
+        "descricao": "Dedicado às manifestações culturais do estado, com ênfase no Bumba Meu Boi. Possui exposições interativas sobre festas populares, artesanato e tradições afro-brasileiras.",
+        "lat": -2.5292,
+        "lon": -44.3028,
+        "detalhes": {
+            "endereço": "Rua do Trapiche, s/n, Praia Grande, São Luís - MA",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Tropical úmido, média de 29°C",
+            "transporte": "Ônibus ou táxi"
+        }
+    },
+    {
+        "nome": "Museu do Reggae",
+        "descricao": "Único museu do gênero no Brasil, celebra a cultura reggae em São Luís, conhecida como 'Jamaica Brasileira'. Exibe discos raros, fotos e conta a história do movimento reggae no estado.",
+        "lat": -2.5311,
+        "lon": -44.3050,
+        "detalhes": {
+            "endereço": "Rua da Estrela, 82, Centro, São Luís - MA",
+            "hospedagem": "Hotéis no centro ou bairros próximos",
+            "clima": "Tropical úmido, média de 29°C",
+            "transporte": "Ônibus ou táxi"
+        }
+    },
+    {
+        "nome": "Museu de Alcântara",
+        "descricao": "Instalado no antigo Palácio do Barão de Pindaré, preserva peças do período colonial, incluindo móveis, porcelanas e documentos históricos da aristocracia rural maranhense.",
+        "lat": -2.4083,
+        "lon": -44.4167,
+        "detalhes": {
+            "endereço": "Praça da Matriz, Alcântara - MA",
+            "hospedagem": "Pousadas em Alcântara",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Barco desde São Luís (1h)"
+        }
+    }
+],
+ "Gastronomia": [
+    {
+    "nome": "Feira da Praia Grande",
+    "descricao": "Uma das feiras mais tradicionais de São Luís, oferece uma variedade de pratos típicos maranhenses, como arroz de cuxá, peixe frito e sucos regionais.",
+    "Lat": -2.5300,
+    "lon": -44.3900,
+    "detalhes": {
+        "endereço": "Praia Grande, São Luís - MA",
+        "hospitalagem": "Hotéis e pousadas no centro histórico",
+        "clima": "Tropical úmido, média de 39°C",
+        "transporte": "Ônibus ou táxi"
       }
-    ]
+    },
+    {
+    "nome": "Vila Palmeira",
+    "descricao": "Conhecida por seus bares e restaurantes que servem pratos típicos como torta de camarão e carne de sol com macaxeira.",
+    "Lat": -2.5400,
+    "lon": -44.2800,
+    "detalhes": {
+        "endereço": "Vila Palmeira, São Luís - MA",
+        "hospitalagem": "Hotéis próximos à região",
+        "clima": "Tropical úmido, média de 39°C",
+        "transporte": "Ônibus ou táxi"
+      }
+    },
+    {
+    "nome": "Mercado do Peixe",
+    "descricao": "Famoso pela venda de peixes frescos e pratos regionais como caldeirada e moqueca de peixe.",
+    "Lat": -2.5200,
+    "lon": -44.3800,
+    "detalhes": {
+        "endereço": "Av. Guaxenduba, Centro, São Luís - MA",
+        "hospitalagem": "Hotéis no centro histórico",
+        "clima": "Tropical úmido, média de 39°C",
+        "transporte": "Ônibus ou táxi"
+      }
+    },
+    {
+    "nome": "Feira do Bacanga",
+    "descricao": "Oferece uma experiência autêntica da culinária maranhense, com destaque para o sururu e o caranguejo.",
+    "Lat": -2.5500,
+    "lon": -44.3500,
+    "detalhes": {
+        "endereço": "Bacanga, São Luís - MA",
+        "hospitalagem": "Pousadas e hotéis na região",
+        "clima": "Tropical úmido, média de 39°C",
+        "transporte": "Ônibus ou táxi"
+      }
+    },
+    {
+    "nome": "Restaurante Senac",
+    "descricao": "Referência em gastronomia maranhense, oferece pratos tradicionais como o cuxá e o bobó de camarão em um ambiente sofisticado.",
+    "Lat": -2.5100,
+    "lon": -44.3700,
+    "detalhes": {
+        "endereço": "Rua do Egito, Centro, São Luís - MA",
+        "hospitalagem": "Hotéis no centro histórico",
+        "clima": "Tropical úmido, média de 39°C",
+        "transporte": "Ônibus ou táxi"
+      }
+    }
+]
   },
   "Mato Grosso": {
     "Parques naturais": [
-      {
-        "nome": "Chapada dos Guimarães",
-        "descricao": "Paisagens incríveis e cachoeiras",
-        "detalhes": {
-          "endereço": "Rodovia Emanuel Pinheiro, km 50 - Chapada dos Guimarães - MT",
-          "hospedagem": "Hotel Penhasco",
-          "clima": "Tropical",
-          "transporte": "Carro"
-        }
+    {
+    "nome": "Parque Nacional da Chapada dos Guimarães",
+    "descricao": "Conhecido por suas formações rochosas impressionantes, cachoeiras deslumbrantes e trilhas ecológicas que oferecem vistas panorâmicas únicas.",
+    "Lat": -15.4167,
+    "lon": -55.8333,
+    "detalhes": {
+        "endereço": "Chapada dos Guimarães, MT",
+        "hospedagem": "Pousadas e hotéis na região da Chapada",
+        "clima": "Tropical semiúmido, média de 28°C",
+        "transporte": "Carro particular ou excursões saindo de Cuiabá"
       }
-    ]
+    },
+    {
+    "nome": "Parque Estadual Cristalino",
+    "descricao": "Um dos mais importantes refúgios de biodiversidade da Amazônia, com torres de observação que permitem avistar a copa das árvores e animais silvestres.",
+    "Lat": -9.5333,
+    "lon": -55.8333,
+    "detalhes": {
+        "endereço": "Alta Floresta, MT",
+        "hospedagem": "Lodges ecológicos dentro e próximo ao parque",
+        "clima": "Equatorial úmido, média de 26°C",
+        "transporte": "Voo até Alta Floresta + transporte terrestre"
+      }
+    },
+    {
+    "nome": "Parque Nacional do Pantanal Matogrossense",
+    "descricao": "Patrimônio Natural da Humanidade pela UNESCO, oferece experiências únicas de observação da vida selvagem pantaneira, incluindo jacarés e aves raras.",
+    "Lat": -16.5000,
+    "lon": -56.4167,
+    "detalhes": {
+        "endereço": "Poconé, MT",
+        "hospedagem": "Hotéis-fazenda e pousadas pantaneiras",
+        "clima": "Tropical úmido, média de 32°C",
+        "transporte": "Carro até Poconé + passeios de barco"
+      }
+    },
+    {
+    "nome": "Parque Estadual Serra Azul",
+    "descricao": "Destaca-se por suas formações de cerrado e serras azuladas, com nascentes de água cristalina e trilhas para banho em cachoeiras.",
+    "Lat": -14.9667,
+    "lon": -53.8833,
+    "detalhes": {
+        "endereço": "Barra do Garças, MT",
+        "hospedagem": "Hotéis em Barra do Garças",
+        "clima": "Tropical semiúmido, média de 30°C",
+        "transporte": "Carro ou ônibus até Barra do Garças"
+      }
+    },
+    {
+    "nome": "Parque Municipal Mãe Bonifácia",
+    "descricao": "Principal área verde urbana de Cuiabá, ideal para caminhadas, observação de aves e contato com a natureza sem sair da capital.",
+    "Lat": -15.5833,
+    "lon": -56.0833,
+    "detalhes": {
+        "endereço": "Av. Miguel Sutil - Jardim Fortaleza, Cuiabá - MT",
+        "hospedagem": "Hotéis em Cuiabá",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    }
+],
+"Cultura e história": [
+    {
+    "nome": "Casa do Artesão",
+    "descricao": "Espaço que preserva e comercializa o artesanato típico de Mato Grosso, com peças em cerâmica, madeira e fibras naturais feitas por indígenas e artesãos locais.",
+    "Lat": -15.5969,
+    "lon": -56.0947,
+    "detalhes": {
+        "endereço": "Rua 13 de Junho, 315 - Centro Sul, Cuiabá - MT",
+        "hospedagem": "Hotéis no centro de Cuiabá",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    },
+    {
+    "nome": "Igreja Nossa Senhora do Rosário e São Benedito",
+    "descricao": "Construída no século XVIII, é considerada a igreja mais antiga de Cuiabá e abriga importantes manifestações culturais como a Festa de São Benedito.",
+    "Lat": -15.5964,
+    "lon": -56.0961,
+    "detalhes": {
+        "endereço": "Praça do Rosário, s/n - Centro, Cuiabá - MT",
+        "hospedagem": "Hotéis no centro histórico",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "A pé desde o centro"
+      }
+    },
+    {
+    "nome": "Centro Geodésico da América do Sul",
+    "descricao": "Marco histórico que simboliza o ponto central do continente sul-americano, calculado no século XIX pelo Marechal Rondon.",
+    "Lat": -15.5961,
+    "lon": -56.0967,
+    "detalhes": {
+        "endereço": "Praça Moreira Cabral - Centro, Cuiabá - MT",
+        "hospedagem": "Hotéis no centro de Cuiabá",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    },
+    {
+    "nome": "Casarão do Padre Paes",
+    "descricao": "Importante construção do período colonial que serviu como residência de um dos primeiros sacerdotes de Cuiabá, hoje espaço cultural com eventos e exposições.",
+    "Lat": -15.5958,
+    "lon": -56.0958,
+    "detalhes": {
+        "endereço": "Rua Galdino Pimentel, 21 - Centro, Cuiabá - MT",
+        "hospedagem": "Hotéis no centro histórico",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "A pé desde o centro"
+      }
+    },
+    {
+    "nome": "Memorial Rondon",
+    "descricao": "Homenagem ao marechal Cândido Rondon, explorador e sertanista mato-grossense, com acervo sobre suas expedições e a construção das linhas telegráficas.",
+    "Lat": -15.5972,
+    "lon": -56.0972,
+    "detalhes": {
+        "endereço": "Av. Historiador Rubens de Mendonça - Bosque da Saúde, Cuiabá - MT",
+        "hospedagem": "Hotéis na região central",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    }
+],
+"Museus": [
+      {
+    "nome": "Museu Histórico de Mato Grosso",
+    "descricao": "Instalado no Palácio da Instrução, o museu preserva importantes documentos e objetos que contam a história política e cultural do estado desde o período colonial.",
+    "Lat": -15.5969,
+    "lon": -56.0958,
+    "detalhes": {
+        "endereço": "Praça da República, 131 - Centro, Cuiabá - MT",
+        "hospedagem": "Hotéis no centro histórico",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    },
+    {
+    "nome": "Museu de Arte e Cultura Popular (MACP)",
+    "descricao": "Localizado na Universidade Federal de Mato Grosso, o museu abriga rico acervo de arte popular, com peças que representam as tradições indígenas e regionais.",
+    "Lat": -15.6083,
+    "lon": -56.0644,
+    "detalhes": {
+        "endereço": "Av. Fernando Corrêa da Costa, 2367 - Boa Esperança, Cuiabá - MT",
+        "hospedagem": "Hotéis na região universitária",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    },
+    {
+    "nome": "Museu do Morro da Caixa d'Água Velha",
+    "descricao": "Instalado no primeiro reservatório de água de Cuiabá, construído em 1882, o museu apresenta exposições sobre a história do saneamento e desenvolvimento urbano da cidade.",
+    "Lat": -15.5936,
+    "lon": -56.0939,
+    "detalhes": {
+        "endereço": "Rua Comandante Costa, s/n - Centro, Cuiabá - MT",
+        "hospedagem": "Hotéis no centro histórico",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "A pé desde o centro"
+      }
+    },
+    {
+    "nome": "Museu Rondon",
+    "descricao": "Dedicado à memória do Marechal Cândido Rondon, o museu apresenta artefatos etnográficos, documentos históricos e objetos das expedições pelo interior do Brasil.",
+    "Lat": -15.6081,
+    "lon": -56.0639,
+    "detalhes": {
+        "endereço": "Av. Fernando Corrêa da Costa, 2367 - UFMT, Cuiabá - MT",
+        "hospedagem": "Hotéis na região universitária",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    },
+    {
+    "nome": "Museu de Pré-História Casa Dom Aquino",
+    "descricao": "Aborda a pré-história mato-grossense com fósseis de animais gigantes e artefatos arqueológicos, incluindo um acervo paleontológico de mais de 5 mil peças.",
+    "Lat": -15.6036,
+    "lon": -56.0819,
+    "detalhes": {
+        "endereço": "Av. Beira Rio, 2000 - Jardim Dom Aquino, Cuiabá - MT",
+        "hospedagem": "Hotéis na região do Porto",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    }
+],
+ "Gastronomia": [
+      {
+    "nome": "Feira do Porto",
+    "descricao": "Principal feira gastronômica de Cuiabá, oferece pratos típicos como mojica de pintado, pacu assado e sobá, além de artesanato local.",
+    "Lat": -15.5958,
+    "lon": -56.0961,
+    "detalhes": {
+        "endereço": "Av. Manoel José de Arruda - Porto, Cuiabá - MT",
+        "hospedagem": "Hotéis na região do Porto",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    },
+    {
+    "nome": "Vila Bela da Santíssima Trindade",
+    "descricao": "Primeira capital de Mato Grosso, preserva tradições gastronômicas como o furrundu (doce de mamão) e peixes típicos da região.",
+    "Lat": -15.0089,
+    "lon": -59.9508,
+    "detalhes": {
+        "endereço": "Vila Bela da Santíssima Trindade - MT",
+        "hospedagem": "Pousadas locais",
+        "clima": "Tropical úmido, média de 32°C",
+        "transporte": "Carro particular ou ônibus de Cáceres"
+      }
+    },
+    {
+    "nome": "Feira do Peixe de Várzea Grande",
+    "descricao": "Famosa pela variedade de peixes do Pantanal preparados na hora, incluindo caldo de piranha e pacu frito.",
+    "Lat": -15.6500,
+    "lon": -56.1333,
+    "detalhes": {
+        "endereço": "Av. da FEB, 2200 - Cristo Rei, Várzea Grande - MT",
+        "hospedagem": "Hotéis em Várzea Grande",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    },
+    {
+    "nome": "Cuiabá Antiga",
+    "descricao": "Complexo gastronômico em casarões históricos que oferece desde comida típica mato-grossense até gastronomia contemporânea.",
+    "Lat": -15.5964,
+    "lon": -56.0953,
+    "detalhes": {
+        "endereço": "Rua Voluntários da Pátria, 90 - Porto, Cuiabá - MT",
+        "hospedagem": "Hotéis no centro histórico",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "A pé desde o centro"
+      }
+    },
+    {
+    "nome": "Feira do Largo da Mandioca",
+    "descricao": "Tradicional feira de comida regional onde se encontra desde farofa de banana da terra até licores de frutas do cerrado.",
+    "Lat": -15.5981,
+    "lon": -56.0975,
+    "detalhes": {
+        "endereço": "Largo da Mandioca - Centro, Cuiabá - MT",
+        "hospedagem": "Hotéis no centro histórico",
+        "clima": "Tropical semiúmido, média de 34°C",
+        "transporte": "A pé desde o centro"
+      }
+    }
+]
   },
   "Mato Grosso do Sul": {
     "Parques naturais": [
-      {
-        "nome": "Bonito",
-        "descricao": "Ecoturismo e águas cristalinas",
-        "detalhes": {
-          "endereço": "Rua Cel. Pilad Rebuá, 1785 - Centro, Bonito - MS",
-          "hospedagem": "Zagaia Eco Resort",
-          "clima": "Subtropical",
-          "transporte": "Agência de turismo"
-        }
+     {
+    "nome": "Parque Nacional da Serra da Bodoquena",
+    "descricao": "Conhecido por suas águas cristalinas, grutas e cachoeiras, é um dos principais destinos de ecoturismo do estado, com rica biodiversidade do Cerrado e Pantanal.",
+    "Lat": -20.6500,
+    "lon": -56.8167,
+    "detalhes": {
+        "endereço": "Bodoquena - MS",
+        "hospedagem": "Pousadas em Bonito ou Bodoquena",
+        "clima": "Tropical úmido, média de 28°C",
+        "transporte": "Carro particular ou transfer desde Bonito"
       }
-    ]
+    },
+    {
+    "nome": "Parque Natural Municipal Salto do Sucuriú",
+    "descricao": "Abriga uma das mais belas cachoeiras do estado, com queda d'água de 50 metros de altura, ideal para banho e contemplação da natureza.",
+    "Lat": -22.2214,
+    "lon": -53.3286,
+    "detalhes": {
+        "endereço": "Jardim - MS",
+        "hospedagem": "Hotéis em Jardim ou Bonito",
+        "clima": "Tropical úmido, média de 26°C",
+        "transporte": "Carro particular ou excursões desde Bonito"
+      }
+    },
+    {
+    "nome": "Parque Estadual do Prosa",
+    "descricao": "Localizado em Campo Grande, preserva áreas de Cerrado e é importante para pesquisas e educação ambiental, com trilhas e mirante natural.",
+    "Lat": -20.4667,
+    "lon": -54.6000,
+    "detalhes": {
+        "endereço": "Av. Cônsul Assaf Trad, 4796 - Parque dos Novos Estados, Campo Grande - MS",
+        "hospedagem": "Hotéis em Campo Grande",
+        "clima": "Tropical úmido, média de 30°C",
+        "transporte": "Ônibus urbano ou táxi"
+      }
+    },
+    {
+    "nome": "Parque Nacional das Emas",
+    "descricao": "Patrimônio Natural da Humanidade pela UNESCO, abriga espécies ameaçadas como o tamanduá-bandeira e o tatu-canastra, além de vastas planícies do Cerrado.",
+    "Lat": -18.0833,
+    "lon": -52.9167,
+    "detalhes": {
+        "endereço": "Mineiros - GO (acesso também por MS)",
+        "hospedagem": "Pousadas em Chapadão do Céu (GO)",
+        "clima": "Tropical semiúmido, média de 27°C",
+        "transporte": "Carro 4x4 recomendado"
+      }
+    },
+    {
+    "nome": "Parque Natural Municipal Grutas de São Miguel",
+    "descricao": "Complexo de cavernas e formações calcárias com pinturas rupestres indígenas, além de trilhas e riachos de águas cristalinas.",
+    "Lat": -21.9833,
+    "lon": -56.3833,
+    "detalhes": {
+        "endereço": "São Miguel - MS",
+        "hospedagem": "Pousadas em Bela Vista ou Ponta Porã",
+        "clima": "Tropical úmido, média de 25°C",
+        "transporte": "Carro particular ou excursões"
+      }
+    }
+],
+"Cultura e história": [
+      {
+        "nome": "Marco do Centro Geográfico da América do Sul",
+        "descricao": "Localizado em Chapada dos Guimarães, este marco simboliza o ponto central do continente sul-americano, calculado no século XIX.",
+        "Lat": -15.4606,
+        "lon": -55.7497,
+        "detalhes": {
+            "endereço": "Chapada dos Guimarães - MT",
+            "hospedagem": "Pousadas em Chapada dos Guimarães",
+            "clima": "Tropical semiúmido, média de 26°C",
+            "transporte": "Carro particular ou excursões saindo de Cuiabá"
+        }
+    },
+    {
+        "nome": "Igreja Nossa Senhora Santana",
+        "descricao": "Construída em 1779, é considerada a igreja mais antiga de Mato Grosso do Sul, localizada no distrito de Albuquerque, em Corumbá.",
+        "Lat": -19.0083,
+        "lon": -57.6514,
+        "detalhes": {
+            "endereço": "Distrito de Albuquerque, Corumbá - MS",
+            "hospedagem": "Hotéis em Corumbá",
+            "clima": "Tropical úmido, média de 32°C",
+            "transporte": "Carro ou barco desde Corumbá"
+        }
+    },
+    {
+        "nome": "Casa do Artesão de Campo Grande",
+        "descricao": "Centro cultural que preserva e comercializa o artesanato típico de Mato Grosso do Sul, com peças indígenas e regionais.",
+        "Lat": -20.4686,
+        "lon": -54.6222,
+        "detalhes": {
+            "endereço": "Av. Calógeras, 2050 - Centro, Campo Grande - MS",
+            "hospedagem": "Hotéis no centro de Campo Grande",
+            "clima": "Tropical úmido, média de 30°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Forte Coimbra",
+        "descricao": "Construção militar do século XVIII às margens do Rio Paraguai, importante marco histórico das defesas fronteiriças brasileiras.",
+        "Lat": -19.9333,
+        "lon": -57.8000,
+        "detalhes": {
+            "endereço": "Margem direita do Rio Paraguai, Corumbá - MS",
+            "hospedagem": "Hotéis em Corumbá",
+            "clima": "Tropical úmido, média de 32°C",
+            "transporte": "Barco desde Corumbá"
+        }
+    },
+    {
+        "nome": "Memorial da Cultura Indígena",
+        "descricao": "Espaço dedicado à preservação das tradições dos povos Terena, Kadiwéu e Guarani, com exposição de artefatos e arquitetura tradicional.",
+        "Lat": -20.4697,
+        "lon": -54.6200,
+        "detalhes": {
+            "endereço": "Av. Calógeras, 3000 - Centro, Campo Grande - MS",
+            "hospedagem": "Hotéis no centro de Campo Grande",
+            "clima": "Tropical úmido, média de 30°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    }
+],
+"Museus": [
+      {
+        "nome": "Museu de Arte Contemporânea (MARCO)",
+        "descricao": "Principal espaço de arte contemporânea do estado, com acervo de obras de artistas regionais e nacionais, além de exposições temporárias.",
+        "Lat": -20.4686,
+        "lon": -54.6222,
+        "detalhes": {
+            "endereço": "Av. Calógeras, 1205 - Centro, Campo Grande - MS",
+            "hospedagem": "Hotéis no centro de Campo Grande",
+            "clima": "Tropical úmido, média de 30°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu da Imagem e do Som (MIS)",
+        "descricao": "Preserva a memória audiovisual do estado, com acervo fotográfico, discográfico e equipamentos antigos de comunicação.",
+        "Lat": -20.4694,
+        "lon": -54.6208,
+        "detalhes": {
+            "endereço": "Av. Fernando Corrêa da Costa, 559 - Centro, Campo Grande - MS",
+            "hospedagem": "Hotéis no centro de Campo Grande",
+            "clima": "Tropical úmido, média de 30°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu do Pantanal",
+        "descricao": "Localizado em Corumbá, retrata a história natural e cultural do Pantanal, com exposições sobre a fauna, flora e tradições pantaneiras.",
+        "Lat": -19.0083,
+        "lon": -57.6514,
+        "detalhes": {
+            "endereço": "Rua Manoel Cavassa, 275 - Porto Geral, Corumbá - MS",
+            "hospedagem": "Hotéis em Corumbá",
+            "clima": "Tropical úmido, média de 32°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu de História do Pantanal (MUHPAN)",
+        "descricao": "Navega pela história da região pantaneira desde os primeiros habitantes até os dias atuais, com acervo interativo e tecnologias modernas.",
+        "Lat": -19.0078,
+        "lon": -57.6508,
+        "detalhes": {
+            "endereço": "Rua Manoel Cavassa, 275 - Porto Geral, Corumbá - MS",
+            "hospedagem": "Hotéis em Corumbá",
+            "clima": "Tropical úmido, média de 32°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu José Antônio Pereira",
+        "descricao": "Homenageia o fundador de Campo Grande, com réplicas de construções históricas e objetos que contam a origem da capital sul-mato-grossense.",
+        "Lat": -20.4700,
+        "lon": -54.6211,
+        "detalhes": {
+            "endereço": "Av. Guaicurus, s/n - Jardim Monte Alegre, Campo Grande - MS",
+            "hospedagem": "Hotéis na região central",
+            "clima": "Tropical úmido, média de 30°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    }
+],
+ "Gastronomia": [
+      {
+        "nome": "Feira Central de Campo Grande",
+        "descricao": "Tradicional feira noturna que oferece pratos típicos como o sobá (macarrão oriental adaptado), caldo de piranha e carne de jacaré.",
+        "Lat": -20.4686,
+        "lon": -54.6222,
+        "detalhes": {
+            "endereço": "Av. Calógeras, s/n - Centro, Campo Grande - MS",
+            "hospedagem": "Hotéis no centro de Campo Grande",
+            "clima": "Tropical úmido, média de 30°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Vila Nasser em Corumbá",
+        "descricao": "Famosa por seus restaurantes à beira do Rio Paraguai, especializados em peixes pantaneiros como pacu, pintado e dourado.",
+        "Lat": -19.0083,
+        "lon": -57.6514,
+        "detalhes": {
+            "endereço": "Av. General Rondon, s/n - Centro, Corumbá - MS",
+            "hospedagem": "Hotéis em Corumbá",
+            "clima": "Tropical úmido, média de 32°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Feira do Peixe de Três Lagoas",
+        "descricao": "Conhecida pela variedade de peixes do Rio Paraná preparados na hora, incluindo receitas tradicionais como o pacu assado na brasa.",
+        "Lat": -20.7511,
+        "lon": -51.6783,
+        "detalhes": {
+            "endereço": "Av. Filinto Müller, s/n - Centro, Três Lagoas - MS",
+            "hospedagem": "Hotéis em Três Lagoas",
+            "clima": "Tropical úmido, média de 31°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Casa do Artesão de Bonito",
+        "descricao": "Além de artesanato, oferece degustação de doces e licores típicos da região, como os de bocaiuva e jenipapo.",
+        "Lat": -21.1303,
+        "lon": -56.4819,
+        "detalhes": {
+            "endereço": "Rua Cel. Pilad Rebuá, 1786 - Centro, Bonito - MS",
+            "hospedagem": "Pousadas em Bonito",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus local ou táxi"
+        }
+    },
+    {
+        "nome": "Feira Indígena de Dourados",
+        "descricao": "Espaço onde comunidades indígenas comercializam produtos tradicionais como milho pipoca, mandioca e mel silvestre.",
+        "Lat": -22.2214,
+        "lon": -54.8058,
+        "detalhes": {
+            "endereço": "Av. Marcelino Pires, s/n - Centro, Dourados - MS",
+            "hospedagem": "Hotéis em Dourados",
+            "clima": "Tropical úmido, média de 29°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    }
+]
   },
   "Minas Gerais": {
-    "Cultura e história": [
-      {
-        "nome": "Ouro Preto",
-        "descricao": "Cidade histórica do ciclo do ouro",
+    "Parques naturais": [
+          {
+        "nome": "Parque Nacional da Serra do Cipó",
+        "descricao": "Conhecido por suas cachoeiras deslumbrantes, cânions impressionantes e rica biodiversidade da flora do Cerrado e Campos Rupestres.",
+        "Lat": -19.3833,
+        "lon": -43.5333,
         "detalhes": {
-          "endereço": "Praça Tiradentes, s/n - Centro Histórico, Ouro Preto - MG",
-          "hospedagem": "Hotel Solar do Rosário",
-          "clima": "Ameno",
-          "transporte": "Táxi ou a pé"
+            "endereço": "Serra do Cipó - MG",
+            "hospedagem": "Pousadas em Serra do Cipó ou Lapinha da Serra",
+            "clima": "Tropical de altitude, média de 22°C",
+            "transporte": "Carro particular ou ônibus desde Belo Horizonte"
         }
-      }
-    ]
+    },
+    {
+        "nome": "Parque Estadual do Ibitipoca",
+        "descricao": "Famoso por suas formações rochosas únicas, grutas e mirantes naturais com vistas panorâmicas, além da Lagoa Seca e Pico do Pião.",
+        "Lat": -21.7167,
+        "lon": -43.8833,
+        "detalhes": {
+            "endereço": "Lima Duarte - MG",
+            "hospedagem": "Pousadas em Conceição do Ibitipoca",
+            "clima": "Tropical de altitude, média de 18°C",
+            "transporte": "Carro particular ou transfer desde Juiz de Fora"
+        }
+    },
+    {
+        "nome": "Parque Nacional das Sempre-Vivas",
+        "descricao": "Protege ecossistemas únicos de Campos Rupestres e é famoso pela diversidade de flores sempre-vivas, além de nascentes de importantes rios.",
+        "Lat": -17.8333,
+        "lon": -43.7667,
+        "detalhes": {
+            "endereço": "Região do Alto Jequitinhonha - MG",
+            "hospedagem": "Pousadas em Diamantina ou Buenópolis",
+            "clima": "Tropical semiúmido, média de 24°C",
+            "transporte": "Carro 4x4 recomendado"
+        }
+    },
+    {
+        "nome": "Parque Estadual do Rio Doce",
+        "descricao": "Maior reserva de Mata Atlântica de Minas Gerais, com 42 lagoas naturais, rica fauna silvestre e trilhas ecológicas.",
+        "Lat": -19.6833,
+        "lon": -42.5500,
+        "detalhes": {
+            "endereço": "Marliéria - MG",
+            "hospedagem": "Alojamentos no parque ou hotéis em Timóteo",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Carro particular desde Belo Horizonte"
+        }
+    },
+    {
+        "nome": "Parque Estadual do Biribiri",
+        "descricao": "Situado no distrito de Biribiri em Diamantina, oferece cachoeiras cristalinas, antiga vila operária e paisagens da Serra do Espinhaço.",
+        "Lat": -18.2667,
+        "lon": -43.6000,
+        "detalhes": {
+            "endereço": "Diamantina - MG",
+            "hospedagem": "Pousadas em Diamantina",
+            "clima": "Tropical de altitude, média de 20°C",
+            "transporte": "Carro ou excursão desde Diamantina"
+        }
+    }
+],
+    "Cultura e história": [
+    {
+        "nome": "Centro Histórico de Ouro Preto",
+        "descricao": "Patrimônio Mundial da UNESCO, com igrejas barrocas, casarões coloniais e ruas de paralelepípedos que preservam o auge do ciclo do ouro no Brasil.",
+        "Lat": -20.3856,
+        "lon": -43.5036,
+        "detalhes": {
+            "endereço": "Ouro Preto - MG",
+            "hospedagem": "Pousadas e hotéis históricos na cidade",
+            "clima": "Tropical de altitude, média de 19°C",
+            "transporte": "Ônibus ou carro desde Belo Horizonte"
+        }
+    },
+    {
+        "nome": "Santuário do Bom Jesus de Matosinhos",
+        "descricao": "Conjunto arquitetônico e paisagístico em Congonhas, famoso pelos 12 profetas esculpidos por Aleijadinho e os passos da Paixão.",
+        "Lat": -20.5000,
+        "lon": -43.8578,
+        "detalhes": {
+            "endereço": "Praça do Santuário, s/n - Congonhas - MG",
+            "hospedagem": "Hotéis e pousadas em Congonhas",
+            "clima": "Tropical de altitude, média de 21°C",
+            "transporte": "Ônibus ou carro desde Belo Horizonte"
+        }
+    },
+    {
+        "nome": "Cidade Histórica de Diamantina",
+        "descricao": "Outro Patrimônio Mundial da UNESCO, preserva arquitetura colonial e tradições como a Vesperata, com músicos tocando das sacadas dos casarões.",
+        "Lat": -18.2419,
+        "lon": -43.6031,
+        "detalhes": {
+            "endereço": "Diamantina - MG",
+            "hospedagem": "Pousadas em casarões históricos",
+            "clima": "Tropical de altitude, média de 20°C",
+            "transporte": "Ônibus ou carro desde Belo Horizonte"
+        }
+    },
+    {
+        "nome": "Conjunto Arquitetônico da Pampulha",
+        "descricao": "Projetado por Oscar Niemeyer em Belo Horizonte, inclui a Igreja de São Francisco, o Museu de Arte e o Cassino (atual Museu da Pampulha).",
+        "Lat": -19.8519,
+        "lon": -43.9714,
+        "detalhes": {
+            "endereço": "Av. Otacílio Negrão de Lima - Pampulha, Belo Horizonte - MG",
+            "hospedagem": "Hotéis em Belo Horizonte",
+            "clima": "Tropical de altitude, média de 22°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Arraial do Tijuco em Serro",
+        "descricao": "Cidade histórica que preserva tradições como a fabricação do queijo do Serro e arquitetura colonial em um dos conjuntos mais autênticos de MG.",
+        "Lat": -18.6047,
+        "lon": -43.3806,
+        "detalhes": {
+            "endereço": "Serro - MG",
+            "hospedagem": "Pousadas em casarões coloniais",
+            "clima": "Tropical de altitude, média de 20°C",
+            "transporte": "Carro particular desde Diamantina ou BH"
+        }
+    }
+],
+"Museus": [
+      {
+        "nome": "Museu da Inconfidência",
+        "descricao": "Instalado na antiga Casa de Câmara e Cadeia de Ouro Preto, preserva documentos e objetos relacionados à Inconfidência Mineira e ao ciclo do ouro.",
+        "Lat": -20.3856,
+        "lon": -43.5036,
+        "detalhes": {
+            "endereço": "Praça Tiradentes, 139 - Centro, Ouro Preto - MG",
+            "hospedagem": "Pousadas e hotéis históricos na cidade",
+            "clima": "Tropical de altitude, média de 19°C",
+            "transporte": "Ônibus ou carro desde Belo Horizonte"
+        }
+    },
+    {
+        "nome": "Museu de Arte da Pampulha (MAP)",
+        "descricao": "Primeiro projeto de Oscar Niemeyer no conjunto da Pampulha, abriga importante acervo de arte moderna e contemporânea brasileira.",
+        "Lat": -19.8519,
+        "lon": -43.9714,
+        "detalhes": {
+            "endereço": "Av. Otacílio Negrão de Lima, 16585 - Pampulha, Belo Horizonte - MG",
+            "hospedagem": "Hotéis em Belo Horizonte",
+            "clima": "Tropical de altitude, média de 22°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu do Oratório",
+        "descricao": "Aborda a religiosidade mineira através de uma coleção única de oratórios e imagens sacras dos séculos XVII ao XX.",
+        "Lat": -20.3850,
+        "lon": -43.5033,
+        "detalhes": {
+            "endereço": "Adro da Igreja do Carmo, 28 - Centro, Ouro Preto - MG",
+            "hospedagem": "Pousadas em Ouro Preto",
+            "clima": "Tropical de altitude, média de 19°C",
+            "transporte": "A pé no centro histórico"
+        }
+    },
+    {
+        "nome": "Museu Casa Guignard",
+        "descricao": "Dedicado ao pintor Alberto da Veiga Guignard, funciona na casa onde viveu em Ouro Preto, com obras do artista e exposições temporárias.",
+        "Lat": -20.3861,
+        "lon": -43.5028,
+        "detalhes": {
+            "endereço": "Rua Conde de Bobadela, 110 - Centro, Ouro Preto - MG",
+            "hospedagem": "Pousadas no centro histórico",
+            "clima": "Tropical de altitude, média de 19°C",
+            "transporte": "A pé no centro da cidade"
+        }
+    },
+    {
+        "nome": "Museu de Artes e Ofícios",
+        "descricao": "Localizado na Estação Ferroviária de Belo Horizonte, apresenta o universo do trabalho antes da industrialização, com ferramentas e equipamentos históricos.",
+        "Lat": -19.9167,
+        "lon": -43.9333,
+        "detalhes": {
+            "endereço": "Praça Rui Barbosa, 600 - Centro, Belo Horizonte - MG",
+            "hospedagem": "Hotéis no centro de BH",
+            "clima": "Tropical de altitude, média de 22°C",
+            "transporte": "Metrô (Estação Central) ou ônibus"
+        }
+    }
+],
+"Gastronomia": [
+      {
+        "nome": "Feira Hippie de Belo Horizonte",
+        "descricao": "Maior feira ao ar livre da América Latina, com diversas barracas de comida mineira tradicional como pão de queijo, feijão tropeiro e doce de leite.",
+        "Lat": -19.9167,
+        "lon": -43.9333,
+        "detalhes": {
+            "endereço": "Av. Afonso Pena - Centro, Belo Horizonte - MG",
+            "hospedagem": "Hotéis no centro de BH",
+            "clima": "Tropical de altitude, média de 22°C",
+            "transporte": "Metrô (Estação Central) ou ônibus"
+        }
+    },
+    {
+        "nome": "Vila do Queijo em Serro",
+        "descricao": "Famosa pela produção artesanal do Queijo do Serro, com lojas que oferecem degustação e venda do queijo tradicional e derivados.",
+        "Lat": -18.6047,
+        "lon": -43.3806,
+        "detalhes": {
+            "endereço": "Serro - MG",
+            "hospedagem": "Pousadas em casarões coloniais",
+            "clima": "Tropical de altitude, média de 20°C",
+            "transporte": "Carro particular desde Diamantina ou BH"
+        }
+    },
+    {
+        "nome": "Feira de São Joaquim em Sabará",
+        "descricao": "Tradicional feira que preserva receitas centenárias como o Frango com Quiabo e Angu, além de doces em compotas e licores artesanais.",
+        "Lat": -19.8906,
+        "lon": -43.8069,
+        "detalhes": {
+            "endereço": "Praça Melo Viana - Centro, Sabará - MG",
+            "hospedagem": "Pousadas em Sabará",
+            "clima": "Tropical de altitude, média de 23°C",
+            "transporte": "Ônibus desde Belo Horizonte"
+        }
+    },
+    {
+        "nome": "Vila de Biribiri",
+        "descricao": "Distrito de Diamantina que oferece comidas típicas em ambiente rústico, como costelinha com mandioca e doces de frutas do cerrado.",
+        "Lat": -18.2667,
+        "lon": -43.6000,
+        "detalhes": {
+            "endereço": "Diamantina - MG",
+            "hospedagem": "Pousadas em Diamantina",
+            "clima": "Tropical de altitude, média de 20°C",
+            "transporte": "Carro ou excursão desde Diamantina"
+        }
+    },
+    {
+        "nome": "Feira do Largo da Ordem em Tiradentes",
+        "descricao": "Evento gastronômico aos finais de semana com quitandas mineiras, cachaças artesanais e pratos típicos servidos em ambiente histórico.",
+        "Lat": -21.1103,
+        "lon": -44.1744,
+        "detalhes": {
+            "endereço": "Largo das Forras - Centro, Tiradentes - MG",
+            "hospedagem": "Pousadas charmosas no centro histórico",
+            "clima": "Tropical de altitude, média de 21°C",
+            "transporte": "Ônibus desde São João del-Rei"
+        }
+    }
+]
   },
   "Pará": {
-    "Cultura e história": [
-      {
-        "nome": "Mercado Ver-o-Peso",
-        "descricao": "Mercado tradicional de Belém",
+    "Litoral": [
+        {
+        "nome": "Praia de Alter do Chão",
+        "descricao": "Conhecida como 'Caribe Brasileiro', possui águas cristalinas e areias brancas, formando ilhas fluviais no Rio Tapajós durante a vazante.",
+        "Lat": -2.5069,
+        "lon": -54.9528,
         "detalhes": {
-          "endereço": "Av. Boulevard Castilhos França, s/n - Comércio, Belém - PA",
-          "hospedagem": "Hotel Princesa Louçã",
-          "clima": "Equatorial úmido",
-          "transporte": "Táxi ou ônibus"
+            "endereço": "Alter do Chão, Santarém - PA",
+            "hospedagem": "Pousadas e hotéis à beira do rio",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "Avião até Santarém + barco ou carro"
         }
-      }
-    ]
+    },
+    {
+        "nome": "Praia do Amor",
+        "descricao": "Praia isolada com formações rochosas impressionantes, ideal para banho e contemplação da natureza no Rio Tapajós.",
+        "Lat": -2.4167,
+        "lon": -54.7333,
+        "detalhes": {
+            "endereço": "Ilha do Amor, Alter do Chão - PA",
+            "hospedagem": "Pousadas em Alter do Chão",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "Barco desde Alter do Chão"
+        }
+    },
+    {
+        "nome": "Praia de Marudá",
+        "descricao": "Portal de entrada para a Ilha de Marajó, com extensa faixa de areia e cultura ribeirinha preservada.",
+        "Lat": -0.7500,
+        "lon": -47.6000,
+        "detalhes": {
+            "endereço": "Marudá, Salinópolis - PA",
+            "hospedagem": "Barracas na praia e pousadas simples",
+            "clima": "Equatorial úmido, média de 30°C",
+            "transporte": "Barco desde Belém ou Salinópolis"
+        }
+    },
+    {
+        "nome": "Praia do Pesqueiro",
+        "descricao": "Uma das mais movimentadas de Salinópolis, com infraestrutura de barracas e esportes aquáticos no litoral paraense.",
+        "Lat": -0.6333,
+        "lon": -47.3500,
+        "detalhes": {
+            "endereço": "Salinópolis - PA",
+            "hospedagem": "Hotéis e pousadas em Salinópolis",
+            "clima": "Equatorial úmido, média de 30°C",
+            "transporte": "Ônibus desde Belém"
+        }
+    },
+    {
+        "nome": "Praia de Ajuruteua",
+        "descricao": "Extensa praia oceânica com dunas e manguezais preservados, parte do complexo do Golfão Maranhense.",
+        "Lat": -0.8000,
+        "lon": -46.6000,
+        "detalhes": {
+            "endereço": "Bragança - PA",
+            "hospedagem": "Barracas rústicas na praia",
+            "clima": "Equatorial úmido, média de 31°C",
+            "transporte": "Barco desde Bragança"
+        }
+    }
+],
+"Parques naturais": [
+      {
+        "nome": "Parque Nacional da Amazônia",
+        "descricao": "Um dos maiores parques nacionais do Brasil, protege uma extensa área da Floresta Amazônica com rica biodiversidade, incluindo espécies ameaçadas como a onça-pintada e o peixe-boi.",
+        "Lat": -4.4500,
+        "lon": -56.8333,
+        "detalhes": {
+            "endereço": "Itaituba - PA",
+            "hospedagem": "Pousadas em Itaituba ou lodges fluviais",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "Barco desde Itaituba ou Santarém"
+        }
+    },
+    {
+        "nome": "Parque Estadual do Utinga",
+        "descricao": "Localizado na região metropolitana de Belém, protege importantes mananciais de água e oferece trilhas, mirantes e observação de fauna silvestre.",
+        "Lat": -1.4167,
+        "lon": -48.4000,
+        "detalhes": {
+            "endereço": "Av. João Paulo II, s/n - Belém - PA",
+            "hospedagem": "Hotéis em Belém",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Parque Nacional dos Campos Ferruginosos",
+        "descricao": "Protege ecossistemas únicos de campos rupestres sobre formações ferruginosas na Serra dos Carajás, com espécies endêmicas da flora.",
+        "Lat": -6.0833,
+        "lon": -50.1500,
+        "detalhes": {
+            "endereço": "Parauapebas - PA",
+            "hospedagem": "Hotéis em Parauapebas",
+            "clima": "Equatorial úmido, média de 30°C",
+            "transporte": "Carro particular desde Parauapebas"
+        }
+    },
+    {
+        "nome": "Parque Estadual Monte Alegre",
+        "descricao": "Abriga sítios arqueológicos com pinturas rupestres milenares e formações geológicas impressionantes na região do Baixo Amazonas.",
+        "Lat": -1.9833,
+        "lon": -54.0667,
+        "detalhes": {
+            "endereço": "Monte Alegre - PA",
+            "hospedagem": "Pousadas em Monte Alegre",
+            "clima": "Equatorial úmido, média de 33°C",
+            "transporte": "Barco desde Santarém"
+        }
+    },
+    {
+        "nome": "Parque Estadual Charapucu",
+        "descricao": "Área de proteção ambiental na região do Araguaia, com lagos, igarapés e fauna diversificada, incluindo aves migratórias.",
+        "Lat": -5.1667,
+        "lon": -48.2667,
+        "detalhes": {
+            "endereço": "Araguatins - TO (acesso pelo PA)",
+            "hospedagem": "Pousadas em Araguatins",
+            "clima": "Equatorial úmido, média de 34°C",
+            "transporte": "Barco desde Marabá ou Imperatriz"
+        }
+    }
+],
+    "Cultura e história": [
+    {
+        "nome": "Complexo Feliz Lusitânia",
+        "descricao": "Conjunto arquitetônico no centro histórico de Belém que inclui a Fortaleza do Castelo, a Catedral da Sé e o Museu de Arte Sacra, representando a fundação da cidade.",
+        "Lat": -1.4542,
+        "lon": -48.5033,
+        "detalhes": {
+            "endereço": "Praça Dom Frei Caetano Brandão - Cidade Velha, Belém - PA",
+            "hospedagem": "Hotéis no centro histórico de Belém",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Ver-o-Peso",
+        "descricao": "Famoso mercado público às margens da Baía do Guajará, símbolo da cultura paraense com venda de produtos regionais, ervas medicinais e artesanato.",
+        "Lat": -1.4519,
+        "lon": -48.5036,
+        "detalhes": {
+            "endereço": "Av. Boulevard Castilhos França - Campina, Belém - PA",
+            "hospedagem": "Hotéis no centro de Belém",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "A pé desde o centro histórico"
+        }
+    },
+    {
+        "nome": "Cidade Histórica de Vigia",
+        "descricao": "Uma das primeiras povoações portuguesas na Amazônia, preserva casarões coloniais e a Igreja de São Francisco Xavier do século XVIII.",
+        "Lat": -0.8500,
+        "lon": -48.1500,
+        "detalhes": {
+            "endereço": "Vigia de Nazaré - PA",
+            "hospedagem": "Pousadas locais",
+            "clima": "Equatorial úmido, média de 31°C",
+            "transporte": "Barco ou ônibus desde Belém"
+        }
+    },
+    {
+        "nome": "Engenho do Murutucu",
+        "descricao": "Ruínas de um dos mais importantes engenhos de cana-de-açúcar do período colonial na Amazônia, com arquitetura do século XVIII.",
+        "Lat": -1.4167,
+        "lon": -48.4333,
+        "detalhes": {
+            "endereço": "Rod. Augusto Montenegro - Belém - PA",
+            "hospedagem": "Hotéis em Belém",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Forte do Presépio",
+        "descricao": "Primeira construção militar portuguesa na Amazônia (1616), marco fundador de Belém, com vista para a Baía do Guajará e exposições sobre o período colonial.",
+        "Lat": -1.4544,
+        "lon": -48.5031,
+        "detalhes": {
+            "endereço": "Praça Dom Frei Caetano Brandão - Cidade Velha, Belém - PA",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "A pé desde o centro"
+        }
+    }
+],
+"Museus": [
+      {
+        "nome": "Museu Emílio Goeldi",
+        "descricao": "Importante instituição de pesquisa científica na Amazônia, com acervo de história natural, etnografia e um zoológico com espécies da região.",
+        "Lat": -1.4544,
+        "lon": -48.4900,
+        "detalhes": {
+            "endereço": "Av. Magalhães Barata, 376 - São Brás, Belém - PA",
+            "hospedagem": "Hotéis na região central de Belém",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu de Arte Sacra do Pará",
+        "descricao": "Instalado na Igreja de Santo Alexandre, apresenta importante acervo de arte sacra colonial amazônica dos séculos XVII ao XIX.",
+        "Lat": -1.4542,
+        "lon": -48.5033,
+        "detalhes": {
+            "endereço": "Praça Frei Caetano Brandão - Cidade Velha, Belém - PA",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "A pé desde o centro"
+        }
+    },
+    {
+        "nome": "Museu do Círio",
+        "descricao": "Dedicado à maior manifestação religiosa da Amazônia, o Círio de Nazaré, com acervo de ex-votos, fotografias e objetos históricos da festa.",
+        "Lat": -1.4539,
+        "lon": -48.5036,
+        "detalhes": {
+            "endereço": "Praça Justo Chermont - Cidade Velha, Belém - PA",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "A pé desde a Basílica de Nazaré"
+        }
+    },
+    {
+        "nome": "Museu do Forte do Castelo",
+        "descricao": "Localizado no Forte do Presépio, apresenta achados arqueológicos e painéis sobre a fundação de Belém e a colonização portuguesa na Amazônia.",
+        "Lat": -1.4544,
+        "lon": -48.5031,
+        "detalhes": {
+            "endereço": "Praça Dom Frei Caetano Brandão - Cidade Velha, Belém - PA",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "A pé desde o centro"
+        }
+    },
+    {
+        "nome": "Museu do Estado do Pará (MEP)",
+        "descricao": "Instalado no Palácio Lauro Sodré, apresenta acervo histórico e artístico que retrata a evolução política e cultural do estado.",
+        "Lat": -1.4547,
+        "lon": -48.5039,
+        "detalhes": {
+            "endereço": "Praça Dom Pedro II - Cidade Velha, Belém - PA",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "A pé desde o centro"
+        }
+    }
+],
+ "Gastronomia": [
+      {
+        "nome": "Feira do Açaí do Ver-o-Peso",
+        "descricao": "Tradicional feira onde se encontra o melhor açaí do Pará, preparado na hora e servido com peixe frito, farinha e camarão seco.",
+        "Lat": -1.4519,
+        "lon": -48.5036,
+        "detalhes": {
+            "endereço": "Av. Boulevard Castilhos França - Campina, Belém - PA",
+            "hospedagem": "Hotéis no centro de Belém",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "A pé desde o centro histórico"
+        }
+    },
+    {
+        "nome": "Vila Sorriso em Marudá",
+        "descricao": "Comunidade de pescadores que oferece pratos típicos com camarão e caranguejo frescos, além da famosa 'torta de camarão'.",
+        "Lat": -0.7500,
+        "lon": -47.6000,
+        "detalhes": {
+            "endereço": "Marudá, Salinópolis - PA",
+            "hospedagem": "Barracas na praia e pousadas simples",
+            "clima": "Equatorial úmido, média de 30°C",
+            "transporte": "Barco desde Belém ou Salinópolis"
+        }
+    },
+    {
+        "nome": "Feira do Peixe de Bragança",
+        "descricao": "Famosa pela variedade de peixes e frutos do mar do litoral paraense, como o pescado assado na folha de bananeira.",
+        "Lat": -1.0667,
+        "lon": -46.7667,
+        "detalhes": {
+            "endereço": "Av. São Sebastião - Centro, Bragança - PA",
+            "hospedagem": "Pousadas em Bragança",
+            "clima": "Equatorial úmido, média de 31°C",
+            "transporte": "Ônibus desde Belém"
+        }
+    },
+    {
+        "nome": "Mercado de Carne de Marabá",
+        "descricao": "Conhecido pelos pratos com carne de búfalo, como o famoso 'churrasco de búfalo' e o 'vatapá de carne'.",
+        "Lat": -5.3500,
+        "lon": -49.1167,
+        "detalhes": {
+            "endereço": "Av. Antônio Maia - Centro, Marabá - PA",
+            "hospedagem": "Hotéis em Marabá",
+            "clima": "Equatorial úmido, média de 34°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Feira do Tacacá da Doca",
+        "descricao": "Ponto tradicional em Belém para degustar o autêntico tacacá paraense, preparado com tucupi, jambu e camarão seco.",
+        "Lat": -1.4533,
+        "lon": -48.4986,
+        "detalhes": {
+            "endereço": "Av. Boulevard Castilhos França - Doca, Belém - PA",
+            "hospedagem": "Hotéis no centro de Belém",
+            "clima": "Equatorial úmido, média de 32°C",
+            "transporte": "A pé desde o centro"
+        }
+    }
+]
   },
   "Paraíba": {
     "Litoral": [
-      {
+    {
         "nome": "Praia de Tambaba",
-        "descricao": "Praia naturista em João Pessoa",
+        "descricao": "Famosa por ser uma das poucas praias de naturismo oficial do Brasil, com falésias coloridas e piscinas naturais formadas pelos recifes.",
+        "Lat": -7.1981,
+        "lon": -34.8208,
         "detalhes": {
-          "endereço": "Praia de Tambaba - Conde - PB",
-          "hospedagem": "Pousada Aruanã",
-          "clima": "Tropical",
-          "transporte": "Carro ou ônibus"
+            "endereço": "Conde - PB",
+            "hospedagem": "Pousadas em Conde ou João Pessoa",
+            "clima": "Tropical, média de 28°C",
+            "transporte": "Carro ou ônibus desde João Pessoa"
         }
-      }
-    ]
+    },
+    {
+        "nome": "Praia do Jacaré",
+        "descricao": "Conhecida pelo pôr do sol ao som do Bolero de Ravel, com bares flutuantes no Rio Paraíba e passeios de catamarã.",
+        "Lat": -7.0167,
+        "lon": -34.8417,
+        "detalhes": {
+            "endereço": "Cabedelo - PB",
+            "hospedagem": "Pousadas em Cabedelo",
+            "clima": "Tropical, média de 28°C",
+            "transporte": "Ônibus desde João Pessoa"
+        }
+    },
+    {
+        "nome": "Praia de Coqueirinho",
+        "descricao": "Uma das mais belas da Paraíba, com coqueirais, falésias avermelhadas e mar calmo ideal para banho.",
+        "Lat": -7.1833,
+        "lon": -34.8500,
+        "detalhes": {
+            "endereço": "Conde - PB",
+            "hospedagem": "Pousadas à beira-mar",
+            "clima": "Tropical, média de 28°C",
+            "transporte": "Carro particular desde João Pessoa"
+        }
+    },
+    {
+        "nome": "Praia de Cabo Branco",
+        "descricao": "Urbanizada em João Pessoa, com famosa estátua do Iemanjá, calçadão e mirante no ponto mais oriental das Américas.",
+        "Lat": -7.1458,
+        "lon": -34.7939,
+        "detalhes": {
+            "endereço": "João Pessoa - PB",
+            "hospedagem": "Hotéis e pousadas na orla",
+            "clima": "Tropical, média de 28°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Praia do Seixas",
+        "descricao": "Considerada o ponto mais oriental das Américas, com mar tranquilo e vista para o Farol do Cabo Branco.",
+        "Lat": -7.1500,
+        "lon": -34.7917,
+        "detalhes": {
+            "endereço": "João Pessoa - PB",
+            "hospedagem": "Hotéis na Ponta do Seixas",
+            "clima": "Tropical, média de 28°C",
+            "transporte": "Ônibus ou táxi desde o centro"
+        }
+    }
+],
+"Parques naturais": [
+      {
+        "nome": "Parque Estadual da Mata do Pau-Ferro",
+        "descricao": "Reserva de Mata Atlântica que abriga espécies endêmicas da flora e fauna, com trilhas ecológicas e cachoeiras.",
+        "Lat": -6.7667,
+        "lon": -35.7000,
+        "detalhes": {
+            "endereço": "Areia - PB",
+            "hospedagem": "Pousadas em Areia",
+            "clima": "Tropical úmido, média de 24°C",
+            "transporte": "Carro particular desde João Pessoa"
+        }
+    },
+    {
+        "nome": "Parque Estadual da Pedra da Boca",
+        "descricao": "Famosa por suas formações rochosas impressionantes, ideais para escalada e rapel, com mirantes naturais.",
+        "Lat": -6.4500,
+        "lon": -35.4833,
+        "detalhes": {
+            "endereço": "Araruna - PB",
+            "hospedagem": "Pousadas em Araruna",
+            "clima": "Tropical semiúmido, média de 26°C",
+            "transporte": "Carro particular desde Campina Grande"
+        }
+    },
+    {
+        "nome": "Parque Natural Municipal do Pico do Jabre",
+        "descricao": "Ponto mais alto da Paraíba (1.197m), com vegetação de caatinga e cerrado, ideal para trekking e observação de aves.",
+        "Lat": -7.2500,
+        "lon": -37.4000,
+        "detalhes": {
+            "endereço": "Matureia - PB",
+            "hospedagem": "Pousadas em Matureia",
+            "clima": "Semiárido, média de 28°C",
+            "transporte": "Carro particular desde Patos"
+        }
+    },
+    {
+        "nome": "Parque Estadual Marinho de Areia Vermelha",
+        "descricao": "Banco de areia que emerge na maré baixa formando uma piscina natural, com rica vida marinha e passeios de barco.",
+        "Lat": -7.0167,
+        "lon": -34.8333,
+        "detalhes": {
+            "endereço": "Cabedelo - PB",
+            "hospedagem": "Hotéis em Cabedelo ou João Pessoa",
+            "clima": "Tropical, média de 28°C",
+            "transporte": "Barco desde Cabedelo"
+        }
+    },
+    {
+        "nome": "Parque Ecológico Engenho Água Fria",
+        "descricao": "Área de preservação ambiental com trilhas, nascentes e remanescentes de Mata Atlântica, próximo à capital.",
+        "Lat": -7.1333,
+        "lon": -34.8833,
+        "detalhes": {
+            "endereço": "João Pessoa - PB",
+            "hospedagem": "Hotéis em João Pessoa",
+            "clima": "Tropical úmido, média de 27°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    }
+],
+"Cultura e história": [
+      {
+        "nome": "Centro Histórico de João Pessoa",
+        "descricao": "Conjunto arquitetônico colonial com casarões coloridos, igrejas barrocas e o famoso Hotel Globo, marco da arquitetura art déco na cidade.",
+        "Lat": -7.1167,
+        "lon": -34.8833,
+        "detalhes": {
+            "endereço": "Centro, João Pessoa - PB",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Forte de Santa Catarina",
+        "descricao": "Construção militar do século XVI em Cabedelo, que protegía a entrada do Rio Paraíba e foi palco de batalhas contra invasores holandeses.",
+        "Lat": -7.0167,
+        "lon": -34.8333,
+        "detalhes": {
+            "endereço": "Cabedelo - PB",
+            "hospedagem": "Pousadas em Cabedelo",
+            "clima": "Tropical, média de 28°C",
+            "transporte": "Ônibus desde João Pessoa"
+        }
+    },
+    {
+        "nome": "Igreja de São Francisco",
+        "descricao": "Conjunto barroco do século XVIII em João Pessoa, com igreja e convento considerados uma das mais belas expressões da arte sacra no Nordeste.",
+        "Lat": -7.1167,
+        "lon": -34.8833,
+        "detalhes": {
+            "endereço": "Praça São Francisco - Centro, João Pessoa - PB",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "A pé no centro"
+        }
+    },
+    {
+        "nome": "Farol do Cabo Branco",
+        "descricao": "Símbolo de João Pessoa e marco do ponto mais oriental das Américas, com arquitetura moderna em forma de estrela.",
+        "Lat": -7.1458,
+        "lon": -34.7939,
+        "detalhes": {
+            "endereço": "Av. Cabo Branco - João Pessoa - PB",
+            "hospedagem": "Hotéis na orla",
+            "clima": "Tropical, média de 28°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Casarão do Padre Rolim",
+        "descricao": "Antiga residência do líder da Revolução de 1817 em Areia, preservando características da arquitetura e mobiliário do período colonial.",
+        "Lat": -6.9667,
+        "lon": -35.7000,
+        "detalhes": {
+            "endereço": "Rua Pedro Américo - Centro, Areia - PB",
+            "hospedagem": "Pousadas em Areia",
+            "clima": "Tropical úmido, média de 24°C",
+            "transporte": "Carro desde João Pessoa"
+        }
+    }
+],
+"Museus": [
+      {
+        "nome": "Museu Casa de José Américo",
+        "descricao": "Antiga residência do escritor e político José Américo de Almeida, preservando seu acervo pessoal, biblioteca e objetos que contam a história cultural da Paraíba.",
+        "Lat": -7.1167,
+        "lon": -34.8667,
+        "detalhes": {
+            "endereço": "Av. Cabo Branco, 3336 - Tambaú, João Pessoa - PB",
+            "hospedagem": "Hotéis na orla de João Pessoa",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu de Arte Sacra São Frei Pedro Gonçalves",
+        "descricao": "Localizado no Convento de Santo Antônio, exibe importante coleção de arte sacra dos séculos XVII ao XIX, incluindo imagens barrocas e paramentos religiosos.",
+        "Lat": -7.1167,
+        "lon": -34.8833,
+        "detalhes": {
+            "endereço": "Praça São Francisco - Centro, João Pessoa - PB",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "A pé no centro"
+        }
+    },
+    {
+        "nome": "Museu Fotográfico Walfredo Rodriguez",
+        "descricao": "Preserva a memória visual da Paraíba através de fotografias históricas, equipamentos antigos e exposições temporárias sobre a evolução da fotografia.",
+        "Lat": -7.1167,
+        "lon": -34.8833,
+        "detalhes": {
+            "endereço": "Praça Antenor Navarro - Centro, João Pessoa - PB",
+            "hospedagem": "Hotéis no centro",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu do Brejo Paraibano",
+        "descricao": "Documenta a cultura e tradições da região do Brejo paraibano, com acervo sobre engenhos de cana-de-açúcar, arte popular e folclore regional.",
+        "Lat": -6.9667,
+        "lon": -35.7000,
+        "detalhes": {
+            "endereço": "Rua Pedro Américo - Centro, Areia - PB",
+            "hospedagem": "Pousadas em Areia",
+            "clima": "Tropical úmido, média de 24°C",
+            "transporte": "Carro desde João Pessoa"
+        }
+    },
+    {
+        "nome": "Museu Histórico e Geográfico de Campina Grande",
+        "descricao": "Preserva documentos, fotografias e objetos que contam a história da desenvolvimento da segunda maior cidade da Paraíba e sua importância regional.",
+        "Lat": -7.2333,
+        "lon": -35.8833,
+        "detalhes": {
+            "endereço": "Praça da Bandeira - Centro, Campina Grande - PB",
+            "hospedagem": "Hotéis em Campina Grande",
+            "clima": "Tropical semiárido, média de 26°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    }
+],
+ "Gastronomia": [
+      {
+        "nome": "Feira Central de Campina Grande",
+        "descricao": "Uma das maiores feiras ao ar livre do Nordeste, oferece pratos típicos como buchada de bode, galinha à cabidela e tapioca com queijo coalho.",
+        "Lat": -7.2306,
+        "lon": -35.8811,
+        "detalhes": {
+            "endereço": "Centro, Campina Grande - PB",
+            "hospedagem": "Hotéis no centro de Campina Grande",
+            "clima": "Tropical semiárido, média de 26°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Vila do Artesão em João Pessoa",
+        "descricao": "Além de artesanato, oferece barracas com comidas regionais como carne de sol com macaxeira e queijo de coalho grelhado.",
+        "Lat": -7.1333,
+        "lon": -34.8833,
+        "detalhes": {
+            "endereço": "Av. Pres. Epitácio Pessoa - Tambaú, João Pessoa - PB",
+            "hospedagem": "Hotéis na orla de João Pessoa",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Feira de São Vicente em Itabaiana",
+        "descricao": "Famosa pela variedade de pratos com carne de bode, incluindo o tradicional 'bode assado na lata', especialidade da região.",
+        "Lat": -7.3333,
+        "lon": -35.3333,
+        "detalhes": {
+            "endereço": "Centro, Itabaiana - PB",
+            "hospedagem": "Pousadas em Itabaiana",
+            "clima": "Tropical semiárido, média de 28°C",
+            "transporte": "Ônibus desde João Pessoa ou Campina Grande"
+        }
+    },
+    {
+        "nome": "Mercado Público de Cabedelo",
+        "descricao": "Especializado em frutos do mar frescos, com restaurantes que servem moqueca de peixe, camarão na moranga e caldinho de sururu.",
+        "Lat": -7.0167,
+        "lon": -34.8333,
+        "detalhes": {
+            "endereço": "Av. Presidente João Pessoa - Centro, Cabedelo - PB",
+            "hospedagem": "Pousadas em Cabedelo",
+            "clima": "Tropical, média de 28°C",
+            "transporte": "Ônibus desde João Pessoa"
+        }
+    },
+    {
+        "nome": "Feira do Agricultor em Bananeiras",
+        "descricao": "Oferece produtos orgânicos e comidas típicas da região do Brejo paraibano, como bolos de macaxeira e licores de frutas regionais.",
+        "Lat": -6.7500,
+        "lon": -35.6333,
+        "detalhes": {
+            "endereço": "Praça Epitácio Pessoa - Centro, Bananeiras - PB",
+            "hospedagem": "Pousadas em Bananeiras",
+            "clima": "Tropical úmido, média de 24°C",
+            "transporte": "Carro desde João Pessoa"
+        }
+    }
+]
   },
   "Paraná": {
-    "Parques naturais": [
-      {
-        "nome": "Cataratas do Iguaçu",
-        "descricao": "Uma das maiores quedas d'água do mundo",
+    "Litoral": [
+          {
+        "nome": "Praia de Matinhos",
+        "descricao": "Uma das mais movimentadas do litoral paranaense, com extensa faixa de areia, ondas fortes ideais para surf e estrutura completa de serviços.",
+        "Lat": -25.8167,
+        "lon": -48.5333,
         "detalhes": {
-          "endereço": "Parque Nacional do Iguaçu - Foz do Iguaçu - PR",
-          "hospedagem": "Belmond Hotel das Cataratas",
-          "clima": "Subtropical",
-          "transporte": "Excursão ou ônibus"
+            "endereço": "Matinhos - PR",
+            "hospedagem": "Hotéis e pousadas à beira-mar",
+            "clima": "Subtropical úmido, média de 22°C",
+            "transporte": "Ônibus desde Curitiba ou carro pela BR-277"
         }
-      }
-    ]
+    },
+    {
+        "nome": "Praia de Caiobá",
+        "descricao": "Famosa por suas formações rochosas e piscinas naturais na maré baixa, além do Morro do Cristo com vista panorâmica.",
+        "Lat": -25.8667,
+        "lon": -48.5833,
+        "detalhes": {
+            "endereço": "Matinhos - PR",
+            "hospedagem": "Resorts e pousadas na orla",
+            "clima": "Subtropical úmido, média de 22°C",
+            "transporte": "Ônibus desde Curitiba"
+        }
+    },
+    {
+        "nome": "Praia do Guaratuba",
+        "descricao": "Situada na baía de mesmo nome, oferece águas calmas ideais para famílias e passeios de barco pelas ilhas próximas.",
+        "Lat": -25.8833,
+        "lon": -48.5833,
+        "detalhes": {
+            "endereço": "Guaratuba - PR",
+            "hospedagem": "Pousadas no centro e orla",
+            "clima": "Subtropical úmido, média de 23°C",
+            "transporte": "Balsa desde Paranaguá ou carro"
+        }
+    },
+    {
+        "nome": "Praia de Pontal do Paraná",
+        "descricao": "Conhecida por ser próxima ao Complexo Estuarino de Paranaguá, com areias douradas e gastronomia baseada em frutos do mar.",
+        "Lat": -25.5833,
+        "lon": -48.3500,
+        "detalhes": {
+            "endereço": "Pontal do Paraná - PR",
+            "hospedagem": "Cabanas e pousadas rústicas",
+            "clima": "Subtropical úmido, média de 23°C",
+            "transporte": "Ônibus desde Curitiba"
+        }
+    },
+    {
+        "nome": "Praia de Superagui",
+        "descricao": "Localizada no Parque Nacional do Superagui, acesso apenas por barco, com natureza preservada e possibilidade de avistar botos.",
+        "Lat": -25.4167,
+        "lon": -48.2333,
+        "detalhes": {
+            "endereço": "Paranaguá - PR (acesso por barco)",
+            "hospedagem": "Pousadas simples na vila",
+            "clima": "Subtropical úmido, média de 24°C",
+            "transporte": "Barco desde Paranaguá"
+        }
+    }
+],
+    "Parques naturais": [
+    {
+        "nome": "Parque Nacional do Iguaçu",
+        "descricao": "Patrimônio Natural da Humanidade pela UNESCO, abriga as Cataratas do Iguaçu, uma das maiores e mais impressionantes quedas d'água do mundo, cercadas por floresta subtropical.",
+        "Lat": -25.6833,
+        "lon": -54.4333,
+        "detalhes": {
+            "endereço": "Foz do Iguaçu - PR",
+            "hospedagem": "Hotéis em Foz do Iguaçu",
+            "clima": "Subtropical úmido, média de 22°C",
+            "transporte": "Avião até Foz do Iguaçu + transporte local"
+        }
+    },
+    {
+        "nome": "Parque Nacional de Superagui",
+        "descricao": "Protege ecossistemas costeiros como manguezais, restingas e a Ilha do Superagui, habitat do ameaçado mico-leão-de-cara-preta e diversas aves migratórias.",
+        "Lat": -25.4167,
+        "lon": -48.2333,
+        "detalhes": {
+            "endereço": "Guaraqueçaba - PR",
+            "hospedagem": "Pousadas rústicas na vila de Superagui",
+            "clima": "Subtropical úmido, média de 24°C",
+            "transporte": "Barco desde Paranaguá"
+        }
+    },
+    {
+        "nome": "Parque Estadual de Vila Velha",
+        "descricao": "Famoso por suas formações areníticas esculpidas pela erosão, além das furnas (grandes crateras com lagos).",
+        "Lat": -25.2333,
+        "lon": -50.0000,
+        "detalhes": {
+            "endereço": "Ponta Grossa - PR",
+            "hospedagem": "Hotéis em Ponta Grossa",
+            "clima": "Subtropical, média de 18°C",
+            "transporte": "Carro ou ônibus desde Curitiba"
+        }
+    },
+    {
+        "nome": "Parque Estadual do Marumbi",
+        "descricao": "Protege parte da Serra do Mar paranaense, com picos que chegam a 1.500m de altitude, trilhas desafiadoras e rica biodiversidade da Mata Atlântica.",
+        "Lat": -25.4500,
+        "lon": -48.9333,
+        "detalhes": {
+            "endereço": "Morretes - PR",
+            "hospedagem": "Pousadas em Morretes",
+            "clima": "Subtropical úmido, média de 20°C",
+            "transporte": "Trem da Serra Verde Express ou carro"
+        }
+    },
+    {
+        "nome": "Parque Estadual do Pau Oco",
+        "descricao": "Área de preservação com formações rochosas impressionantes, cachoeiras e trilhas que levam a mirantes naturais na Serra da Prata.",
+        "Lat": -25.7833,
+        "lon": -48.7167,
+        "detalhes": {
+            "endereço": "Morretes - PR",
+            "hospedagem": "Pousadas em Morretes ou Antonina",
+            "clima": "Subtropical úmido, média de 21°C",
+            "transporte": "Carro desde Curitiba"
+        }
+    }
+],
+"Cultura e história": [
+      {
+        "nome": "Centro Histórico de Curitiba",
+        "descricao": "Conjunto arquitetônico que preserva edificações dos séculos XIX e XX, incluindo a Praça Tiradentes, marco zero da cidade, e a Catedral Basílica Menor.",
+        "Lat": -25.4297,
+        "lon": -49.2719,
+        "detalhes": {
+            "endereço": "Centro, Curitiba - PR",
+            "hospedagem": "Hotéis no centro da cidade",
+            "clima": "Subtropical úmido, média de 18°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Caminho do Itupava",
+        "descricao": "Antiga trilha calçada por índios e escravos no século XVII, ligando Curitiba ao litoral, com trechos preservados de paralelepípedos e pontes de madeira.",
+        "Lat": -25.3833,
+        "lon": -48.9833,
+        "detalhes": {
+            "endereço": "Quatro Barras - PR (acesso principal)",
+            "hospedagem": "Pousadas em Quatro Barras ou Morretes",
+            "clima": "Subtropical úmido, média de 19°C",
+            "transporte": "Carro desde Curitiba"
+        }
+    },
+    {
+        "nome": "Igreja Nossa Senhora do Rosário",
+        "descricao": "Construída por escravos em 1737 em Antonina, é considerada a igreja mais antiga do Paraná, com arquitetura barroca simples.",
+        "Lat": -25.4286,
+        "lon": -48.7119,
+        "detalhes": {
+            "endereço": "Praça Coronel Macedo - Centro, Antonina - PR",
+            "hospedagem": "Pousadas em Antonina",
+            "clima": "Subtropical úmido, média de 21°C",
+            "transporte": "Carro ou trem desde Curitiba"
+        }
+    },
+    {
+        "nome": "Forte Nossa Senhora dos Prazeres",
+        "descricao": "Construção militar do século XVIII na Ilha do Mel, projetada para defender a Baía de Paranaguá contra invasores, com vista panorâmica.",
+        "Lat": -25.5500,
+        "lon": -48.3167,
+        "detalhes": {
+            "endereço": "Ilha do Mel - Paranaguá - PR",
+            "hospedagem": "Pousadas na Ilha do Mel",
+            "clima": "Subtropical úmido, média de 23°C",
+            "transporte": "Barco desde Paranaguá ou Pontal do Paraná"
+        }
+    },
+    {
+        "nome": "Vila Histórica de Lapa",
+        "descricao": "Preserva casarios coloniais e o Teatro São João, palco da Revolução Federalista (1894), com arquitetura típica do século XIX.",
+        "Lat": -25.7667,
+        "lon": -49.7167,
+        "detalhes": {
+            "endereço": "Centro, Lapa - PR",
+            "hospedagem": "Pousadas em casarões históricos",
+            "clima": "Subtropical, média de 17°C",
+            "transporte": "Carro ou ônibus desde Curitiba"
+        }
+    }
+],
+"Museus": [
+    {
+        "nome": "Museu Oscar Niemeyer (MON)",
+        "descricao": "Conhecido como 'Museu do Olho' por sua arquitetura icônica, abriga exposições de artes visuais, arquitetura e design, com ênfase na obra de Oscar Niemeyer.",
+        "Lat": -25.4489,
+        "lon": -49.2392,
+        "detalhes": {
+            "endereço": "Rua Marechal Hermes, 999 - Centro Cívico, Curitiba - PR",
+            "hospedagem": "Hotéis na região central de Curitiba",
+            "clima": "Subtropical úmido, média de 18°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu Paranaense",
+        "descricao": "Mais antigo museu do Paraná, fundado em 1876, com acervo histórico, antropológico e arqueológico que conta a formação do estado.",
+        "Lat": -25.4297,
+        "lon": -49.2719,
+        "detalhes": {
+            "endereço": "Rua Kellers, 289 - São Francisco, Curitiba - PR",
+            "hospedagem": "Hotéis no centro de Curitiba",
+            "clima": "Subtropical úmido, média de 18°C",
+            "transporte": "A pé desde o centro"
+        }
+    },
+    {
+        "nome": "Museu de Arte Contemporânea do Paraná (MAC-PR)",
+        "descricao": "Importante acervo de arte moderna e contemporânea brasileira, com obras de artistas paranaenses e nacionais de destaque.",
+        "Lat": -25.4297,
+        "lon": -49.2719,
+        "detalhes": {
+            "endereço": "Rua Desembargador Westphalen, 16 - Centro, Curitiba - PR",
+            "hospedagem": "Hotéis no centro",
+            "clima": "Subtropical úmido, média de 18°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu do Expedicionário",
+        "descricao": "Homenagem aos soldados paranaenses na Segunda Guerra Mundial, com uniformes, armas, documentos e um raro tanque Sherman em exposição.",
+        "Lat": -25.4297,
+        "lon": -49.2719,
+        "detalhes": {
+            "endereço": "Praça do Expedicionário - Alto da XV, Curitiba - PR",
+            "hospedagem": "Hotéis na região central",
+            "clima": "Subtropical úmido, média de 18°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu Histórico de Londrina",
+        "descricao": "Instalado na antiga Estação Ferroviária, preserva a memória da colonização do norte do Paraná, com ênfase no ciclo do café.",
+        "Lat": -23.3100,
+        "lon": -51.1628,
+        "detalhes": {
+            "endereço": "Rua Benjamin Constant, 900 - Centro, Londrina - PR",
+            "hospedagem": "Hotéis no centro de Londrina",
+            "clima": "Subtropical úmido, média de 22°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    }
+],
+ "Gastronomia": [
+      {
+        "nome": "Feira do Largo da Ordem",
+        "descricao": "Tradicional feira em Curitiba que reúne artesanato, música e gastronomia, com destaque para o barreado (prato típico paranaense) e pão de mel artesanal.",
+        "Lat": -25.4297,
+        "lon": -49.2719,
+        "detalhes": {
+            "endereço": "Largo da Ordem - Centro Histórico, Curitiba - PR",
+            "hospedagem": "Hotéis no centro de Curitiba",
+            "clima": "Subtropical úmido, média de 18°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Vila de Morretes",
+        "descricao": "Famosa pelo barreado (cozido de carne em panela de barro) e pela cachaça artesanal, em meio a casarios coloniais às margens do Rio Nhundiaquara.",
+        "Lat": -25.4833,
+        "lon": -48.8333,
+        "detalhes": {
+            "endereço": "Centro, Morretes - PR",
+            "hospedagem": "Pousadas em casarões históricos",
+            "clima": "Subtropical úmido, média de 21°C",
+            "transporte": "Trem da Serra Verde Express ou carro"
+        }
+    },
+    {
+        "nome": "Mercado Municipal de Curitiba",
+        "descricao": "Oferece produtos típicos como pinhão, queijo do interior e melado de cana, além de restaurantes com pratos da culinária paranaense.",
+        "Lat": -25.4297,
+        "lon": -49.2719,
+        "detalhes": {
+            "endereço": "Av. Sete de Setembro, 1865 - Centro, Curitiba - PR",
+            "hospedagem": "Hotéis no centro",
+            "clima": "Subtropical úmido, média de 18°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Feira do Produtor de Ponta Grossa",
+        "descricao": "Conhecida pela variedade de produtos coloniais, como queijos, embutidos e doces caseiros, além de pratos típicos da região dos Campos Gerais.",
+        "Lat": -25.1000,
+        "lon": -50.1500,
+        "detalhes": {
+            "endereço": "Av. Visconde de Mauá - Centro, Ponta Grossa - PR",
+            "hospedagem": "Hotéis em Ponta Grossa",
+            "clima": "Subtropical, média de 17°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Vila de Antonina",
+        "descricao": "Além do barreado, oferece pratos com frutos do mar frescos da Baía de Paranaguá, servidos em restaurantes à beira do rio.",
+        "Lat": -25.4286,
+        "lon": -48.7119,
+        "detalhes": {
+            "endereço": "Centro, Antonina - PR",
+            "hospedagem": "Pousadas à beira-mar",
+            "clima": "Subtropical úmido, média de 21°C",
+            "transporte": "Carro ou trem desde Curitiba"
+        }
+    }
+]
   },
   "Pernambuco": {
     "Cultura e história": [
@@ -2847,7 +4685,7 @@
   "São Paulo": {
     "Litoral": [
       {
-        "nome": "Praia da Ilha das Couves KING CALCULOS 2",
+        "nome": "Praia da Ilha das Couves",
         "descricao": "Paraíso com mar em tons de esmeralda e azul, considerado uma das praias mais bonitas de SP",
         "lat": -23.4225,
         "lon": -44.8559,
