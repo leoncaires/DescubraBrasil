@@ -1,0 +1,244 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --gray: #3b3b3b;
+  --gray1: #2c2c2c;
+  --gray2: #222222;
+  --gray3: #1a1a1a;
+  --white: #ffffff;
+  --menu-hover: #444;
+  --azul: #89e0ff;
+  --primary-color: #4285f4;
+  --primary-hover: #3367d6;
+  --text-color: rgb(250, 196, 145);
+  --user-color: rgb(10, 207, 10);
+  --border-color: #ddd;
+  --shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: var(--gray1);
+  margin: 0;
+  display: flex;
+}
+
+#topo {
+  position: fixed;
+  top: 5%;
+  left: 17%;
+  font-size: 25px;
+  font-weight: bold;
+  color: var(--text-color);
+  z-index: 1000;
+}
+
+/* Layout principal */
+#layout {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+/* Menu lateral */
+#menu {
+  width: 250px;
+  background-color: var(--gray2);
+  color: var(--text-color);
+  padding: 20px 0;
+  border-radius: 10px;
+}
+
+#menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#menu li {
+  padding: 15px 20px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+#menu li:hover {
+  background-color: var(--menu-hover);
+}
+
+/* Área do chat */
+#caixa {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  position: relative;
+  background-color: var(--gray1);
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+#chat {
+  padding: 20px;
+  background-color: var(--gray1);
+  color: white;
+  height: 80%;
+  width: 600px;
+  margin: 0 auto;
+  scrollbar-width: none;
+  flex-grow: 1;
+  overflow-y: auto;
+  position: relative;
+  text-align: left;
+  margin-bottom: 70px;
+  font-size: 18px;
+}
+
+#chat::-webkit-scrollbar {
+  display: none;
+}
+
+/* Mensagens */
+.bot, .user {
+  margin-bottom: 15px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  max-width: 90%;
+  word-wrap: break-word;
+}
+
+.bot {
+  color: white;
+  background-color: var(--gray2);
+}
+
+.user {
+  color: var(--user-color);
+}
+
+.bot strong {
+  color: var(--text-color);
+}
+
+/* Listas e opções */
+.lista {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px 0;
+  border-left: 3px solid var(--white);
+}
+
+.opcao {
+  margin: 5px 0;
+  color: var(--primary-color);
+  cursor: pointer;
+}
+
+.opcao:hover {
+  text-decoration: underline;
+}
+
+/* Barra de pesquisa */
+#barradepesquisa {
+  position: absolute;
+  bottom: 10px;
+  left: 57%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  background-color: var(--gray);
+  border-radius: 40px;
+  padding: 5px 10px;
+  width: 60%;
+  z-index: 10;
+  height: 7%;
+}
+
+#barradepesquisa input {
+  flex-grow: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: white;
+  font-size: 16px;
+  padding-left: 10px;
+}
+
+#botao-pesquisa {
+  background-color: rgb(85, 85, 85);
+  border: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input::placeholder,
+input::-webkit-input-placeholder,
+input::-moz-placeholder,
+input:-ms-input-placeholder,
+input::-ms-input-placeholder {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* Mapa e componentes interativos */
+#map-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 300px;
+  height: 200px;
+  z-index: 10;
+  border: 2px solid #0078A8;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow);
+}
+
+/* Botões */
+button, .btn-hospedagem, .btn-ultima {
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 5px 0;
+  font-size: 14px;
+  transition: background 0.3s;
+}
+
+button:hover, .btn-hospedagem:hover, .btn-ultima:hover {
+  background-color: var(--primary-hover);
+}
+
+/* Elementos específicos */
+.bot img {
+  display: block;
+  margin: 5px 0;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  padding: 2px;
+  max-width: 100%;
+}

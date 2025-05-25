@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Descubra Brasil</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+  <div id="topo"> DescubraBrasil</div>
+  <div id="layout">
+    <nav id="menu">
+      <ul>
+        <li>Início</li>
+        <li>Sobre</li>
+        <li>Ajuda</li>
+        <li>Contato</li>
+      </ul>
+    </nav>
+
+    <main id="caixa">
+       <div id="map-container">
+    <div id="map"></div>
+  </div>
+      <div id="chat"></div>
+      
+      
+   
+    </main>
+  </div>
+  <div id="barradepesquisa">
+    <input type="text" id="mensagem" placeholder="Mensagem DescubraBrasil" autocomplete="off" autocorrect="off" spellcheck="false">
+    
+    <button id="botao-pesquisa" onclick="enviarMensagem()">
+      🔍
+    </button>
+  </div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="static/app.js"></script>
+</body>
+</html>
