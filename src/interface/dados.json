@@ -2817,7 +2817,7 @@
     "lon": -44.3900,
     "detalhes": {
         "endereço": "Praia Grande, São Luís - MA",
-        "hospitalagem": "Hotéis e pousadas no centro histórico",
+        "hospedagem": "Hotéis e pousadas no centro histórico",
         "clima": "Tropical úmido, média de 39°C",
         "transporte": "Ônibus ou táxi"
       }
@@ -2829,7 +2829,7 @@
     "lon": -44.2800,
     "detalhes": {
         "endereço": "Vila Palmeira, São Luís - MA",
-        "hospitalagem": "Hotéis próximos à região",
+        "hospedagem": "Hotéis próximos à região",
         "clima": "Tropical úmido, média de 39°C",
         "transporte": "Ônibus ou táxi"
       }
@@ -2841,7 +2841,7 @@
     "lon": -44.3800,
     "detalhes": {
         "endereço": "Av. Guaxenduba, Centro, São Luís - MA",
-        "hospitalagem": "Hotéis no centro histórico",
+        "hospedagem": "Hotéis no centro histórico",
         "clima": "Tropical úmido, média de 39°C",
         "transporte": "Ônibus ou táxi"
       }
@@ -2853,7 +2853,7 @@
     "lon": -44.3500,
     "detalhes": {
         "endereço": "Bacanga, São Luís - MA",
-        "hospitalagem": "Pousadas e hotéis na região",
+        "hospedagem": "Pousadas e hotéis na região",
         "clima": "Tropical úmido, média de 39°C",
         "transporte": "Ônibus ou táxi"
       }
@@ -2865,7 +2865,7 @@
     "lon": -44.3700,
     "detalhes": {
         "endereço": "Rua do Egito, Centro, São Luís - MA",
-        "hospitalagem": "Hotéis no centro histórico",
+        "hospedagem": "Hotéis no centro histórico",
         "clima": "Tropical úmido, média de 39°C",
         "transporte": "Ônibus ou táxi"
       }
@@ -4559,129 +4559,2378 @@
 ]
   },
   "Pernambuco": {
-    "Cultura e história": [
-      {
-        "nome": "Recife Antigo",
-        "descricao": "Centro histórico e cultural de Recife",
+    "Litoral": [
+        {
+        "nome": "Praia de Porto de Galinhas",
+        "descricao": "Famosa pelas piscinas naturais de águas cristalinas e areias brancas, ideal para mergulho e observação de peixes coloridos. Um dos destinos mais visitados do Nordeste.",
+        "Lat": -8.4833,
+        "lon": -35.0000,
         "detalhes": {
-          "endereço": "Rua do Bom Jesus - Recife Antigo, Recife - PE",
-          "hospedagem": "Atlante Plaza",
-          "clima": "Tropical",
-          "transporte": "Táxi, ônibus"
+            "endereço": "Ipojuca - PE",
+            "hospedagem": "Resorts, hotéis e pousadas à beira-mar",
+            "clima": "Tropical úmido, média de 27°C",
+            "transporte": "Ônibus desde Recife ou carro pela BR-101"
         }
-      }
-    ]
+    },
+    {
+        "nome": "Praia de Boa Viagem",
+        "descricao": "Principal praia urbana de Recife, com extenso calçadão, coqueirais e piscinas naturais formadas pelos recifes. Centro da vida noturna e gastronômica da capital.",
+        "Lat": -8.1333,
+        "lon": -34.9000,
+        "detalhes": {
+            "endereço": "Bairro de Boa Viagem, Recife - PE",
+            "hospedagem": "Hotéis de luxo e pousadas na orla",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Praia de Tamandaré",
+        "descricao": "Conhecida pelas águas calmas e verdes, é sede do Centro de Preservação do Peixe-Boi Marinho e possui excelente infraestrutura turística.",
+        "Lat": -8.7500,
+        "lon": -35.1000,
+        "detalhes": {
+            "endereço": "Tamandaré - PE",
+            "hospedagem": "Pousadas e resorts ecológicos",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Ônibus desde Recife ou carro"
+        }
+    },
+    {
+        "nome": "Praia de Maracaípe",
+        "descricao": "Vizinha a Porto de Galinhas, é point do surf nacional com ondas fortes e constante movimento de jovens e esportistas. Abriga o famoso passeio de jangada até as piscinas naturais.",
+        "Lat": -8.5000,
+        "lon": -35.0167,
+        "detalhes": {
+            "endereço": "Ipojuca - PE",
+            "hospedagem": "Pousadas rústicas e ecológicas",
+            "clima": "Tropical úmido, média de 27°C",
+            "transporte": "Ônibus desde Recife ou Porto de Galinhas"
+        }
+    },
+    {
+        "nome": "Praia de Itamaracá",
+        "descricao": "Ilha histórica com praias tranquilas, o Forte Orange (século XVII) e o Centro de Visitação do Peixe-Boi Marinho. Destaque para a Praia do Forte e Coroa do Avião.",
+        "Lat": -7.7500,
+        "lon": -34.8333,
+        "detalhes": {
+            "endereço": "Ilha de Itamaracá - PE",
+            "hospedagem": "Pousadas familiares e hotéis históricos",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus desde Recife ou barco"
+        }
+    }
+],
+"Parques naturais": [
+      {
+        "nome": "Parque Nacional do Catimbau",
+        "descricao": "Conhecido como 'Vale do Catimbau', possui formações rochosas impressionantes, sítios arqueológicos com pinturas rupestres e uma biodiversidade única da Caatinga.",
+        "Lat": -8.5667,
+        "lon": -37.2167,
+        "detalhes": {
+            "endereço": "Buíque - PE",
+            "hospedagem": "Pousadas em Buíque ou Tupanatinga",
+            "clima": "Semiárido, média de 28°C",
+            "transporte": "Carro desde Recife (4h de viagem)"
+        }
+    },
+    {
+        "nome": "Parque Estadual Mata da Pimenteira",
+        "descricao": "Importante remanescente de Mata Atlântica no agreste pernambucano, com trilhas ecológicas e nascentes que abastecem a região.",
+        "Lat": -8.2833,
+        "lon": -36.0167,
+        "detalhes": {
+            "endereço": "Serra Talhada - PE",
+            "hospedagem": "Pousadas em Serra Talhada",
+            "clima": "Tropical semiúmido, média de 26°C",
+            "transporte": "Carro desde Recife (5h de viagem)"
+        }
+    },
+    {
+        "nome": "Parque Municipal da Pedra da Xangô",
+        "descricao": "Área protegida em Salvador que inclui formações rochosas sagradas para religiões de matriz africana, com trilhas e mirantes naturais.",
+        "Lat": -12.9167,
+        "lon": -38.4333,
+        "detalhes": {
+            "endereço": "Salvador - BA (embora administrado por PE)",
+            "hospedagem": "Hotéis em Salvador",
+            "clima": "Tropical úmido, média de 27°C",
+            "transporte": "Ônibus urbano em Salvador"
+        }
+    },
+    {
+        "nome": "Parque Estadual Dois Irmãos",
+        "descricao": "Um dos últimos remanescentes de Mata Atlântica na região metropolitana do Recife, abrigando o Zoológico Dois Irmãos e diversas espécies nativas.",
+        "Lat": -8.0500,
+        "lon": -34.9500,
+        "detalhes": {
+            "endereço": "Praça Farias Neves, s/n - Dois Irmãos, Recife - PE",
+            "hospedagem": "Hotéis em Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Parque Natural Municipal Professor João Vasconcelos Sobrinho",
+        "descricao": "Protege ecossistemas de brejo de altitude no agreste, com cachoeiras e trilhas que levam a mirantes com vista panorâmica.",
+        "Lat": -8.3667,
+        "lon": -36.6500,
+        "detalhes": {
+            "endereço": "Caruaru - PE",
+            "hospedagem": "Hotéis em Caruaru",
+            "clima": "Tropical semiúmido, média de 25°C",
+            "transporte": "Carro desde Recife (2h de viagem)"
+        }
+    }
+],
+    "Cultura e história": [
+    {
+        "nome": "Centro Histórico de Olinda",
+        "descricao": "Patrimônio Mundial da UNESCO, com ladeiras de paralelepípedos, igrejas barrocas e casarios coloniais coloridos que preservam a memória do período colonial.",
+        "Lat": -8.0167,
+        "lon": -34.8500,
+        "detalhes": {
+            "endereço": "Olinda - PE",
+            "hospedagem": "Pousadas em casarões históricos",
+            "clima": "Tropical úmido, média de 27°C",
+            "transporte": "Ônibus desde Recife"
+        }
+    },
+    {
+        "nome": "Forte das Cinco Pontas",
+        "descricao": "Última construção holandesa no Brasil (1630), abriga o Museu da Cidade do Recife e oferece vista panorâmica do porto.",
+        "Lat": -8.0639,
+        "lon": -34.8736,
+        "detalhes": {
+            "endereço": "Praça das Cinco Pontas - São José, Recife - PE",
+            "hospedagem": "Hotéis no centro do Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Instituto Ricardo Brennand",
+        "descricao": "Complexo cultural em estilo medieval que abriga um dos mais importantes acervos de armaduras e arte colonial brasileira, além de jardins escultóricos.",
+        "Lat": -8.0392,
+        "lon": -34.9589,
+        "detalhes": {
+            "endereço": "Alameda Antônio Brennand - Várzea, Recife - PE",
+            "hospedagem": "Hotéis na zona oeste do Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus especial ou táxi"
+        }
+    },
+    {
+        "nome": "Casa da Cultura",
+        "descricao": "Antigo presídio transformado em centro de artesanato, com celas que viraram lojas de produtos típicos nordestinos e apresentações culturais.",
+        "Lat": -8.0639,
+        "lon": -34.8736,
+        "detalhes": {
+            "endereço": "Rua Floriano Peixoto - São José, Recife - PE",
+            "hospedagem": "Hotéis no centro do Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "A pé desde o Marco Zero"
+        }
+    },
+    {
+        "nome": "Sítio Histórico de Igarassu",
+        "descricao": "Abriga a Igreja dos Santos Cosme e Damião (1535), considerada a mais antiga em funcionamento no Brasil, e um conjunto arquitetônico colonial preservado.",
+        "Lat": -7.8333,
+        "lon": -34.9000,
+        "detalhes": {
+            "endereço": "Centro, Igarassu - PE",
+            "hospedagem": "Pousadas em casarões históricos",
+            "clima": "Tropical úmido, média de 27°C",
+            "transporte": "Ônibus desde Recife"
+        }
+    }
+],
+"Museus": [
+      {
+        "nome": "Museu Cais do Sertão",
+        "descricao": "Moderno museu interativo que celebra a cultura sertaneja, com foco na vida e obra de Luiz Gonzaga, usando tecnologia para imersão no universo do sertão nordestino.",
+        "Lat": -8.0639,
+        "lon": -34.8714,
+        "detalhes": {
+            "endereço": "Av. Alfredo Lisboa, s/n - Recife Antigo, Recife - PE",
+            "hospedagem": "Hotéis no centro histórico do Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "A pé desde o Marco Zero"
+        }
+    },
+    {
+        "nome": "Museu do Homem do Nordeste",
+        "descricao": "Apresenta a formação sociocultural da região através de acervo antropológico, com ênfase nas tradições populares, ciclos econômicos e sincretismo religioso.",
+        "Lat": -8.0392,
+        "lon": -34.9589,
+        "detalhes": {
+            "endereço": "Av. 17 de Agosto, 2187 - Casa Forte, Recife - PE",
+            "hospedagem": "Hotéis na zona norte do Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus ou táxi"
+        }
+    },
+    {
+        "nome": "Museu de Arte Moderna Aloísio Magalhães (MAMAM)",
+        "descricao": "Importante centro de arte contemporânea, com acervo de obras de artistas pernambucanos e nacionais, instalado em sobrado histórico no Recife Antigo.",
+        "Lat": -8.0639,
+        "lon": -34.8736,
+        "detalhes": {
+            "endereço": "Rua da Aurora, 265 - Boa Vista, Recife - PE",
+            "hospedagem": "Hotéis no centro do Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu do Estado de Pernambuco",
+        "descricao": "Instalado no Palácio da Soledade, apresenta acervo histórico e artístico que vai do período colonial ao século XX, incluindo mobiliário e arte sacra.",
+        "Lat": -8.0500,
+        "lon": -34.8833,
+        "detalhes": {
+            "endereço": "Av. Rui Barbosa, 960 - Graças, Recife - PE",
+            "hospedagem": "Hotéis na zona norte do Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus ou táxi"
+        }
+    },
+    {
+        "nome": "Museu da Abolição",
+        "descricao": "Único no país dedicado à memória da escravidão e abolição, instalado no sobrado que foi residência do conselheiro João Alfredo, ministro que assinou a Lei Áurea.",
+        "Lat": -8.0500,
+        "lon": -34.9000,
+        "detalhes": {
+            "endereço": "Rua Benfica, 1150 - Madalena, Recife - PE",
+            "hospedagem": "Hotéis na zona oeste do Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus ou táxi"
+        }
+    }
+],
+"Gastronomia": [
+      {
+        "nome": "Feira de São José",
+        "descricao": "Tradicional feira livre no centro do Recife, famosa pela diversidade de comidas típicas como bolo de rolo, tapioca e carne de sol com macaxeira.",
+        "Lat": -8.0639,
+        "lon": -34.8736,
+        "detalhes": {
+            "endereço": "Praça Dom Vital - São José, Recife - PE",
+            "hospedagem": "Hotéis no centro do Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus urbano ou metrô (Estação Recife)"
+        }
+    },
+    {
+        "nome": "Vila Velha em Olinda",
+        "descricao": "Conjunto de bares e restaurantes no centro histórico que servem pratos como sarapatel, dobradinha e a autêntica feijoada pernambucana, em ambiente colonial.",
+        "Lat": -8.0167,
+        "lon": -34.8500,
+        "detalhes": {
+            "endereço": "Rua do Amparo - Carmo, Olinda - PE",
+            "hospedagem": "Pousadas em Olinda",
+            "clima": "Tropical úmido, média de 27°C",
+            "transporte": "Ônibus desde Recife"
+        }
+    },
+    {
+        "nome": "Mercado da Boa Vista",
+        "descricao": "Centenário mercado público com barracas que oferecem desde acarajé até o tradicional buchada de bode, além de doces regionais como cartola e suspiro.",
+        "Lat": -8.0500,
+        "lon": -34.8833,
+        "detalhes": {
+            "endereço": "Praça da Boa Vista - Boa Vista, Recife - PE",
+            "hospedagem": "Hotéis na zona norte do Recife",
+            "clima": "Tropical úmido, média de 28°C",
+            "transporte": "Ônibus urbano"
+        }
+    },
+    {
+        "nome": "Feira de Caruaru",
+        "descricao": "Maior feira ao ar livre do Nordeste, com setor gastronômico especializado em pratos como sarapatel, panelada e a famosa galinha à cabidela.",
+        "Lat": -8.2833,
+        "lon": -35.9667,
+        "detalhes": {
+            "endereço": "Centro, Caruaru - PE",
+            "hospedagem": "Hotéis em Caruaru",
+            "clima": "Tropical semiúmido, média de 25°C",
+            "transporte": "Ônibus desde Recife (2h de viagem)"
+        }
+    },
+    {
+        "nome": "Vila de Porto de Galinhas",
+        "descricao": "Além das praias, oferece restaurantes à beira-mar especializados em frutos do frescos como moquecas e caldeiradas, além do tradicional camarão na moranga.",
+        "Lat": -8.4833,
+        "lon": -35.0000,
+        "detalhes": {
+            "endereço": "Centro, Porto de Galinhas - PE",
+            "hospedagem": "Resorts e pousadas à beira-mar",
+            "clima": "Tropical úmido, média de 27°C",
+            "transporte": "Ônibus desde Recife (1h30 de viagem)"
+        }
+    }
+]
   },
   "Piauí": {
-    "Parques naturais": [
-      {
-        "nome": "Parque Nacional Serra da Capivara",
-        "descricao": "Sítios arqueológicos com pinturas rupestres",
+    "Litoral": [
+        {
+        "nome": "Praia do Coqueiro",
+        "descricao": "Considerada uma das mais belas do Piauí, com águas calmas e cristalinas, cercada por coqueirais e dunas. Ideal para banho e relaxamento.",
+        "Lat": -3.0833,
+        "lon": -41.8333,
         "detalhes": {
-          "endereço": "Rodovia PI-140, s/n - São Raimundo Nonato - PI",
-          "hospedagem": "Hotel Serra da Capivara",
-          "clima": "Semiárido",
-          "transporte": "Carro"
+            "endereço": "Luís Correia - PI",
+            "hospedagem": "Pousadas à beira-mar",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "Carro ou ônibus desde Teresina (270 km)"
         }
-      }
-    ]
+    },
+    {
+        "nome": "Praia de Atalaia",
+        "descricao": "Principal praia de Parnaíba, com estrutura turística completa, bares e restaurantes. Conhecida pelo pôr do sol espetacular no Delta do Parnaíba.",
+        "Lat": -2.9167,
+        "lon": -41.7667,
+        "detalhes": {
+            "endereço": "Parnaíba - PI",
+            "hospedagem": "Hotéis e pousadas na orla",
+            "clima": "Tropical semiúmido, média de 29°C",
+            "transporte": "Ônibus desde Teresina ou carro"
+        }
+    },
+    {
+        "nome": "Praia do Arrombado",
+        "descricao": "Nome curioso para uma praia de águas calmas e areias brancas, cercada por falésias. Acesso por trilha ou barco, com cenário paradisíaco.",
+        "Lat": -2.9500,
+        "lon": -41.3333,
+        "detalhes": {
+            "endereço": "Cajueiro da Praia - PI",
+            "hospedagem": "Pousadas rústicas",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "Barco desde Luís Correia"
+        }
+    },
+    {
+        "nome": "Praia do Peito de Moça",
+        "descricao": "Nome poético para uma praia de dunas douradas e águas verdes, com formações rochosas que criam piscinas naturais na maré baixa.",
+        "Lat": -3.0667,
+        "lon": -41.8500,
+        "detalhes": {
+            "endereço": "Luís Correia - PI",
+            "hospedagem": "Pousadas em Luís Correia",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "Carro ou táxi desde Luís Correia"
+        }
+    },
+    {
+        "nome": "Praia da Pedra do Sal",
+        "descricao": "Famosa por sua grande formação rochosa que dá nome à praia, com ondas fortes ideais para surf. Ponto de encontro de jovens e esportistas.",
+        "Lat": -2.9333,
+        "lon": -41.7833,
+        "detalhes": {
+            "endereço": "Parnaíba - PI",
+            "hospedagem": "Pousadas em Parnaíba",
+            "clima": "Tropical semiúmido, média de 29°C",
+            "transporte": "Ônibus local ou táxi"
+        }
+    }
+],
+    "Parques naturais": [
+    {
+        "nome": "Parque Nacional da Serra da Capivara",
+        "descricao": "Patrimônio Mundial da UNESCO, famoso por seus sítios arqueológicos com pinturas rupestres datadas de até 25.000 anos, em meio a formações rochosas impressionantes da caatinga.",
+        "Lat": -8.6667,
+        "lon": -42.5333,
+        "detalhes": {
+            "endereço": "São Raimundo Nonato - PI",
+            "hospedagem": "Pousadas em São Raimundo Nonato",
+            "clima": "Semiárido, média de 32°C",
+            "transporte": "Carro desde Teresina (530 km) ou Petrolina (300 km)"
+        }
+    },
+    {
+        "nome": "Parque Nacional das Sete Cidades",
+        "descricao": "Conhecido por suas formações rochosas esculpidas pela erosão em formas curiosas que lembram animais e objetos, além de sítios arqueológicos com inscrições rupestres.",
+        "Lat": -4.0833,
+        "lon": -41.7000,
+        "detalhes": {
+            "endereço": "Piripiri - PI",
+            "hospedagem": "Pousadas em Piripiri",
+            "clima": "Tropical semiúmido, média de 28°C",
+            "transporte": "Carro desde Teresina (180 km)"
+        }
+    },
+    {
+        "nome": "Parque Estadual do Delta do Parnaíba",
+        "descricao": "Protege o único delta em mar aberto das Américas, com manguezais, dunas e ilhas fluviais que abrigam aves migratórias e espécies como o peixe-boi marinho.",
+        "Lat": -2.7833,
+        "lon": -41.7333,
+        "detalhes": {
+            "endereço": "Parnaíba - PI",
+            "hospedagem": "Pousadas em Parnaíba ou Tutóia (MA)",
+            "clima": "Tropical úmido, média de 29°C",
+            "transporte": "Barco desde Parnaíba"
+        }
+    },
+    {
+        "nome": "Parque Estadual da Serra das Confusões",
+        "descricao": "Vizinho à Serra da Capivara, possui cânions, cavernas e sítios arqueológicos ainda pouco explorados, em uma área remota e preservada de caatinga.",
+        "Lat": -9.1667,
+        "lon": -43.5000,
+        "detalhes": {
+            "endereço": "Caracol - PI",
+            "hospedagem": "Pousadas rústicas em Caracol",
+            "clima": "Semiárido, média de 34°C",
+            "transporte": "Carro 4x4 recomendado"
+        }
+    },
+    {
+        "nome": "Parque Municipal da Cachoeira do Urubu",
+        "descricao": "Área de preservação com cachoeiras e piscinas naturais no Rio Poti, importante oásis de biodiversidade no semiárido piauiense.",
+        "Lat": -5.0833,
+        "lon": -42.8000,
+        "detalhes": {
+            "endereço": "Teresina - PI",
+            "hospedagem": "Hotéis em Teresina",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "Carro ou ônibus local"
+        }
+    }
+],
+"Cultura e história": [
+      {
+        "nome": "Centro Histórico de Oeiras",
+        "descricao": "Primeira capital do Piauí, preserva casarões coloniais, igrejas barrocas e o Pelourinho, testemunhos do período colonial e da formação do estado.",
+        "Lat": -7.0167,
+        "lon": -42.1333,
+        "detalhes": {
+            "endereço": "Oeiras - PI",
+            "hospedagem": "Pousadas em casarões históricos",
+            "clima": "Semiárido, média de 32°C",
+            "transporte": "Carro desde Teresina (310 km)"
+        }
+    },
+    {
+        "nome": "Casa de Pedro II",
+        "descricao": "Antiga hospedagem onde o imperador Dom Pedro II pernoitou em sua visita ao Piauí em 1859, preservando mobiliário e objetos do período imperial.",
+        "Lat": -5.0833,
+        "lon": -42.8000,
+        "detalhes": {
+            "endereço": "Praça Marechal Deodoro - Centro, Teresina - PI",
+            "hospedagem": "Hotéis no centro de Teresina",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "A pé no centro histórico"
+        }
+    },
+    {
+        "nome": "Igreja de Nossa Senhora do Rosário dos Pretos",
+        "descricao": "Construída por escravos no século XVIII em Parnaíba, representa a resistência cultural afro-brasileira com arquitetura simples e festas tradicionais.",
+        "Lat": -2.9167,
+        "lon": -41.7667,
+        "detalhes": {
+            "endereço": "Rua Duque de Caxias - Centro, Parnaíba - PI",
+            "hospedagem": "Hotéis no centro de Parnaíba",
+            "clima": "Tropical semiúmido, média de 29°C",
+            "transporte": "A pé no centro"
+        }
+    },
+    {
+        "nome": "Casarão do Major Selemérico",
+        "descricao": "Importante construção do ciclo do algodão em Campo Maior, que serviu como quartel-general durante a Balaiada (1838-1841).",
+        "Lat": -4.8333,
+        "lon": -42.1667,
+        "detalhes": {
+            "endereço": "Praça Rodrigues Santos - Centro, Campo Maior - PI",
+            "hospedagem": "Pousadas em Campo Maior",
+            "clima": "Tropical semiúmido, média de 28°C",
+            "transporte": "Carro desde Teresina (80 km)"
+        }
+    },
+    {
+        "nome": "Complexo Turístico da Ponte Estaiada",
+        "descricao": "Moderno marco de Teresina com mirante a 95m de altura, oferecendo vista panorâmica da confluência dos rios Poti e Parnaíba.",
+        "Lat": -5.0667,
+        "lon": -42.8000,
+        "detalhes": {
+            "endereço": "Av. Raul Lopes - Noivos, Teresina - PI",
+            "hospedagem": "Hotéis na zona leste de Teresina",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    }
+],
+"Museus": [
+      {
+        "nome": "Museu do Piauí - Casa de Odilon Nunes",
+        "descricao": "Principal museu do estado, com acervo que vai da pré-história ao período republicano, incluindo artefatos indígenas, mobiliário colonial e documentos históricos.",
+        "Lat": -5.0833,
+        "lon": -42.8000,
+        "detalhes": {
+            "endereço": "Rua 13 de Maio, 236 - Centro, Teresina - PI",
+            "hospedagem": "Hotéis no centro de Teresina",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Museu da Balaiada",
+        "descricao": "Dedicado à revolta popular de 1838-1841, com documentos, armas e objetos que contam a história deste importante movimento social do Nordeste.",
+        "Lat": -3.7500,
+        "lon": -42.1667,
+        "detalhes": {
+            "endereço": "Praça da Bandeira - Centro, Caxias - MA (na divisa com PI)",
+            "hospedagem": "Pousadas em Caxias",
+            "clima": "Tropical semiúmido, média de 28°C",
+            "transporte": "Carro desde Teresina (360 km)"
+        }
+    },
+    {
+        "nome": "Museu de Arte Sacra Dom Paulo Libório",
+        "descricao": "Localizado na Catedral de Teresina, preserva imagens sacras dos séculos XVIII e XIX, paramentos e objetos litúrgicos da história religiosa piauiense.",
+        "Lat": -5.0833,
+        "lon": -42.8000,
+        "detalhes": {
+            "endereço": "Praça da Catedral - Centro, Teresina - PI",
+            "hospedagem": "Hotéis no centro",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "A pé no centro histórico"
+        }
+    },
+    {
+        "nome": "Museu do Sertão",
+        "descricao": "Documenta a vida e cultura sertaneja, com objetos do cotidiano, instrumentos de trabalho e exposições sobre a resistência na caatinga.",
+        "Lat": -5.0833,
+        "lon": -42.8000,
+        "detalhes": {
+            "endereço": "Av. João Cabral, 2525 - Vermelha, Teresina - PI",
+            "hospedagem": "Hotéis na zona norte de Teresina",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "Ônibus ou táxi"
+        }
+    },
+    {
+        "nome": "Museu Municipal de Parnaíba",
+        "descricao": "Instalado no antigo prédio da Alfândega (1822), conta a história da segunda cidade mais importante do Piauí, com ênfase no ciclo do charque e comércio fluvial.",
+        "Lat": -2.9167,
+        "lon": -41.7667,
+        "detalhes": {
+            "endereço": "Rua São Sebastião, 150 - Centro, Parnaíba - PI",
+            "hospedagem": "Hotéis no centro de Parnaíba",
+            "clima": "Tropical semiúmido, média de 29°C",
+            "transporte": "A pé no centro histórico"
+        }
+    }
+],
+ "Gastronomia": [
+      {
+        "nome": "Feira do Dirceu",
+        "descricao": "Maior feira livre de Teresina, famosa pela variedade de pratos típicos como carne de sol com macaxeira, baião de dois e doces regionais como a cocada de leite.",
+        "Lat": -5.0833,
+        "lon": -42.8000,
+        "detalhes": {
+            "endereço": "Av. Frei Serafim - Dirceu, Teresina - PI",
+            "hospedagem": "Hotéis na zona leste de Teresina",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "Ônibus urbano ou táxi"
+        }
+    },
+    {
+        "nome": "Vila da Santa Cruz dos Milagres",
+        "descricao": "Comunidade rural que preserva tradições culinárias como o sarapatel, a panelada e o famoso 'cuscuz de arroz' piauiense, em ambiente rústico.",
+        "Lat": -5.8333,
+        "lon": -42.1667,
+        "detalhes": {
+            "endereço": "Santa Cruz dos Milagres - PI",
+            "hospedagem": "Pousadas familiares",
+            "clima": "Semiárido, média de 32°C",
+            "transporte": "Carro desde Teresina (120 km)"
+        }
+    },
+    {
+        "nome": "Mercado Central de Teresina",
+        "descricao": "Centenário mercado com boxes especializados em queijo de coalho, rapadura, cajuína e o tradicional 'bode assado no buraco', técnica única do Piauí.",
+        "Lat": -5.0833,
+        "lon": -42.8000,
+        "detalhes": {
+            "endereço": "Praça João Luís Ferreira - Centro, Teresina - PI",
+            "hospedagem": "Hotéis no centro",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "A pé no centro histórico"
+        }
+    },
+    {
+        "nome": "Feira da Piçarra",
+        "descricao": "Tradicional feira à beira do Rio Poti em Teresina, onde se encontra o verdadeiro 'arroz de cuxá' (com vinagreira) e peixes regionais como o surubim.",
+        "Lat": -5.0833,
+        "lon": -42.8000,
+        "detalhes": {
+            "endereço": "Av. Maranhão - Centro-Sul, Teresina - PI",
+            "hospedagem": "Hotéis na zona sul",
+            "clima": "Tropical semiúmido, média de 30°C",
+            "transporte": "Ônibus urbano"
+        }
+    },
+    {
+        "nome": "Vila Parnaibana",
+        "descricao": "Conjunto de restaurantes à beira do Rio Igaraçu especializados em frutos do mar do Delta, como o camarão regional e o caranguejo-uçá.",
+        "Lat": -2.9167,
+        "lon": -41.7667,
+        "detalhes": {
+            "endereço": "Av. São Sebastião - Centro, Parnaíba - PI",
+            "hospedagem": "Hotéis no centro de Parnaíba",
+            "clima": "Tropical semiúmido, média de 29°C",
+            "transporte": "A pé desde o centro histórico"
+        }
+    }
+]
   },
   "Rio de Janeiro": {
     "Litoral": [
-      {
-        "nome": "Copacabana",
-        "descricao": "Praia urbana famosa no mundo inteiro",
+    {
+        "nome": "Praia de Copacabana",
+        "descricao": "Uma das praias mais famosas do mundo, com seu calçadão em onda desenhado por Burle Marx, águas azuis e vida noturna vibrante.",
+        "Lat": -22.9667,
+        "lon": -43.1833,
         "detalhes": {
-          "endereço": "Av. Atlântica - Copacabana, Rio de Janeiro - RJ",
-          "hospedagem": "Copacabana Palace",
-          "clima": "Tropical úmido",
-          "transporte": "Metrô linha 1"
+            "endereço": "Copacabana, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis de luxo e pousadas à beira-mar",
+            "clima": "Tropical, média de 26°C",
+            "transporte": "Metrô (Estação Cardeal Arcoverde) ou ônibus"
+        }
+    },
+    {
+        "nome": "Praia de Ipanema",
+        "descricao": "Famosa por seu pôr do sol deslumbrante e pela música 'Garota de Ipanema', é um símbolo da cultura carioca com areias douradas e ondas fortes.",
+        "Lat": -22.9833,
+        "lon": -43.2000,
+        "detalhes": {
+            "endereço": "Ipanema, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis boutique e pousadas charmosas",
+            "clima": "Tropical, média de 26°C",
+            "transporte": "Metrô (Estação General Osório) ou ônibus"
+        }
+    },
+    {
+        "nome": "Praia do Leblon",
+        "descricao": "Adjacente a Ipanema, é mais tranquila e sofisticada, com excelentes restaurantes e vista para o Morro Dois Irmãos.",
+        "Lat": -22.9886,
+        "lon": -43.2244,
+        "detalhes": {
+            "endereço": "Leblon, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis luxuosos e pousadas exclusivas",
+            "clima": "Tropical, média de 26°C",
+            "transporte": "Ônibus ou táxi"
+        }
+    },
+    {
+        "nome": "Praia de Grumari",
+        "descricao": "Praia selvagem e preservada, cercada por vegetação de restinga e parte do Parque Estadual da Pedra Branca. Ideal para quem busca tranquilidade.",
+        "Lat": -23.0500,
+        "lon": -43.5333,
+        "detalhes": {
+            "endereço": "Grumari, Rio de Janeiro - RJ",
+            "hospedagem": "Pousadas rústicas e casas de veraneio",
+            "clima": "Tropical, média de 25°C",
+            "transporte": "Carro particular (não há transporte público direto)"
+        }
+    },
+    {
+        "nome": "Praia de Prainha",
+        "descricao": "Pequena e paradisíaca, cercada por morros cobertos de Mata Atlântica. Popular entre surfistas pelas suas ondas consistentes.",
+        "Lat": -23.0417,
+        "lon": -43.5250,
+        "detalhes": {
+            "endereço": "Prainha, Rio de Janeiro - RJ",
+            "hospedagem": "Poucas opções de hospedagem (melhor vir como passeio de dia)",
+            "clima": "Tropical, média de 25°C",
+            "transporte": "Carro particular ou vans especiais"
+        }
+    }
+],
+"Parques naturais": [
+      {
+        "nome": "Parque Nacional da Tijuca",
+        "descricao": "Maior floresta urbana do mundo replantada, abriga o Corcovado e a estátua do Cristo Redentor, com trilhas, cachoeiras e mirantes naturais.",
+        "Lat": -22.9500,
+        "lon": -43.2500,
+        "detalhes": {
+            "endereço": "Alto da Boa Vista, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis na Zona Sul ou Barra da Tijuca",
+            "clima": "Tropical úmido, média de 24°C",
+            "transporte": "Ônibus para Alto da Boa Vista ou vans autorizadas"
+        }
+    },
+    {
+        "nome": "Parque Estadual da Pedra Branca",
+        "descricao": "Maior parque urbano do Brasil, com o pico da Pedra Branca (1.025m), trilhas selvagens e nascentes de água cristalina na floresta atlântica.",
+        "Lat": -22.9667,
+        "lon": -43.4667,
+        "detalhes": {
+            "endereço": "Zona Oeste, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis em Jacarepaguá ou Barra da Tijuca",
+            "clima": "Tropical úmido, média de 23°C",
+            "transporte": "Ônibus para Pau da Fome ou Camorim"
+        }
+    },
+    {
+        "nome": "Parque Natural Municipal da Prainha",
+        "descricao": "Área preservada entre o mar e a montanha, com trilhas que levam a mirantes com vista panorâmica e praias desertas de beleza selvagem.",
+        "Lat": -23.0417,
+        "lon": -43.5250,
+        "detalhes": {
+            "endereço": "Prainha, Rio de Janeiro - RJ",
+            "hospedagem": "Pousadas em Grumari ou Recreio",
+            "clima": "Tropical úmido, média de 25°C",
+            "transporte": "Carro particular (acesso restrito)"
+        }
+    },
+    {
+        "nome": "Parque Estadual dos Três Picos",
+        "descricao": "Maior parque do estado, na Serra do Mar fluminense, com formações rochosas impressionantes e trilhas desafiadoras entre Niterói e Cachoeiras de Macacu.",
+        "Lat": -22.4167,
+        "lon": -42.6167,
+        "detalhes": {
+            "endereço": "Vários municípios - RJ",
+            "hospedagem": "Pousadas em Teresópolis ou Nova Friburgo",
+            "clima": "Tropical de altitude, média de 18°C",
+            "transporte": "Carro pela BR-116"
+        }
+    },
+    {
+        "nome": "Parque Natural Municipal Chico Mendes",
+        "descricao": "Refúgio de biodiversidade na zona oeste, com lagos, trilhas interpretativas e centro de reabilitação de animais silvestres.",
+        "Lat": -22.9667,
+        "lon": -43.4000,
+        "detalhes": {
+            "endereço": "Av. Jarbas de Carvalho, 679 - Recreio dos Bandeirantes, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis no Recreio ou Barra da Tijuca",
+            "clima": "Tropical úmido, média de 25°C",
+            "transporte": "Ônibus para Recreio dos Bandeirantes"
+        }
+    }
+],
+"Cultura e história": [
+      {
+        "nome": "Centro Histórico do Rio de Janeiro",
+        "descricao": "Patrimônio Mundial da UNESCO, abriga construções coloniais como o Paço Imperial, o Mosteiro de São Bento e o Arcos da Lapa, marco da arquitetura portuguesa no Brasil.",
+        "Lat": -22.9036,
+        "lon": -43.1756,
+        "detalhes": {
+            "endereço": "Região Central, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis no centro ou zona portuária",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Metrô (Estação Uruguaiana ou Carioca)"
+        }
+    },
+    {
+        "nome": "Escadaria Selarón",
+        "descricao": "Obra do artista chileno Jorge Selarón, com 215 degraus revestidos de azulejos coloridos de todo o mundo, tornou-se símbolo da cultura boêmia da Lapa.",
+        "Lat": -22.9111,
+        "lon": -43.1822,
+        "detalhes": {
+            "endereço": "R. Manuel Carneiro - Santa Teresa, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis em Santa Teresa ou centro",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Bonde de Santa Teresa ou táxi"
+        }
+    },
+    {
+        "nome": "Confeitaria Colombo",
+        "descricao": "Fundada em 1894, é um marco da Belle Époque carioca, com espelhos belgas, mobiliário francês e tradição na confeitaria portuguesa.",
+        "Lat": -22.9036,
+        "lon": -43.1756,
+        "detalhes": {
+            "endereço": "R. Gonçalves Dias, 32 - Centro, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Metrô (Estação Carioca)"
+        }
+    },
+    {
+        "nome": "Forte de Copacabana",
+        "descricao": "Construção militar de 1914 que protegia a entrada da Baía de Guanabara, hoje oferece vista panorâmica e abriga o Museu Histórico do Exército e a tradicional Confeitaria Colombo Filial.",
+        "Lat": -22.9833,
+        "lon": -43.1833,
+        "detalhes": {
+            "endereço": "Praça Coronel Eugênio Franco, 1 - Copacabana, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis em Copacabana",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Ônibus ou metrô (Estação Cardeal Arcoverde)"
+        }
+    },
+    {
+        "nome": "Arcos da Lapa",
+        "descricao": "Antigo aqueduto do século XVIII que abastecia a cidade, transformado em viaduto para o bonde de Santa Teresa e marco da vida noturna carioca.",
+        "Lat": -22.9111,
+        "lon": -43.1822,
+        "detalhes": {
+            "endereço": "Lapa, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis no centro ou Santa Teresa",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Metrô (Estação Cinelândia)"
+        }
+    }
+],
+    "Museus": [
+    {
+        "nome": "Museu de Arte do Rio (MAR)",
+        "descricao": "Dedicado à arte e cultura visual, com exposições que dialogam com a história da cidade e acervo que une arte erudita e popular. Localizado na Praça Mauá, com arquitetura contemporânea.",
+        "Lat": -22.8931,
+        "lon": -43.1803,
+        "detalhes": {
+            "endereço": "Praça Mauá, 5 - Centro, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis na região portuária",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Metrô (Estação Uruguaiana) ou VLT"
+        }
+    },
+    {
+        "nome": "Museu do Amanhã",
+        "descricao": "Museu de ciências aplicadas com exposições imersivas sobre sustentabilidade e futuro do planeta, em edifício futurista projetado por Santiago Calatrava.",
+        "Lat": -22.8942,
+        "lon": -43.1806,
+        "detalhes": {
+            "endereço": "Praça Mauá, 1 - Centro, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis na região portuária",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "VLT (Parada dos Museus)"
+        }
+    },
+    {
+        "nome": "Museu Nacional de Belas Artes",
+        "descricao": "Importante acervo de arte brasileira dos séculos XVII ao XX, incluindo obras de Debret, Portinari e Di Cavalcanti, em prédio histórico na Cinelândia.",
+        "Lat": -22.9086,
+        "lon": -43.1769,
+        "detalhes": {
+            "endereço": "Av. Rio Branco, 199 - Centro, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis no centro histórico",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Metrô (Estação Cinelândia)"
+        }
+    },
+    {
+        "nome": "Museu Histórico Nacional",
+        "descricao": "Maior museu de história do Brasil, com acervo de mais de 300 mil itens que contam a história do país desde o período colonial até a República.",
+        "Lat": -22.9056,
+        "lon": -43.1728,
+        "detalhes": {
+            "endereço": "Praça Marechal Âncora, s/n - Centro, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis no centro ou zona portuária",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Metrô (Estação Presidente Vargas)"
+        }
+    },
+    {
+        "nome": "Museu da República",
+        "descricao": "Instalado no Palácio do Catete, onde ocorreu a Proclamação da República, preserva mobiliário histórico e exposições sobre a política brasileira.",
+        "Lat": -22.9250,
+        "lon": -43.1756,
+        "detalhes": {
+            "endereço": "R. do Catete, 153 - Catete, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis no Flamengo ou Botafogo",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Metrô (Estação Catete)"
+        }
+    }
+],
+ "Gastronomia": [
+      {
+        "nome": "Feira de São Cristóvão",
+        "descricao": "Maior centro de cultura nordestina do Rio, com mais de 600 barracas oferecendo pratos típicos como baião de dois, carne de sol e queijo coalho grelhado, ao som de forró pé-de-serra.",
+        "Lat": -22.8964,
+        "lon": -43.2269,
+        "detalhes": {
+            "endereço": "Campo de São Cristóvão, 209 - São Cristóvão, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis na região central ou Tijuca",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Metrô (Estação São Cristóvão) ou ônibus"
+        }
+    },
+    {
+        "nome": "Vila Gourmet da Urca",
+        "descricao": "Conjunto de pequenos quiosques à sombra dos arcos da Ladeira da Urca, especializados em frutos do mar frescos e petiscos cariocas como bolinho de bacalhau e pasteis.",
+        "Lat": -22.9500,
+        "lon": -43.1667,
+        "detalhes": {
+            "endereço": "Ladeira da Urca - Urca, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis em Botafogo ou Copacabana",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Ônibus para Urca"
+        }
+    },
+    {
+        "nome": "Mercado Municipal do Rio",
+        "descricao": "Reformado em 2018, oferece desde ingredientes frescos até restaurantes com pratos feitos, destacando-se pela variedade de peixes e frutos do mar da baía de Guanabara.",
+        "Lat": -22.8964,
+        "lon": -43.2269,
+        "detalhes": {
+            "endereço": "R. da Gamboa, 303 - Gamboa, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis na região portuária",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "VLT (Parada dos Museus)"
+        }
+    },
+    {
+        "nome": "Feira Orgânica da Glória",
+        "descricao": "Pioneira no Rio, oferece produtos orgânicos e comida de rua saudável, como tapiocas funcionais e sucos detox, em ambiente arborizado próximo ao Parque do Flamengo.",
+        "Lat": -22.9250,
+        "lon": -43.1756,
+        "detalhes": {
+            "endereço": "Praça do Russel - Glória, Rio de Janeiro - RJ",
+            "hospedagem": "Hotéis no Flamengo ou Catete",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Metrô (Estação Glória)"
+        }
+    },
+    {
+        "nome": "Vila do Sossego em Niterói",
+        "descricao": "Complexo gastronômico com vista para o Rio de Janeiro, especializado em frutos do mar e pratos regionais como moqueca capixaba e camarão na moranga.",
+        "Lat": -22.8964,
+        "lon": -43.1269,
+        "detalhes": {
+            "endereço": "Av. Quintino Bocaiúva, 255 - São Francisco, Niterói - RJ",
+            "hospedagem": "Hotéis em Niterói",
+            "clima": "Tropical úmido, média de 26°C",
+            "transporte": "Barca Rio-Niterói + táxi"
+        }
+    }
+]
+  },
+  "Rio Grande do Norte": {
+   "Litoral": [
+      {
+        "nome": "Ponta Negra",
+        "descricao": "Praia famosa em Natal com seu icônico Morro do Careca",
+        "lat": -5.8919,
+        "lon": -35.1769,
+        "detalhes": {
+          "endereço": "Av. Engenheiro Roberto Freire - Ponta Negra, Natal - RN",
+          "hospedagem": "Serhs Natal Grand Hotel, Pestana Natal Beach Resort",
+          "clima": "Tropical",
+          "transporte": "Táxi, ônibus (linhas 54 e 56)"
+        }
+      },
+      {
+        "nome": "Praia de Pipa",
+        "descricao": "Destino turístico internacional com falésias coloridas e golfinhos",
+        "lat": -6.2306,
+        "lon": -35.0650,
+        "detalhes": {
+          "endereço": "Tibau do Sul - RN",
+          "hospedagem": "Pousada Toca da Coruja, Sombra e Água Fresca",
+          "clima": "Tropical",
+          "transporte": "Ônibus saindo de Natal (2h de viagem)"
+        }
+      },
+      {
+        "nome": "Genipabu",
+        "descricao": "Famosa por suas dunas móveis e passeios de bugue",
+        "lat": -5.7183,
+        "lon": -35.2614,
+        "detalhes": {
+          "endereço": "Extremoz - RN (30km de Natal)",
+          "hospedagem": "Pousada Vila do Mar, Genipabu Flat Hotel",
+          "clima": "Tropical",
+          "transporte": "Ônibus saindo de Natal ou passeios organizados"
+        }
+      },
+      {
+        "nome": "Maracajaú",
+        "descricao": "Conhecida como 'Caribe Brasileiro' por seus recifes e piscinas naturais",
+        "lat": -5.4181,
+        "lon": -35.3233,
+        "detalhes": {
+          "endereço": "Maxaranguape - RN (50km de Natal)",
+          "hospedagem": "Pousada Maracajaú, Pousada Recanto do Lord",
+          "clima": "Tropical",
+          "transporte": "Ônibus saindo de Natal ou carro particular"
+        }
+      },
+      {
+        "nome": "Praia de Muriú",
+        "descricao": "Enseada paradisíaca com águas calmas e coqueirais",
+        "lat": -5.7883,
+        "lon": -35.1906,
+        "detalhes": {
+          "endereço": "Ceará-Mirim - RN (35km de Natal)",
+          "hospedagem": "Pousada Vila do Sol, Muriú Praia Hotel",
+          "clima": "Tropical",
+          "transporte": "Ônibus saindo de Natal ou táxi"
+        }
+      }
+    ],
+    "Parques Naturais": [
+      {
+        "nome": "Parque das Dunas",
+        "descricao": "Maior parque urbano sobre dunas do Brasil, com biodiversidade de Mata Atlântica",
+        "lat": -5.8389,
+        "lon": -35.2003,
+        "detalhes": {
+          "endereço": "Av. Alexandrino de Alencar, s/n - Tirol, Natal - RN",
+          "hospedagem": "Hotéis em Natal (região da Via Costeira)",
+          "clima": "Tropical",
+          "transporte": "Ônibus urbanos ou táxi"
+        }
+      },
+      {
+        "nome": "Parque Estadual da Pedra da Boca",
+        "descricao": "Formações rochosas impressionantes no sertão potiguar",
+        "lat": -6.4400,
+        "lon": -35.4619,
+        "detalhes": {
+          "endereço": "Município de Araruna/RN (fronteira com a Paraíba)",
+          "hospedagem": "Pousadas rústicas na região",
+          "clima": "Semiárido",
+          "transporte": "Veículo próprio (estrada parcialmente não pavimentada)"
+        }
+      },
+      {
+        "nome": "Parque Ecológico de Pipa",
+        "descricao": "Área de preservação ambiental com falésias e trilhas ecológicas",
+        "lat": -6.2294,
+        "lon": -35.0614,
+        "detalhes": {
+          "endereço": "Tibau do Sul - RN",
+          "hospedagem": "Pousadas em Pipa",
+          "clima": "Tropical",
+          "transporte": "Táxi ou buggy a partir do centro de Pipa"
+        }
+      },
+      {
+        "nome": "Parque da Cidade Dom Nivaldo Monte",
+        "descricao": "Complexo ambiental com mirante panorâmico em Natal",
+        "lat": -5.8250,
+        "lon": -35.2458,
+        "detalhes": {
+          "endereço": "Av. Omar O'Grady, s/n - Candelária, Natal - RN",
+          "hospedagem": "Hotéis em Natal",
+          "clima": "Tropical",
+          "transporte": "Ônibus ou táxi"
+        }
+      },
+      {
+        "nome": "Parque Natural Municipal de Genipabu",
+        "descricao": "Área protegida que inclui dunas, lagoas e vegetação nativa",
+        "lat": -5.7167,
+        "lon": -35.2667,
+        "detalhes": {
+          "endereço": "Extremoz - RN (30km de Natal)",
+          "hospedagem": "Pousadas em Genipabu",
+          "clima": "Tropical",
+          "transporte": "Ônibus saindo de Natal ou passeios organizados"
+        }
+      }
+    ],
+     "Cultura e História": [
+      {
+        "nome": "Forte dos Reis Magos",
+        "descricao": "Marco inicial da cidade de Natal, construído em 1598 em formato de estrela",
+        "lat": -5.7669,
+        "lon": -35.1908,
+        "detalhes": {
+          "endereço": "Av. Presidente Café Filho, s/n - Praia do Forte, Natal - RN",
+          "hospedagem": "Hotéis na Via Costeira ou Ponta Negra",
+          "clima": "Tropical",
+          "transporte": "Ônibus linha 66 (Forte/Ponta Negra) ou táxi"
+        }
+      },
+      {
+        "nome": "Centro Histórico de Natal",
+        "descricao": "Conjunto arquitetônico colonial com casarões do século XVII-XIX",
+        "lat": -5.7936,
+        "lon": -35.2014,
+        "detalhes": {
+          "endereço": "Rua Açu, Ribeira - Natal - RN",
+          "hospedagem": "Hotéis no centro ou bairro da Ribeira",
+          "clima": "Tropical",
+          "transporte": "Ônibus para o Centro ou metrô de superfície"
+        }
+      },
+      {
+        "nome": "Teatro Alberto Maranhão",
+        "descricao": "Teatro centenário em estilo neoclássico, inaugurado em 1904",
+        "lat": -5.7925,
+        "lon": -35.2044,
+        "detalhes": {
+          "endereço": "Praça Augusto Severo - Ribeira, Natal - RN",
+          "hospedagem": "Hotéis no centro histórico",
+          "clima": "Tropical",
+          "transporte": "Ônibus para o Centro ou metrô de superfície"
+        }
+      },
+      {
+        "nome": "Catedral Metropolitana de Natal",
+        "descricao": "Principal templo católico da cidade em estilo neogótico",
+        "lat": -5.7964,
+        "lon": -35.2075,
+        "detalhes": {
+          "endereço": "Praça Pio X - Cidade Alta, Natal - RN",
+          "hospedagem": "Hotéis no centro histórico",
+          "clima": "Tropical",
+          "transporte": "Ônibus para o Centro"
+        }
+      },
+      {
+        "nome": "Memorial Câmara Cascudo",
+        "descricao": "Centro cultural dedicado ao folclorista potiguar Câmara Cascudo",
+        "lat": -5.7947,
+        "lon": -35.2089,
+        "detalhes": {
+          "endereço": "Av. Câmara Cascudo, 377 - Cidade Alta, Natal - RN",
+          "hospedagem": "Hotéis no centro histórico",
+          "clima": "Tropical",
+          "transporte": "Ônibus para o Centro"
         }
       }
     ],
     "Museus": [
       {
-        "nome": "Museu do Amanhã",
-        "descricao": "Museu de ciências com arquitetura futurista",
+        "nome": "Museu Câmara Cascudo",
+        "descricao": "Principal museu antropológico do estado, vinculado à UFRN",
+        "lat": -5.8342,
+        "lon": -35.2050,
         "detalhes": {
-          "endereço": "Praça Mauá, 1 - Centro, Rio de Janeiro - RJ",
-          "hospedagem": "Hotel Prodigy",
-          "clima": "Clima urbano",
-          "transporte": "VLT"
+          "endereço": "Av. Hermes da Fonseca, 1398 - Tirol, Natal - RN",
+          "hospedagem": "Hotéis no Tirol ou Petrópolis",
+          "clima": "Tropical",
+          "transporte": "Ônibus linha 64 ou 45"
+        }
+      },
+      {
+        "nome": "Museu de Cultura Popular Djalma Maranhão",
+        "descricao": "Museu dedicado às tradições populares potiguares",
+        "lat": -5.7931,
+        "lon": -35.2044,
+        "detalhes": {
+          "endereço": "Praça Augusto Severo - Ribeira, Natal - RN",
+          "hospedagem": "Hotéis no centro ou Ribeira",
+          "clima": "Tropical",
+          "transporte": "Ônibus para o Centro"
+        }
+      },
+      {
+        "nome": "Museu do Seridó",
+        "descricao": "Importante acervo histórico da região do Seridó",
+        "lat": -6.4589,
+        "lon": -36.9547,
+        "detalhes": {
+          "endereço": "Praça São João Batista, s/n - Caicó - RN",
+          "hospedagem": "Pousadas em Caicó",
+          "clima": "Semiárido",
+          "transporte": "Ônibus intermunicipal ou carro"
+        }
+      },
+      {
+        "nome": "Museu de Arte Sacra",
+        "descricao": "Acervo religioso dos séculos XVII ao XX",
+        "lat": -5.7961,
+        "lon": -35.2072,
+        "detalhes": {
+          "endereço": "Rua Santo Antônio, 698 - Cidade Alta, Natal - RN",
+          "hospedagem": "Hotéis no centro histórico",
+          "clima": "Tropical",
+          "transporte": "Ônibus para o Centro"
+        }
+      },
+      {
+        "nome": "Museu do Mar",
+        "descricao": "Museu oceanográfico com foco na cultura marítima potiguar",
+        "lat": -5.7667,
+        "lon": -35.1911,
+        "detalhes": {
+          "endereço": "Av. Presidente Café Filho - Praia do Forte, Natal - RN",
+          "hospedagem": "Hotéis na Via Costeira",
+          "clima": "Tropical",
+          "transporte": "Ônibus linha 66 ou táxi"
         }
       }
-    ]
-  },
-  "Rio Grande do Norte": {
-    "Litoral": [
+    ],
+    "Gastronomia": [
       {
-        "nome": "Ponta Negra",
-        "descricao": "Praia famosa em Natal",
+        "nome": "Feira de Artesanato e Gastronomia da Praia de Ponta Negra",
+        "descricao": "Feira noturna com barracas de comida típica e artesanato",
+        "lat": -5.8908,
+        "lon": -35.1764,
         "detalhes": {
           "endereço": "Av. Engenheiro Roberto Freire - Ponta Negra, Natal - RN",
-          "hospedagem": "Serhs Natal Grand Hotel",
+          "hospedagem": "Hotéis na Praia de Ponta Negra",
           "clima": "Tropical",
-          "transporte": "Táxi, ônibus"
+          "transporte": "Ônibus linhas 54 ou 56, táxi"
+        }
+      },
+      {
+        "nome": "Centro de Turismo de Natal (Antiga Casa de Detenção)",
+        "descricao": "Complexo com restaurantes e bares em antiga prisão transformada",
+        "lat": -5.7886,
+        "lon": -35.2008,
+        "detalhes": {
+          "endereço": "Rua Aderbal Figueiredo, 980 - Petrópolis, Natal - RN",
+          "hospedagem": "Hotéis em Petrópolis ou Tirol",
+          "clima": "Tropical",
+          "transporte": "Ônibus para o Centro ou táxi"
+        }
+      },
+      {
+        "nome": "Vila Gastronômica de Pipa",
+        "descricao": "Concentração de restaurantes e bares no centro de Tibau do Sul",
+        "lat": -6.2303,
+        "lon": -35.0631,
+        "detalhes": {
+          "endereço": "Centro de Pipa - Tibau do Sul - RN",
+          "hospedagem": "Pousadas em Pipa",
+          "clima": "Tropical",
+          "transporte": "Ônibus saindo de Natal (2h de viagem)"
+        }
+      },
+      {
+        "nome": "Feira Livre de Macaíba",
+        "descricao": "Tradicional feira com comidas regionais e produtos típicos",
+        "lat": -5.8575,
+        "lon": -35.3550,
+        "detalhes": {
+          "endereço": "Centro de Macaíba - RN (20km de Natal)",
+          "hospedagem": "Hotéis em Natal ou Pousadas locais",
+          "clima": "Tropical",
+          "transporte": "Ônibus intermunicipal ou carro"
+        }
+      },
+      {
+        "nome": "Bodódromo de Mossoró",
+        "descricao": "Complexo gastronômico especializado em carne de bode",
+        "lat": -5.1883,
+        "lon": -37.3458,
+        "detalhes": {
+          "endereço": "Av. Rio Branco - Centro, Mossoró - RN",
+          "hospedagem": "Hotéis em Mossoró",
+          "clima": "Semiárido",
+          "transporte": "Ônibus urbano ou táxi"
         }
       }
     ]
   },
   "Rio Grande do Sul": {
-    "Cultura e história": [
+    "Litoral": [
+      {
+        "nome": "Praia do Cassino",
+        "descricao": "Maior praia em extensão contínua do mundo com 254km de costa",
+        "lat": -32.1869,
+        "lon": -52.1667,
+        "detalhes": {
+          "endereço": "Rio Grande - RS",
+          "hospedagem": "Hotel Atlântico, Hotel Cassino",
+          "clima": "Subtropical",
+          "transporte": "Ônibus desde Porto Alegre (4h de viagem)"
+        }
+      },
+      {
+        "nome": "Torres",
+        "descricao": "Praias entre falésias e morros com formações rochosas impressionantes",
+        "lat": -29.3353,
+        "lon": -49.7306,
+        "detalhes": {
+          "endereço": "Av. Beira Mar - Torres - RS",
+          "hospedagem": "Hotel Dunas, Hotel Torres",
+          "clima": "Subtropical",
+          "transporte": "Ônibus desde Porto Alegre (2h30 de viagem)"
+        }
+      },
+      {
+        "nome": "Capão da Canoa",
+        "descricao": "Praias extensas e agitadas com infraestrutura turística completa",
+        "lat": -29.7461,
+        "lon": -50.0097,
+        "detalhes": {
+          "endereço": "Av. Beira Mar - Capão da Canoa - RS",
+          "hospedagem": "Hotel Farol, Hotel Atlântico",
+          "clima": "Subtropical",
+          "transporte": "Ônibus desde Porto Alegre (1h30 de viagem)"
+        }
+      },
+      {
+        "nome": "Praia do Hermenegildo",
+        "descricao": "Praia selvagem e preservada no extremo sul do Brasil, fronteira com o Uruguai",
+        "lat": -33.7100,
+        "lon": -53.3000,
+        "detalhes": {
+          "endereço": "Santa Vitória do Palmar - RS",
+          "hospedagem": "Pousadas locais em Santa Vitória",
+          "clima": "Subtropical",
+          "transporte": "Carro particular (estrada de terra)"
+        }
+      },
+      {
+        "nome": "Xangri-Lá",
+        "descricao": "Conjunto de praias tranquilas com dunas e lagoas, ideal para famílias",
+        "lat": -29.8056,
+        "lon": -50.0608,
+        "detalhes": {
+          "endereço": "Xangri-Lá - RS",
+          "hospedagem": "Resort Turis Hotel, Pousada do Mar",
+          "clima": "Subtropical",
+          "transporte": "Ônibus desde Porto Alegre (1h45 de viagem)"
+        }
+      }
+    ],
+    "Parques Naturais": [
+      {
+        "nome": "Parque Nacional de Aparados da Serra",
+        "descricao": "Famoso pelo cânion do Itaimbezinho com paredões de até 700m de altura",
+        "lat": -29.1833, 
+        "lon": -50.0833,
+        "detalhes": {
+          "endereço": "Cambará do Sul - RS",
+          "hospedagem": "Pousadas em Cambará do Sul ou Praia Grande (SC)",
+          "clima": "Subtropical de altitude",
+          "transporte": "Carro particular ou excursões desde Gramado/Canela"
+        }
+      },
+      {
+        "nome": "Parque Estadual do Tainhas",
+        "descricao": "Área de campos de altitude com cachoeiras e formações rochosas únicas",
+        "lat": -29.1000,
+        "lon": -50.1333,
+        "detalhes": {
+          "endereço": "São Francisco de Paula - RS",
+          "hospedagem": "Hotéis em São Francisco de Paula ou pousadas rurais",
+          "clima": "Subtropical úmido",
+          "transporte": "Veículo próprio (acesso por estrada de terra)"
+        }
+      },
+      {
+        "nome": "Parque Estadual de Itapuã",
+        "descricao": "Único remanescente de ecossistemas originais da região metropolitana de Porto Alegre",
+        "lat": -30.3667,
+        "lon": -51.0333,
+        "detalhes": {
+          "endereço": "Viamão - RS (50km de Porto Alegre)",
+          "hospedagem": "Hotéis em Porto Alegre ou Viamão",
+          "clima": "Subtropical",
+          "transporte": "Ônibus desde Porto Alegre ou carro particular"
+        }
+      },
+      {
+        "nome": "Parque Nacional da Serra Geral",
+        "descricao": "Continuidade do Aparados da Serra com cânions impressionantes como o Fortaleza",
+        "lat": -29.1333,
+        "lon": -49.9833,
+        "detalhes": {
+          "endereço": "Cambará do Sul - RS",
+          "hospedagem": "Pousadas em Cambará do Sul",
+          "clima": "Subtropical de altitude",
+          "transporte": "Carro particular (estradas secundárias)"
+        }
+      },
+      {
+        "nome": "Parque Estadual do Caracol",
+        "descricao": "Famoso por sua cascata de 131m de altura e trilhas na Mata Atlântica",
+        "lat": -29.2889,
+        "lon": -50.8736,
+        "detalhes": {
+          "endereço": "Canela - RS",
+          "hospedagem": "Hotéis e pousadas em Canela",
+          "clima": "Subtropical úmido",
+          "transporte": "Ônibus desde Porto Alegre ou Gramado"
+        }
+      }
+    ],
+   "Cultura e história": [
       {
         "nome": "Gramado",
-        "descricao": "Cidade turística com arquitetura europeia",
+        "descricao": "Cidade turística com arquitetura europeia e forte influência alemã e italiana",
+        "lat": -29.3785,
+        "lon": -50.8750,
         "detalhes": {
           "endereço": "Av. Borges de Medeiros, 2656 - Centro, Gramado - RS",
-          "hospedagem": "Hotel Ritta Höppner",
+          "hospedagem": "Hotel Ritta Höppner, Hotel Laghetto",
           "clima": "Temperado",
-          "transporte": "Ônibus turístico"
+          "transporte": "Ônibus turístico ou vans de Porto Alegre"
+        }
+      },
+      {
+        "nome": "Centro Histórico de Porto Alegre",
+        "descricao": "Conjunto arquitetônico com prédios históricos dos séculos XVIII e XIX",
+        "lat": -30.0311,
+        "lon": -51.2344,
+        "detalhes": {
+          "endereço": "Praça da Alfândega - Centro Histórico, Porto Alegre - RS",
+          "hospedagem": "Hotel Continental, Plaza São Rafael",
+          "clima": "Subtropical",
+          "transporte": "Ônibus urbanos ou metrô (Estação Mercado)"
+        }
+      },
+      {
+        "nome": "São Miguel das Missões",
+        "descricao": "Sítio arqueológico das reduções jesuíticas (Patrimônio Mundial da UNESCO)",
+        "lat": -28.5494,
+        "lon": -54.5558,
+        "detalhes": {
+          "endereço": "São Miguel das Missões - RS",
+          "hospedagem": "Pousada das Missões, Hotel Missioneiro",
+          "clima": "Subtropical",
+          "transporte": "Ônibus desde Porto Alegre (6h de viagem)"
+        }
+      },
+      {
+        "nome": "Bento Gonçalves (Vale dos Vinhedos)",
+        "descricao": "Capital brasileira do vinho com arquitetura italiana e tradição vinícola",
+        "lat": -29.1714,
+        "lon": -51.5169,
+        "detalhes": {
+          "endereço": "Vale dos Vinhedos - Bento Gonçalves - RS",
+          "hospedagem": "Hotel & Spa do Vinho, Pousada Borghetto",
+          "clima": "Temperado",
+          "transporte": "Ônibus desde Porto Alegre (2h de viagem)"
+        }
+      },
+      {
+        "nome": "Pelotas (Centro Histórico)",
+        "descricao": "Cidade com rico patrimônio arquitetônico do ciclo do charque",
+        "lat": -31.7619,
+        "lon": -52.3417,
+        "detalhes": {
+          "endereço": "Praça Coronel Pedro Osório - Centro, Pelotas - RS",
+          "hospedagem": "Hotel Charqueadas, Hotel Guarany",
+          "clima": "Subtropical",
+          "transporte": "Ônibus desde Porto Alegre (3h de viagem)"
+        }
+      }
+    ],
+    "Museus": [
+      {
+        "nome": "Museu de Ciências e Tecnologia da PUCRS",
+        "descricao": "Um dos maiores museus interativos de ciência da América Latina",
+        "lat": -30.0594,
+        "lon": -51.1753,
+        "detalhes": {
+          "endereço": "Av. Ipiranga, 6681 - Partenon, Porto Alegre - RS",
+          "hospedagem": "Hotéis na Zona Sul de Porto Alegre",
+          "clima": "Subtropical",
+          "transporte": "Ônibus linha T11 ou metrô (Estação São Pedro)"
+        }
+      },
+      {
+        "nome": "Museu de Arte do Rio Grande do Sul (MARGS)",
+        "descricao": "Principal museu de artes visuais do estado com acervo de mais de 3.000 obras",
+        "lat": -30.0317,
+        "lon": -51.2342,
+        "detalhes": {
+          "endereço": "Praça da Alfândega, s/n - Centro Histórico, Porto Alegre - RS",
+          "hospedagem": "Hotéis no Centro de Porto Alegre",
+          "clima": "Subtropical",
+          "transporte": "Metrô (Estação Mercado) ou ônibus centro"
+        }
+      },
+      {
+        "nome": "Museu do Pão",
+        "descricao": "Museu temático que conta a história da panificação no Brasil e no mundo",
+        "lat": -29.3764,
+        "lon": -51.1147,
+        "detalhes": {
+          "endereço": "R. Costa Gama, 104 - Ilópolis - RS",
+          "hospedagem": "Pousadas em Ilópolis ou hotéis em Lajeado",
+          "clima": "Subtropical",
+          "transporte": "Carro particular (via BR-386)"
+        }
+      },
+      {
+        "nome": "Museu do Doce",
+        "descricao": "Museu dedicado à história e tradição da produção de doces colonial",
+        "lat": -29.1653,
+        "lon": -51.5169,
+        "detalhes": {
+          "endereço": "R. Herny Hugo Dreher, 172 - Planalto, Bento Gonçalves - RS",
+          "hospedagem": "Hotéis em Bento Gonçalves",
+          "clima": "Temperado",
+          "transporte": "Ônibus urbano em Bento Gonçalves"
+        }
+      },
+      {
+        "nome": "Museu Histórico Farroupilha",
+        "descricao": "Museu que preserva a memória da Revolução Farroupilha no Parque Harmonia",
+        "lat": -30.0486,
+        "lon": -51.2369,
+        "detalhes": {
+          "endereço": "Av. Edvaldo Pereira Paiva, 3201 - Praia de Belas, Porto Alegre - RS",
+          "hospedagem": "Hotéis na Zona Sul de Porto Alegre",
+          "clima": "Subtropical",
+          "transporte": "Ônibus linha T1 ou T2"
+        }
+      }
+    ],
+    "Gastronomia": [
+      {
+        "nome": "Mercado Público de Porto Alegre",
+        "descricao": "Centro histórico de gastronomia com mais de 100 anos e 65 estabelecimentos",
+        "lat": -30.0297,
+        "lon": -51.2289,
+        "detalhes": {
+          "endereço": "Largo Glênio Peres, s/n - Centro Histórico, Porto Alegre - RS",
+          "hospedagem": "Hotéis no Centro ou Cidade Baixa",
+          "clima": "Subtropical",
+          "transporte": "Metrô (Estação Mercado) ou ônibus centro"
+        }
+      },
+      {
+        "nome": "Vila Germânica de Gramado",
+        "descricao": "Centro gastronômico com arquitetura enxaimel e culinária alemã",
+        "lat": -29.3722,
+        "lon": -50.8767,
+        "detalhes": {
+          "endereço": "Av. das Hortênsias, 4150 - Gramado - RS",
+          "hospedagem": "Hotéis em Gramado Centro",
+          "clima": "Temperado",
+          "transporte": "Ônibus turístico ou táxi"
+        }
+      },
+      {
+        "nome": "Caminho dos Sabores e Laranjeiras (Bento Gonçalves)",
+        "descricao": "Rota de cantinas italianas e vinícolas no Vale dos Vinhedos",
+        "lat": -29.1714,
+        "lon": -51.5169,
+        "detalhes": {
+          "endereço": "Vale dos Vinhedos - Bento Gonçalves - RS",
+          "hospedagem": "Hotéis e pousadas no Vale dos Vinhedos",
+          "clima": "Temperado",
+          "transporte": "Carro particular ou tours guiados"
+        }
+      },
+      {
+        "nome": "Feira Colonial de Nova Petrópolis",
+        "descricao": "Feira ao ar livre com produtos coloniais alemães e café colonial",
+        "lat": -29.3747,
+        "lon": -51.1136,
+        "detalhes": {
+          "endereço": "Praça das Flores - Centro, Nova Petrópolis - RS",
+          "hospedagem": "Pousadas em Nova Petrópolis",
+          "clima": "Temperado",
+          "transporte": "Ônibus desde Porto Alegre (1h30)"
+        }
+      },
+      {
+        "nome": "Feira do Livro e Gastronomia de Caxias do Sul",
+        "descricao": "Evento que combina literatura e gastronomia italiana tradicional",
+        "lat": -29.1678,
+        "lon": -51.1789,
+        "detalhes": {
+          "endereço": "Praça Dante Alighieri - Centro, Caxias do Sul - RS",
+          "hospedagem": "Hotéis no Centro de Caxias",
+          "clima": "Temperado",
+          "transporte": "Ônibus urbano ou táxi"
         }
       }
     ]
   },
   "Rondônia": {
+   "Parques Naturais": [
+      {
+        "nome": "Parque Nacional de Pacaás Novos",
+        "descricao": "Maior unidade de conservação de Rondônia com serras, cachoeiras e diversidade de fauna e flora",
+        "lat": -10.8333,
+        "lon": -63.6333,
+        "detalhes": {
+          "endereço": "Entre os municípios de Guajará-Mirim, Campo Novo de Rondônia e São Miguel do Guaporé",
+          "hospedagem": "Pousadas em Guajará-Mirim ou hotéis em Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Acesso por barco ou estradas não pavimentadas partindo de Guajará-Mirim"
+        }
+      },
+      {
+        "nome": "Parque Estadual Corumbiara",
+        "descricao": "Área de transição entre Cerrado e Amazônia com formações geológicas únicas",
+        "lat": -12.5000,
+        "lon": -60.9167,
+        "detalhes": {
+          "endereço": "Município de Cerejeiras, na fronteira com a Bolívia",
+          "hospedagem": "Hotéis em Cerejeiras ou Pimenteiras do Oeste",
+          "clima": "Tropical",
+          "transporte": "Acesso por estrada não pavimentada partindo de Cerejeiras"
+        }
+      },
+      {
+        "nome": "Parque Estadual Guajará-Mirim",
+        "descricao": "Protege ecossistemas amazônicos na fronteira com a Bolívia e o Rio Guaporé",
+        "lat": -10.7833,
+        "lon": -65.3333,
+        "detalhes": {
+          "endereço": "Município de Guajará-Mirim",
+          "hospedagem": "Pousadas em Guajará-Mirim",
+          "clima": "Equatorial úmido",
+          "transporte": "Acesso por barco ou estradas locais"
+        }
+      },
+      {
+        "nome": "Reserva Extrativista Rio Ouro Preto",
+        "descricao": "Unidade de conservação de uso sustentável com comunidades tradicionais e biodiversidade",
+        "lat": -10.7167,
+        "lon": -62.2667,
+        "detalhes": {
+          "endereço": "Município de Guajará-Mirim",
+          "hospedagem": "Pousadas rústicas na reserva ou hotéis em Guajará-Mirim",
+          "clima": "Equatorial",
+          "transporte": "Acesso fluvial pelo Rio Ouro Preto"
+        }
+      },
+      {
+        "nome": "Parque Natural Municipal de Porto Velho",
+        "descricao": "Área verde urbana preservando fauna e flora amazônicas na capital",
+        "lat": -8.7500,
+        "lon": -63.9000,
+        "detalhes": {
+          "endereço": "Porto Velho - RO",
+          "hospedagem": "Hotéis em Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      }
+    ],
+     "Cultura e História": [
+      {
+        "nome": "Estrada de Ferro Madeira-Mamoré",
+        "descricao": "Marco da engenharia nacional conhecida como 'Ferrovia do Diabo', construída no período da borracha",
+        "lat": -8.7603,
+        "lon": -63.8997,
+        "detalhes": {
+          "endereço": "Porto Velho - RO",
+          "hospedagem": "Hotéis em Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Catedral Sagrado Coração de Jesus",
+        "descricao": "Principal templo católico de Porto Velho em estilo neogótico, construído em 1917",
+        "lat": -8.7636,
+        "lon": -63.9014,
+        "detalhes": {
+          "endereço": "Praça das Caixas D'Água - Centro, Porto Velho - RO",
+          "hospedagem": "Hotéis no centro de Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Forte Príncipe da Beira",
+        "descricao": "Fortaleza militar do século XVIII na fronteira com a Bolívia, Patrimônio Nacional",
+        "lat": -12.4250,
+        "lon": -64.4258,
+        "detalhes": {
+          "endereço": "Costa Marques - RO (fronteira com a Bolívia)",
+          "hospedagem": "Pousadas em Costa Marques",
+          "clima": "Tropical",
+          "transporte": "Barco pelo Rio Guaporé ou voadeira"
+        }
+      },
+      {
+        "nome": "Vila de Santo Antônio do Rio Madeira",
+        "descricao": "Sítio histórico do antigo povoado que deu origem a Porto Velho",
+        "lat": -8.7833,
+        "lon": -63.8833,
+        "detalhes": {
+          "endereço": "Margem direita do Rio Madeira - Porto Velho - RO",
+          "hospedagem": "Hotéis em Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Barco a partir do Porto de Porto Velho"
+        }
+      },
+      {
+        "nome": "Memorial Jorge Teixeira",
+        "descricao": "Centro cultural que preserva a história do desenvolvimento de Rondônia",
+        "lat": -8.7619,
+        "lon": -63.9008,
+        "detalhes": {
+          "endereço": "Av. Presidente Dutra, 4175 - Olaria, Porto Velho - RO",
+          "hospedagem": "Hotéis em Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      }
+    ],
     "Museus": [
       {
         "nome": "Museu da Estrada de Ferro Madeira-Mamoré",
-        "descricao": "História ferroviária da Amazônia",
+        "descricao": "Preserva a história da lendária ferrovia construída durante o ciclo da borracha",
+        "lat": -8.7600,
+        "lon": -63.9000,
         "detalhes": {
-          "endereço": "Av. Farqhuar, 364 - Centro, Porto Velho - RO",
-          "hospedagem": "Hotel Ecos",
+          "endereço": "Av. 7 de Setembro, 1876 - Centro, Porto Velho - RO",
+          "hospedagem": "Hotéis no centro de Porto Velho",
           "clima": "Equatorial",
-          "transporte": "Táxi"
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Museu Geológico de Rondônia",
+        "descricao": "Exposição de minerais, rochas e fósseis representativos da geologia estadual",
+        "lat": -8.7633,
+        "lon": -63.9025,
+        "detalhes": {
+          "endereço": "Av. Presidente Dutra, 4175 - Olaria, Porto Velho - RO",
+          "hospedagem": "Hotéis em Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Museu da Memória Rondoniense",
+        "descricao": "Acervo histórico e antropológico sobre a formação do estado",
+        "lat": -8.7619,
+        "lon": -63.9008,
+        "detalhes": {
+          "endereço": "Av. Presidente Dutra, 4175 - Olaria, Porto Velho - RO",
+          "hospedagem": "Hotéis em Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Museu Internacional do Presépio",
+        "descricao": "Exposição permanente de presépios de diversos países e culturas",
+        "lat": -8.7681,
+        "lon": -63.8764,
+        "detalhes": {
+          "endereço": "Av. Calama, 3575 - Flodoaldo Pontes Pinto, Porto Velho - RO",
+          "hospedagem": "Hotéis em Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Museu Histórico Municipal de Ji-Paraná",
+        "descricao": "Preserva a história da colonização da região central de Rondônia",
+        "lat": -10.8853,
+        "lon": -61.9517,
+        "detalhes": {
+          "endereço": "Av. 2 de Abril, 3101 - Centro, Ji-Paraná - RO",
+          "hospedagem": "Hotéis em Ji-Paraná",
+          "clima": "Tropical",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      }
+    ],
+     "Gastronomia": [
+      {
+        "nome": "Feira do Tambaqui",
+        "descricao": "Feira especializada no peixe típico da região, preparado de diversas formas tradicionais",
+        "lat": -8.7619,
+        "lon": -63.9036,
+        "detalhes": {
+          "endereço": "Av. Calama, 3100 - Nova Porto Velho, Porto Velho - RO",
+          "hospedagem": "Hotéis em Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Complexo Turístico e Gastronômico Ponte do Rio Madeira",
+        "descricao": "Conjunto de restaurantes flutuantes com culinária ribeirinha",
+        "lat": -8.7692,
+        "lon": -63.8803,
+        "detalhes": {
+          "endereço": "Margem do Rio Madeira - Porto Velho - RO",
+          "hospedagem": "Hotéis em Porto Velho",
+          "clima": "Equatorial",
+          "transporte": "Táxi ou transporte próprio"
+        }
+      },
+      {
+        "nome": "Feira do Produtor Rural de Ji-Paraná",
+        "descricao": "Feira de produtos regionais e comidas típicas do interior rondoniense",
+        "lat": -10.8850,
+        "lon": -61.9519,
+        "detalhes": {
+          "endereço": "Av. 2 de Abril, 3500 - Centro, Ji-Paraná - RO",
+          "hospedagem": "Hotéis em Ji-Paraná",
+          "clima": "Tropical",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Vila Gastronômica de Guajará-Mirim",
+        "descricao": "Conjunto de restaurantes com influência da culinária brasileira e boliviana",
+        "lat": -10.7833,
+        "lon": -65.3333,
+        "detalhes": {
+          "endereço": "Av. 15 de Novembro - Centro, Guajará-Mirim - RO",
+          "hospedagem": "Pousadas em Guajará-Mirim",
+          "clima": "Equatorial úmido",
+          "transporte": "Ônibus local ou táxi"
+        }
+      },
+      {
+        "nome": "Feira do Peixe de Ariquemes",
+        "descricao": "Famosa feira de peixes regionais e pratos típicos da Amazônia",
+        "lat": -9.9139,
+        "lon": -63.0408,
+        "detalhes": {
+          "endereço": "Av. Jatuarana, 3267 - Setor Institucional, Ariquemes - RO",
+          "hospedagem": "Hotéis em Ariquemes",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
         }
       }
     ]
   },
   "Roraima": {
-    "Parques naturais": [
+   "Parques naturais": [
       {
         "nome": "Monte Roraima",
-        "descricao": "Montanha mítica entre Brasil, Venezuela e Guiana",
+        "descricao": "Montanha mítica na tríplice fronteira entre Brasil, Venezuela e Guiana",
+        "lat": 5.1445,
+        "lon": -60.7659,
         "detalhes": {
           "endereço": "Trilha do Monte Roraima - Pacaraima - RR",
+          "hospedagem": "Pousadas em Boa Vista ou acampamentos guiados",
+          "clima": "Equatorial de altitude",
+          "transporte": "Expedições guiadas partindo de Pacaraima"
+        }
+      },
+      {
+        "nome": "Parque Nacional do Viruá",
+        "descricao": "Área de savanas amazônicas com rica biodiversidade",
+        "lat": 1.4167,
+        "lon": -61.0833,
+        "detalhes": {
+          "endereço": "Município de Caracaraí - RR",
+          "hospedagem": "Pousadas em Caracaraí",
+          "clima": "Equatorial",
+          "transporte": "Carro particular via BR-174"
+        }
+      },
+      {
+        "nome": "Parque Estadual Serra da Mocidade",
+        "descricao": "Área de proteção com formações rochosas impressionantes",
+        "lat": 1.5000,
+        "lon": -61.5000,
+        "detalhes": {
+          "endereço": "Entre Caracaraí e Rorainópolis - RR",
+          "hospedagem": "Acampamentos autorizados",
+          "clima": "Equatorial",
+          "transporte": "Acesso por barco ou avião monomotor"
+        }
+      },
+      {
+        "nome": "Tepequém",
+        "descricao": "Serra com cachoeiras e garimpo histórico",
+        "lat": 3.7500,
+        "lon": -61.7167,
+        "detalhes": {
+          "endereço": "Município de Amajari - RR",
+          "hospedagem": "Pousadas rústicas no local",
+          "clima": "Equatorial",
+          "transporte": "Carro 4x4 partindo de Boa Vista"
+        }
+      },
+      {
+        "nome": "Área de Proteção Ambiental Ilha de Maracá",
+        "descricao": "Ilha fluvial com ecossistema único na bacia do Rio Uraricoera",
+        "lat": 3.4167,
+        "lon": -61.6333,
+        "detalhes": {
+          "endereço": "Rio Uraricoera - RR",
+          "hospedagem": "Barcos-hotéis ou pousadas em Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Barco partindo de Boa Vista"
+        }
+      }
+    ],
+    "Cultura e história": [
+      {
+        "nome": "Marco Zero de Roraima",
+        "descricao": "Ponto central do planejamento radial de Boa Vista",
+        "lat": 2.8214,
+        "lon": -60.6719,
+        "detalhes": {
+          "endereço": "Praça Centro Cívico - Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Forte São Joaquim",
+        "descricao": "Ruínas do forte do século XVIII na fronteira com a Venezuela",
+        "lat": 3.8500,
+        "lon": -60.7167,
+        "detalhes": {
+          "endereço": "Confluência dos rios Tacutu e Uraricoera - RR",
           "hospedagem": "Pousadas em Boa Vista",
           "clima": "Equatorial",
-          "transporte": "Expedições guiadas"
+          "transporte": "Barco pelo Rio Branco"
+        }
+      },
+      {
+        "nome": "Igreja Matriz Nossa Senhora do Carmo",
+        "descricao": "Primeira igreja de Roraima, construída em 1957",
+        "lat": 2.8236,
+        "lon": -60.6733,
+        "detalhes": {
+          "endereço": "Praça do Centro Cívico - Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Comunidade Indígena São Marcos",
+        "descricao": "Aldeia indígena que preserva tradições dos povos Yanomami",
+        "lat": 2.9667,
+        "lon": -60.4833,
+        "detalhes": {
+          "endereço": "Terra Indígena São Marcos - RR",
+          "hospedagem": "Permissão necessária para pernoite",
+          "clima": "Equatorial",
+          "transporte": "Carro particular com guia autorizado"
+        }
+      },
+      {
+        "nome": "Memorial Governador Ottomar Pinto",
+        "descricao": "Espaço cultural que homenageia o desenvolvimento de Roraima",
+        "lat": 2.8200,
+        "lon": -60.6700,
+        "detalhes": {
+          "endereço": "Av. Capitão Ene Garcez - Centro, Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      }
+    ],
+    "Museus": [
+      {
+        "nome": "Museu Integrado de Roraima",
+        "descricao": "Principal museu do estado com acervo histórico e cultural",
+        "lat": 2.8239,
+        "lon": -60.6722,
+        "detalhes": {
+          "endereço": "Av. Brigadeiro Eduardo Gomes - Centro, Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Museu do Homem de Roraima",
+        "descricao": "Acervo antropológico dos povos indígenas da região",
+        "lat": 2.8244,
+        "lon": -60.6717,
+        "detalhes": {
+          "endereço": "Av. Capitão Ene Garcez - Centro, Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Museu da Câmara Municipal",
+        "descricao": "Preserva a história política e legislativa de Roraima",
+        "lat": 2.8219,
+        "lon": -60.6725,
+        "detalhes": {
+          "endereço": "Av. General Ataíde Teive - Centro, Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Museu do Garimpo",
+        "descricao": "História da mineração e ciclo do ouro em Roraima",
+        "lat": 2.8250,
+        "lon": -60.6736,
+        "detalhes": {
+          "endereço": "Rua Coronel Pinto - Centro, Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Museu de Arte Contemporânea de Roraima",
+        "descricao": "Exposições de arte moderna e contemporânea regional",
+        "lat": 2.8208,
+        "lon": -60.6719,
+        "detalhes": {
+          "endereço": "Av. Ville Roy - Centro, Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      }
+    ],
+    "Gastronomia": [
+      {
+        "nome": "Feira do Produtor Rural",
+        "descricao": "Feira de alimentos regionais e comidas típicas",
+        "lat": 2.8200,
+        "lon": -60.6750,
+        "detalhes": {
+          "endereço": "Av. Sebastião Diniz - Centro, Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Complexo Gastronômico Orla Taumanan",
+        "descricao": "Conjunto de restaurantes à beira do Rio Branco",
+        "lat": 2.8300,
+        "lon": -60.6800,
+        "detalhes": {
+          "endereço": "Av. Capitão Júlio Bezerra - Centro, Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Feira Indígena do Passarão",
+        "descricao": "Feira de artesanato e culinária indígena",
+        "lat": 2.9500,
+        "lon": -60.5000,
+        "detalhes": {
+          "endereço": "Comunidade Indígena Passarão - RR",
+          "hospedagem": "Pousadas em Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Carro particular com guia"
+        }
+      },
+      {
+        "nome": "Mercado Municipal de Boa Vista",
+        "descricao": "Mercado tradicional com variedade de produtos regionais",
+        "lat": 2.8186,
+        "lon": -60.6742,
+        "detalhes": {
+          "endereço": "Rua Floriano Peixoto - Centro, Boa Vista - RR",
+          "hospedagem": "Hotéis no centro de Boa Vista",
+          "clima": "Equatorial",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Vila Gastronômica de Pacaraima",
+        "descricao": "Restaurantes com culinária de fronteira Brasil-Venezuela",
+        "lat": 4.4797,
+        "lon": -61.1489,
+        "detalhes": {
+          "endereço": "Av. Principal - Pacaraima - RR",
+          "hospedagem": "Pousadas em Pacaraima",
+          "clima": "Equatorial",
+          "transporte": "Ônibus intermunicipal de Boa Vista"
         }
       }
     ]
   },
-  "Santa Catarina": {
-    "Litoral": [
+   "Santa Catarina": {
+    "Museus": [
+      {
+        "nome": "Museu Histórico de Santa Catarina (Palácio Cruz e Sousa)",
+        "descricao": "Localizado em um palácio do século XVIII, abriga acervo sobre a história política e cultural do estado.",
+        "lat": -27.5969,
+        "lon": -48.5497,
+        "detalhes": {
+          "endereço": "Praça XV de Novembro, 227 - Centro, Florianópolis - SC",
+          "hospedagem": "Hotéis no Centro de Florianópolis",
+          "clima": "Subtropical, média de 22°C",
+          "transporte": "Ônibus urbanos ou táxi"
+        }
+      },
+      {
+        "nome": "Museu da Imigração Alemã",
+        "descricao": "Preserva a história e cultura dos imigrantes alemães em Santa Catarina.",
+        "lat": -26.9228,
+        "lon": -49.0661,
+        "detalhes": {
+          "endereço": "Rua Hermann Weege, 180 - Pomerode - SC",
+          "hospedagem": "Pousadas em Pomerode",
+          "clima": "Subtropical úmido, média de 20°C",
+          "transporte": "Acesso por carro ou excursões"
+        }
+      },
+      {
+        "nome": "Museu do Mar",
+        "descricao": "Um dos maiores acervos de biologia marinha do Brasil, com esqueletos de baleias e tartarugas.",
+        "lat": -26.8808,
+        "lon": -48.6722,
+        "detalhes": {
+          "endereço": "Rua Manoel Severino de Oliveira, 273 - São Francisco do Sul - SC",
+          "hospedagem": "Hotéis em São Francisco do Sul",
+          "clima": "Subtropical, média de 23°C",
+          "transporte": "Ônibus ou carro"
+        }
+      },
+      {
+        "nome": "Museu Nacional do Mar",
+        "descricao": "Dedicado à cultura marítima brasileira, com embarcações tradicionais e instrumentos náuticos.",
+        "lat": -26.2394,
+        "lon": -48.8406,
+        "detalhes": {
+          "endereço": "Rua Manoel Lourenço de Andrade, 133 - Centro, Itajaí - SC",
+          "hospedagem": "Hotéis em Itajaí",
+          "clima": "Subtropical, média de 24°C",
+          "transporte": "Acesso por transporte urbano"
+        }
+      },
+      {
+        "nome": "Museu Casa Fritz Alt",
+        "descricao": "Antiga residência do escultor Fritz Alt, com obras e ateliê preservados.",
+        "lat": -26.9189,
+        "lon": -49.0664,
+        "detalhes": {
+          "endereço": "Rua Hermann Weege, 111 - Pomerode - SC",
+          "hospedagem": "Pousadas em Pomerode",
+          "clima": "Subtropical, média de 20°C",
+          "transporte": "Acesso por carro"
+        }
+      }
+    ],
+    "Cultura e história": [
+      {
+        "nome": "Fortaleza de Santa Cruz de Anhatomirim",
+        "descricao": "Fortaleza do século XVIII que protegía a entrada da Baía Norte de Florianópolis.",
+        "lat": -27.4258,
+        "lon": -48.5614,
+        "detalhes": {
+          "endereço": "Ilha de Anhatomirim - Governador Celso Ramos - SC",
+          "hospedagem": "Hotéis em Florianópolis ou Governador Celso Ramos",
+          "clima": "Subtropical, média de 23°C",
+          "transporte": "Barcos a partir de Florianópolis"
+        }
+      },
+      {
+        "nome": "Caminho dos Príncipes",
+        "descricao": "Rota turística que passa por cidades históricas com influência alemã e portuguesa.",
+        "lat": -26.4708,
+        "lon": -49.0736,
+        "detalhes": {
+          "endereço": "Região Norte de Santa Catarina (Joinville, São Francisco do Sul, etc.)",
+          "hospedagem": "Pousadas ao longo da rota",
+          "clima": "Subtropical, média de 21°C",
+          "transporte": "Carro ou excursões"
+        }
+      },
+      {
+        "nome": "Vila da Glória",
+        "descricao": "Comunidade histórica fundada por açorianos, com casas coloridas e tradições preservadas.",
+        "lat": -29.3586,
+        "lon": -49.7317,
+        "detalhes": {
+          "endereço": "São Francisco do Sul - SC",
+          "hospedagem": "Pousadas locais",
+          "clima": "Subtropical, média de 22°C",
+          "transporte": "Acesso por balsa ou estrada"
+        }
+      },
+      {
+        "nome": "Sítio Arqueológico do Sambaqui",
+        "descricao": "Sítio com vestígios de antigas comunidades indígenas, datando de até 5.000 anos.",
+        "lat": -27.1000,
+        "lon": -48.6167,
+        "detalhes": {
+          "endereço": "Praia do Santinho, Florianópolis - SC",
+          "hospedagem": "Hotéis na região",
+          "clima": "Subtropical, média de 23°C",
+          "transporte": "Acesso por carro"
+        }
+      },
+      {
+        "nome": "Catedral Metropolitana de Florianópolis",
+        "descricao": "Igreja histórica em estilo neogótico, construída no século XIX.",
+        "lat": -27.5944,
+        "lon": -48.5489,
+        "detalhes": {
+          "endereço": "Praça XV de Novembro, Centro, Florianópolis - SC",
+          "hospedagem": "Hotéis no Centro",
+          "clima": "Subtropical, média de 22°C",
+          "transporte": "Ônibus urbano"
+        }
+      }
+    ],
+    "Parques naturais": [
+      {
+        "nome": "Parque Nacional da Serra do Itajaí",
+        "descricao": "Área de Mata Atlântica preservada com trilhas, cachoeiras e rica biodiversidade.",
+        "lat": -26.9667,
+        "lon": -49.1667,
+        "detalhes": {
+          "endereço": "Acesso por Apiúna, Ascurra e outros municípios - SC",
+          "hospedagem": "Pousadas em Apiúna ou Blumenau",
+          "clima": "Subtropical úmido, média de 20°C",
+          "transporte": "Acesso por estradas municipais"
+        }
+      },
+      {
+        "nome": "Parque Estadual do Rio Vermelho",
+        "descricao": "Área de conservação com trilhas, lagoas e animais silvestres resgatados.",
+        "lat": -27.5908,
+        "lon": -48.4669,
+        "detalhes": {
+          "endereço": "Rodovia SC-406, km 01 - Florianópolis - SC",
+          "hospedagem": "Hotéis em Florianópolis",
+          "clima": "Subtropical, média de 22°C",
+          "transporte": "Ônibus ou carro"
+        }
+      },
+      {
+        "nome": "Parque Natural Municipal da Lagoa do Peri",
+        "descricao": "Maior lagoa de água doce de Florianópolis, cercada por Mata Atlântica.",
+        "lat": -27.7333,
+        "lon": -48.5167,
+        "detalhes": {
+          "endereço": "Rodovia Baldicero Filomeno - Sul da Ilha, Florianópolis - SC",
+          "hospedagem": "Pousadas no Sul da Ilha",
+          "clima": "Subtropical, média de 23°C",
+          "transporte": "Ônibus ou carro"
+        }
+      },
+      {
+        "nome": "Parque Estadual da Serra do Tabuleiro",
+        "descricao": "Maior parque estadual de SC, com ecossistemas variados, desde restingas até matas de altitude.",
+        "lat": -27.9333,
+        "lon": -48.8333,
+        "detalhes": {
+          "endereço": "Acesso por Palhoça, Santo Amaro da Imperatriz e outros municípios - SC",
+          "hospedagem": "Pousadas em Palhoça ou Florianópolis",
+          "clima": "Variado conforme altitude, média de 18°C a 25°C",
+          "transporte": "Acesso por estradas municipais"
+        }
+      },
+      {
+        "nome": "Parque Botânico do Morro do Baú",
+        "descricao": "Área preservada com mirante para o Vale do Itajaí e trilhas ecológicas.",
+        "lat": -27.1500,
+        "lon": -49.2333,
+        "detalhes": {
+          "endereço": "Rodovia SC-416 - Ilhota - SC",
+          "hospedagem": "Pousadas em Ilhota ou Blumenau",
+          "clima": "Subtropical, média de 21°C",
+          "transporte": "Acesso por carro"
+        }
+      }
+    ],
+    "Litorais": [
+      {
+        "nome": "Praia dos Ingleses",
+        "descricao": "Praia de águas claras e areia branca, muito procurada por turistas no verão.",
+        "lat": -27.4333,
+        "lon": -48.3833,
+        "detalhes": {
+          "endereço": "Ingleses, Florianópolis - SC",
+          "hospedagem": "Hotéis e pousadas em Ingleses",
+          "clima": "Subtropical, média de 25°C no verão",
+          "transporte": "Ônibus ou carro"
+        }
+      },
       {
         "nome": "Praia do Rosa",
-        "descricao": "Praia de surfe e natureza preservada",
+        "descricao": "Uma das praias mais famosas do Brasil, conhecida por suas paisagens e surf.",
+        "lat": -28.1333,
+        "lon": -48.6500,
         "detalhes": {
-          "endereço": "Praia do Rosa - Imbituba - SC",
-          "hospedagem": "Village Praia do Rosa",
-          "clima": "Subtropical",
-          "transporte": "Carro"
+          "endereço": "Imbituba - SC",
+          "hospedagem": "Pousadas e resorts na Praia do Rosa",
+          "clima": "Subtropical, média de 24°C no verão",
+          "transporte": "Acesso por estrada (SC-434)"
+        }
+      },
+      {
+        "nome": "Praia da Joaquina",
+        "descricao": "Famosa pelas dunas e campeonatos de surf, com areia fofa e ondas fortes.",
+        "lat": -27.6333,
+        "lon": -48.4500,
+        "detalhes": {
+          "endereço": "Joaquina, Florianópolis - SC",
+          "hospedagem": "Hotéis na Lagoa da Conceição ou Joaquina",
+          "clima": "Subtropical, média de 24°C no verão",
+          "transporte": "Ônibus ou carro"
+        }
+      },
+      {
+        "nome": "Bombinhas",
+        "descricao": "Conjunto de praias com águas cristalinas, ideal para mergulho e ecoturismo.",
+        "lat": -27.1500,
+        "lon": -48.5167,
+        "detalhes": {
+          "endereço": "Bombinhas - SC",
+          "hospedagem": "Pousadas e resorts em Bombinhas",
+          "clima": "Subtropical, média de 25°C no verão",
+          "transporte": "Acesso por carro (SC-414)"
+        }
+      },
+      {
+        "nome": "Praia do Campeche",
+        "descricao": "Praia extensa com areia branca e mar calmo, perfeita para famílias.",
+        "lat": -27.6833,
+        "lon": -48.4833,
+        "detalhes": {
+          "endereço": "Campeche, Florianópolis - SC",
+          "hospedagem": "Pousadas no Campeche",
+          "clima": "Subtropical, média de 24°C no verão",
+          "transporte": "Ônibus ou carro"
+        }
+      }
+    ],
+    "Gastronomia": [
+      {
+        "nome": "Mercado Público de Florianópolis",
+        "descricao": "Centro gastronômico com restaurantes de frutos do mar, como ostras e sequência de camarão.",
+        "lat": -27.5958,
+        "lon": -48.5522,
+        "detalhes": {
+          "endereço": "Rua Jerônimo Coelho, 60 - Centro, Florianópolis - SC",
+          "hospedagem": "Hotéis no Centro",
+          "clima": "Subtropical, média de 23°C",
+          "transporte": "Ônibus urbano"
+        }
+      },
+      {
+        "nome": "Feira da Lagoa",
+        "descricao": "Feira ao ar livre com comidas típicas açorianas, como pastel de berbigão e bolinhos de peixe.",
+        "lat": -27.6000,
+        "lon": -48.4667,
+        "detalhes": {
+          "endereço": "Lagoa da Conceição, Florianópolis - SC",
+          "hospedagem": "Pousadas na Lagoa",
+          "clima": "Subtropical, média de 23°C",
+          "transporte": "Ônibus ou carro"
+        }
+      },
+      {
+        "nome": "Vila Germânica (Blumenau)",
+        "descricao": "Complexo gastronômico com restaurantes de comida alemã, como eisbein e chucrute.",
+        "lat": -26.9181,
+        "lon": -49.0667,
+        "detalhes": {
+          "endereço": "Rua Alberto Stein, 199 - Velha, Blumenau - SC",
+          "hospedagem": "Hotéis em Blumenau",
+          "clima": "Subtropical, média de 21°C",
+          "transporte": "Ônibus urbano"
+        }
+      },
+      {
+        "nome": "Rota do Enxuto (Pomerode)",
+        "descricao": "Circuito de restaurantes que servem o tradicional 'enxuto', prato típico da colonização alemã.",
+        "lat": -26.7333,
+        "lon": -49.1667,
+        "detalhes": {
+          "endereço": "Pomerode - SC",
+          "hospedagem": "Pousadas em Pomerode",
+          "clima": "Subtropical, média de 20°C",
+          "transporte": "Acesso por carro"
+        }
+      },
+      {
+        "nome": "Feira do Coloninho (Joinville)",
+        "descricao": "Feira com comidas coloniais, como marreco com repolho roxo e cucas.",
+        "lat": -26.3019,
+        "lon": -48.8486,
+        "detalhes": {
+          "endereço": "Rua XV de Novembro - Centro, Joinville - SC",
+          "hospedagem": "Hotéis em Joinville",
+          "clima": "Subtropical, média de 22°C",
+          "transporte": "Ônibus urbano"
         }
       }
     ]
   },
+  
   "São Paulo": {
     "Litoral": [
       {
@@ -4711,6 +6960,8 @@
       {
         "nome": "Praia do Bonete",
         "descricao": "Uma das mais bonitas do Brasil, acesso por trilha de 12km ou barco",
+        "lat": -23.8167,
+        "lon": -45.3667,
         "detalhes": {
           "endereço": "Ilhabela - SP",
           "hospedagem": "Campings e pousadas rústicas na praia",
@@ -4721,6 +6972,8 @@
       {
         "nome": "Praia de Juquehy",
         "descricao": "Joia do Litoral Norte com areia branca extensa e águas calmas",
+        "lat": -23.7658,
+        "lon": -45.6889,
         "detalhes": {
           "endereço": "São Sebastião - SP",
           "hospedagem": "Resorts e pousadas na orla",
@@ -4731,6 +6984,8 @@
       {
         "nome": "Praia do Guaiúba",
         "descricao": "Praia familiar cercada por montanhas no Guarujá",
+        "lat": -23.9969,
+        "lon": -46.2208,
         "detalhes": {
           "endereço": "Guarujá - SP",
           "hospedagem": "Hotéis e resorts na região",
@@ -4743,6 +6998,8 @@
       {
         "nome": "MASP - Museu de Arte de São Paulo",
         "descricao": "Principal museu de arte do país com acervo de mais de 10 mil obras",
+        "lat": -23.5614,
+        "lon": -46.6561,
         "detalhes": {
           "endereço": "Av. Paulista, 1578 - Bela Vista, São Paulo - SP",
           "hospedagem": "Hotel Unique, Tivoli Mofarrej",
@@ -4753,6 +7010,8 @@
       {
         "nome": "Pinacoteca do Estado",
         "descricao": "Museu mais antigo da cidade com foco em arte brasileira dos séculos XIX-XXI",
+        "lat": -23.5344,
+        "lon": -46.6339,
         "detalhes": {
           "endereço": "Praça da Luz, 2 - Bom Retiro, São Paulo - SP",
           "hospedagem": "Hotéis no Centro Histórico",
@@ -4763,6 +7022,8 @@
       {
         "nome": "Museu Afro Brasil",
         "descricao": "Dedicado à cultura afro-brasileira no Parque Ibirapuera",
+        "lat": -23.5875,
+        "lon": -46.6586,
         "detalhes": {
           "endereço": "Av. Pedro Álvares Cabral - Parque Ibirapuera, São Paulo - SP",
           "hospedagem": "Hotéis na região da Avenida Paulista",
@@ -4773,6 +7034,8 @@
       {
         "nome": "Museu da Imigração Japonesa",
         "descricao": "Conta a história da imigração japonesa no Brasil com mais de 97 mil itens",
+        "lat": -23.5586,
+        "lon": -46.6347,
         "detalhes": {
           "endereço": "Rua São Joaquim, 381 - Liberdade, São Paulo - SP",
           "hospedagem": "Hotéis no bairro da Liberdade",
@@ -4783,6 +7046,8 @@
       {
         "nome": "Museu do Futebol",
         "descricao": "Celebra a história do futebol brasileiro no Estádio do Pacaembu",
+        "lat": -23.5469,
+        "lon": -46.6642,
         "detalhes": {
           "endereço": "Praça Charles Miller, s/n - Pacaembu, São Paulo - SP",
           "hospedagem": "Hotéis na região da Paulista",
@@ -4795,6 +7060,8 @@
       {
         "nome": "Parque Estadual da Serra do Mar",
         "descricao": "Maior contínuo preservado de Mata Atlântica do Brasil",
+        "lat": -23.5000,
+        "lon": -45.3000,
         "detalhes": {
           "endereço": "Vários acessos pelo litoral e serra de SP",
           "hospedagem": "Pousadas em cidades próximas",
@@ -4805,6 +7072,8 @@
       {
         "nome": "Parque Natural Municipal Fazenda do Carmo",
         "descricao": "Remanescente de Mata Atlântica na zona leste de São Paulo",
+        "lat": -23.5408,
+        "lon": -46.4736,
         "detalhes": {
           "endereço": "Estrada da Fazenda do Carmo, 350 - Itaquera, São Paulo - SP",
           "hospedagem": "Hotéis na zona leste de SP",
@@ -4815,6 +7084,8 @@
       {
         "nome": "Parque Estadual da Cantareira",
         "descricao": "Floresta urbana com trilhas e mirantes na região metropolitana",
+        "lat": -23.4333,
+        "lon": -46.6333,
         "detalhes": {
           "endereço": "Av. Pedro de Souza Lopes, 7903 - Mairiporã - SP",
           "hospedagem": "Hotéis na zona norte de SP",
@@ -4825,6 +7096,8 @@
       {
         "nome": "Parque Estadual do Jaraguá",
         "descricao": "Abriga o ponto mais alto da cidade de São Paulo (Pico do Jaraguá)",
+        "lat": -23.4583,
+        "lon": -46.7625,
         "detalhes": {
           "endereço": "Rua Antônio Cardoso Nogueira, 539 - Vila Chica Luiza, São Paulo - SP",
           "hospedagem": "Hotéis na zona oeste de SP",
@@ -4835,6 +7108,8 @@
       {
         "nome": "Parque Natural Municipal Varginha",
         "descricao": "Unidade de conservação com trilhas e cachoeiras no extremo sul de SP",
+        "lat": -23.7667,
+        "lon": -46.7000,
         "detalhes": {
           "endereço": "Av. Paulo Guilguer Reimberg, 6.200 - Chácara Santo Amaro, São Paulo - SP",
           "hospedagem": "Hotéis na zona sul de SP",
@@ -4847,6 +7122,8 @@
       {
         "nome": "Catedral da Sé",
         "descricao": "Principal templo católico da cidade em estilo neogótico",
+        "lat": -23.5509,
+        "lon": -46.6339,
         "detalhes": {
           "endereço": "Praça da Sé, s/n - Centro, São Paulo - SP",
           "hospedagem": "Hotéis no centro histórico",
@@ -4857,6 +7134,8 @@
       {
         "nome": "Mercado Municipal",
         "descricao": "Mercado histórico com arquitetura impressionante e gastronomia diversa",
+        "lat": -23.5419,
+        "lon": -46.6322,
         "detalhes": {
           "endereço": "Rua da Cantareira, 306 - Centro, São Paulo - SP",
           "hospedagem": "Hotéis no centro histórico",
@@ -4867,6 +7146,8 @@
       {
         "nome": "Bairro da Liberdade",
         "descricao": "Principal reduto da cultura japonesa na América Latina",
+        "lat": -23.5586,
+        "lon": -46.6358,
         "detalhes": {
           "endereço": "Região da Liberdade - Centro, São Paulo - SP",
           "hospedagem": "Hotéis no bairro da Liberdade",
@@ -4877,6 +7158,8 @@
       {
         "nome": "Teatro Municipal",
         "descricao": "Importante marco arquitetônico e cultural da cidade",
+        "lat": -23.5456,
+        "lon": -46.6392,
         "detalhes": {
           "endereço": "Praça Ramos de Azevedo, s/n - Centro, São Paulo - SP",
           "hospedagem": "Hotéis no centro histórico",
@@ -4887,6 +7170,8 @@
       {
         "nome": "Pátio do Colégio",
         "descricao": "Marco zero da cidade de São Paulo, local da fundação em 1554",
+        "lat": -23.5503,
+        "lon": -46.6331,
         "detalhes": {
           "endereço": "Praça Pátio do Colégio, 2 - Centro, São Paulo - SP",
           "hospedagem": "Hotéis no centro histórico",
@@ -4899,6 +7184,8 @@
       {
         "nome": "Mercado Municipal de São Paulo",
         "descricao": "Famoso pelo sanduíche de mortadela e variedade de produtos gourmet",
+        "lat": -23.5419,
+        "lon": -46.6322,
         "detalhes": {
           "endereço": "Rua da Cantareira, 306 - Centro, São Paulo - SP",
           "hospedagem": "Hotéis no centro histórico",
@@ -4909,6 +7196,8 @@
       {
         "nome": "Bairro do Bixiga",
         "descricao": "Tradicional reduto da gastronomia italiana em São Paulo",
+        "lat": -23.5583,
+        "lon": -46.6450,
         "detalhes": {
           "endereço": "Bela Vista - São Paulo - SP",
           "hospedagem": "Hotéis na região da Avenida Paulista",
@@ -4919,6 +7208,8 @@
       {
         "nome": "Feira da Liberdade",
         "descricao": "Feira de comida japonesa e oriental aos finais de semana",
+        "lat": -23.5586,
+        "lon": -46.6358,
         "detalhes": {
           "endereço": "Praça da Liberdade - Liberdade, São Paulo - SP",
           "hospedagem": "Hotéis no bairro da Liberdade",
@@ -4929,6 +7220,8 @@
       {
         "nome": "Rua Oscar Freire",
         "descricao": "Endereço sofisticado com restaurantes premiados e cafés charmosos",
+        "lat": -23.5639,
+        "lon": -46.6669,
         "detalhes": {
           "endereço": "Jardins - São Paulo - SP",
           "hospedagem": "Hotéis na região dos Jardins",
@@ -4939,6 +7232,8 @@
       {
         "nome": "Vila Madalena",
         "descricao": "Bairro boêmio com bares tradicionais e gastronomia diversificada",
+        "lat": -23.5508,
+        "lon": -46.6919,
         "detalhes": {
           "endereço": "Vila Madalena - São Paulo - SP",
           "hospedagem": "Hotéis na região da Vila Madalena",
@@ -4949,32 +7244,627 @@
     ]
   },
   "Sergipe": {
-    "Litoral": [
+    "Museus": [
+      {
+        "nome": "Museu da Gente Sergipana",
+        "descricao": "Museu interativo que celebra a cultura e história do povo sergipano com tecnologia e exposições imersivas.",
+        "lat": -10.9128,
+        "lon": -37.0536,
+        "detalhes": {
+          "endereço": "Av. Ivo do Prado, 398 - Centro, Aracaju - SE",
+          "hospedagem": "Hotéis no Centro de Aracaju",
+          "clima": "Tropical, média de 26°C",
+          "transporte": "Ônibus urbanos ou táxi"
+        }
+      },
+      {
+        "nome": "Museu Histórico de Sergipe",
+        "descricao": "Instalado no antigo Palácio Provincial, preserva mobiliário e documentos do período imperial.",
+        "lat": -10.5936,
+        "lon": -37.3850,
+        "detalhes": {
+          "endereço": "Praça São Francisco, 149 - São Cristóvão - SE",
+          "hospedagem": "Pousadas em São Cristóvão",
+          "clima": "Tropical úmido, média de 27°C",
+          "transporte": "Ônibus intermunicipal ou carro"
+        }
+      },
+      {
+        "nome": "Museu do Homem Sergipano",
+        "descricao": "Dedicado à antropologia cultural, com acervo sobre as tradições populares do estado.",
+        "lat": -10.9136,
+        "lon": -37.0528,
+        "detalhes": {
+          "endereço": "Rua Estância, 228 - Centro, Aracaju - SE",
+          "hospedagem": "Hotéis na Orla de Atalaia",
+          "clima": "Tropical, média de 26°C",
+          "transporte": "Táxi ou transporte urbano"
+        }
+      },
+      {
+        "nome": "Museu de Arte Sacra",
+        "descricao": "Importante coleção de arte sacra brasileira dos séculos XVII ao XIX.",
+        "lat": -10.5933,
+        "lon": -37.3847,
+        "detalhes": {
+          "endereço": "Praça São Francisco - São Cristóvão - SE",
+          "hospedagem": "Pousadas em São Cristóvão",
+          "clima": "Tropical úmido, média de 27°C",
+          "transporte": "Ônibus de Aracaju"
+        }
+      },
+      {
+        "nome": "Museu do Banco do Brasil (Centro Cultural de Aracaju)",
+        "descricao": "Exposições artísticas e históricas no antigo prédio do Banco do Brasil.",
+        "lat": -10.9089,
+        "lon": -37.0486,
+        "detalhes": {
+          "endereço": "Rua Vila Cristina, 141 - Centro, Aracaju - SE",
+          "hospedagem": "Hotéis no Centro",
+          "clima": "Tropical, média de 26°C",
+          "transporte": "A pé ou táxi"
+        }
+      }
+    ],
+    "Cultura e história": [
+      {
+        "nome": "Conjunto Arquitetônico da Praça São Francisco (Patrimônio Mundial da UNESCO)",
+        "descricao": "Importante complexo barroco do século XVIII, incluindo a Igreja e Convento de São Francisco.",
+        "lat": -10.5936,
+        "lon": -37.3850,
+        "detalhes": {
+          "endereço": "Praça São Francisco - São Cristóvão - SE",
+          "hospedagem": "Pousadas em São Cristóvão",
+          "clima": "Tropical úmido, média de 27°C",
+          "transporte": "Ônibus de Aracaju (25km)"
+        }
+      },
+      {
+        "nome": "Centro Histórico de Laranjeiras",
+        "descricao": "Cidade colonial com casarios coloridos, igrejas barrocas e tradições culturais afro-brasileiras.",
+        "lat": -10.8069,
+        "lon": -37.1708,
+        "detalhes": {
+          "endereço": "Laranjeiras - SE",
+          "hospedagem": "Pousadas locais",
+          "clima": "Tropical, média de 26°C",
+          "transporte": "Ônibus a partir de Aracaju (23km)"
+        }
+      },
+      {
+        "nome": "Passarela do Caranguejo",
+        "descricao": "Complexo gastronômico e cultural à beira-rio, famoso pelos pratos de caranguejo e apresentações folclóricas.",
+        "lat": -10.9064,
+        "lon": -37.0433,
+        "detalhes": {
+          "endereço": "Av. Santos Dumont - Porto D'Areia, Aracaju - SE",
+          "hospedagem": "Hotéis na Orla de Atalaia",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "Táxi ou transporte urbano"
+        }
+      },
+      {
+        "nome": "Casa de Cultura João Ribeiro",
+        "descricao": "Centro cultural em homenagem ao intelectual sergipano, com biblioteca e exposições.",
+        "lat": -10.9131,
+        "lon": -37.0533,
+        "detalhes": {
+          "endereço": "Rua Vila Cristina, 86 - Centro, Aracaju - SE",
+          "hospedagem": "Hotéis no Centro",
+          "clima": "Tropical, média de 26°C",
+          "transporte": "A pé no centro"
+        }
+      },
+      {
+        "nome": "Ponte do Imperador",
+        "descricao": "Ponte histórica de 1860 que Dom Pedro II cruzou durante sua visita a Sergipe.",
+        "lat": -10.9242,
+        "lon": -37.0497,
+        "detalhes": {
+          "endereço": "Rio Sergipe - Aracaju - SE",
+          "hospedagem": "Hotéis na Orla",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "Táxi ou carro"
+        }
+      }
+    ],
+    "Parques naturais": [
+      {
+        "nome": "Parque Nacional Serra de Itabaiana",
+        "descricao": "Área de caatinga e mata atlântica com trilhas, piscinas naturais e formações rochosas.",
+        "lat": -10.7500,
+        "lon": -37.4167,
+        "detalhes": {
+          "endereço": "Acesso por Itabaiana e Areia Branca - SE",
+          "hospedagem": "Pousadas em Itabaiana",
+          "clima": "Semiárido, média de 30°C",
+          "transporte": "Carro ou excursões"
+        }
+      },
+      {
+        "nome": "Parque dos Falcões",
+        "descricao": "Santuário de aves de rapina com mais de 700 falcões e corujas, incluindo espécies raras.",
+        "lat": -10.5333,
+        "lon": -37.4500,
+        "detalhes": {
+          "endereço": "Zona Rural - Itabaiana - SE",
+          "hospedagem": "Pousadas em Itabaiana",
+          "clima": "Semiárido, média de 29°C",
+          "transporte": "Carro particular"
+        }
+      },
+      {
+        "nome": "Parque da Cidade",
+        "descricao": "Maior área verde de Aracaju, com trilhas, lagos e espaço para esportes.",
+        "lat": -10.9389,
+        "lon": -37.0736,
+        "detalhes": {
+          "endereço": "Av. Dep. Heráclito Vieira Rollemberg - Jardins, Aracaju - SE",
+          "hospedagem": "Hotéis na Zona Sul",
+          "clima": "Tropical, média de 27°C",
+          "transporte": "Ônibus ou táxi"
+        }
+      },
+      {
+        "nome": "Reserva Biológica de Santa Isabel",
+        "descricao": "Área de preservação de manguezais e restinga, importante para aves migratórias.",
+        "lat": -10.8333,
+        "lon": -36.9167,
+        "detalhes": {
+          "endereço": "Litoral Norte - Santa Isabel - SE",
+          "hospedagem": "Pousadas em Pirambu",
+          "clima": "Tropical úmido, média de 28°C",
+          "transporte": "Carro pela SE-100"
+        }
+      },
+      {
+        "nome": "Cânion do Xingó (compartilhado com Alagoas)",
+        "descricao": "Formações rochosas impressionantes às margens do Rio São Francisco, com passeios de catamarã.",
+        "lat": -9.6167,
+        "lon": -37.8000,
+        "detalhes": {
+          "endereço": "Acesso por Canindé de São Francisco - SE",
+          "hospedagem": "Hotéis em Canindé",
+          "clima": "Semiárido, média de 32°C",
+          "transporte": "Excursões ou carro (200km de Aracaju)"
+        }
+      }
+    ],
+    "Litorais": [
       {
         "nome": "Praia de Atalaia",
-        "descricao": "Praia urbana em Aracaju",
+        "descricao": "Principal praia urbana de Aracaju, com calçadão, restaurantes e animada vida noturna.",
+        "lat": -10.9500,
+        "lon": -37.0500,
         "detalhes": {
-          "endereço": "Av. Santos Dumont - Atalaia, Aracaju - SE",
-          "hospedagem": "Del Mar Hotel",
-          "clima": "Tropical",
+          "endereço": "Orla de Atalaia - Aracaju - SE",
+          "hospedagem": "Resorts e hotéis na orla",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "Ônibus ou táxi"
+        }
+      },
+      {
+        "nome": "Praia do Saco",
+        "descricao": "Baía de águas calmas e cristalinas, considerada uma das mais bonitas do Nordeste.",
+        "lat": -11.1667,
+        "lon": -37.1333,
+        "detalhes": {
+          "endereço": "Estância - SE",
+          "hospedagem": "Pousadas em Estância",
+          "clima": "Tropical, média de 27°C",
+          "transporte": "Carro (70km de Aracaju)"
+        }
+      },
+      {
+        "nome": "Praia de Pirambu",
+        "descricao": "Conhecida pela desova de tartarugas marinhas e projeto Tamar.",
+        "lat": -10.7333,
+        "lon": -36.8500,
+        "detalhes": {
+          "endereço": "Pirambu - SE",
+          "hospedagem": "Pousadas rústicas",
+          "clima": "Tropical úmido, média de 28°C",
+          "transporte": "Carro pela SE-100 (60km)"
+        }
+      },
+      {
+        "nome": "Praia da Costa",
+        "descricao": "Praia urbana de águas mornas e extenso coqueiral, ideal para famílias.",
+        "lat": -11.0167,
+        "lon": -37.0667,
+        "detalhes": {
+          "endereço": "Aracaju - SE",
+          "hospedagem": "Hotéis na região",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "Ônibus urbano"
+        }
+      },
+      {
+        "nome": "Praia de Mangue Seco (divisa com Bahia)",
+        "descricao": "Acesso apenas por barco, com dunas, mangues e cenário imortalizado na novela 'Tieta'.",
+        "lat": -11.4333,
+        "lon": -37.3000,
+        "detalhes": {
+          "endereço": "Jandaíra - SE",
+          "hospedagem": "Pousadas rústicas",
+          "clima": "Tropical úmido, média de 29°C",
+          "transporte": "Barcos a partir de Estância (2h)"
+        }
+      }
+    ],
+    "Gastronomia": [
+      {
+        "nome": "Mercado Thales Ferraz",
+        "descricao": "Mercado municipal com barracas de comidas típicas como moqueca de siri e buchada de bode.",
+        "lat": -10.9083,
+        "lon": -37.0500,
+        "detalhes": {
+          "endereço": "Av. Ivo do Prado, 398 - Centro, Aracaju - SE",
+          "hospedagem": "Hotéis no Centro",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "A pé no centro"
+        }
+      },
+      {
+        "nome": "Feira de Artesanato da Orla de Atalaia",
+        "descricao": "Feira noturna com barracas de comida regional como caldinho de sururu e acarajé.",
+        "lat": -10.9500,
+        "lon": -37.0500,
+        "detalhes": {
+          "endereço": "Orla de Atalaia - Aracaju - SE",
+          "hospedagem": "Hotéis na orla",
+          "clima": "Tropical, média de 27°C",
           "transporte": "Táxi ou ônibus"
+        }
+      },
+      {
+        "nome": "Vila do Caranguejo",
+        "descricao": "Conjunto de restaurantes especializados em caranguejo e frutos do mar típicos.",
+        "lat": -10.9064,
+        "lon": -37.0433,
+        "detalhes": {
+          "endereço": "Av. Santos Dumont - Porto D'Areia, Aracaju - SE",
+          "hospedagem": "Hotéis na orla",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "Táxi"
+        }
+      },
+      {
+        "nome": "Restaurante do Mangue",
+        "descricao": "Especializado em pratos com sururu, molusco típico dos mangues sergipanos.",
+        "lat": -10.9067,
+        "lon": -37.0444,
+        "detalhes": {
+          "endereço": "Av. Santos Dumont, 1000 - Porto D'Areia, Aracaju - SE",
+          "hospedagem": "Hotéis na orla",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "Táxi"
+        }
+      },
+      {
+        "nome": "Feira da 13 de Julho",
+        "descricao": "Feira livre tradicional com barracas de comidas regionais como sarapatel e mungunzá.",
+        "lat": -10.9139,
+        "lon": -37.0583,
+        "detalhes": {
+          "endereço": "Av. 13 de Julho - Centro, Aracaju - SE",
+          "hospedagem": "Hotéis no Centro",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "A pé no centro"
         }
       }
     ]
   },
   "Tocantins": {
+    "Museus": [
+      {
+        "nome": "Memorial Coluna Prestes",
+        "descricao": "Museu dedicado à história da Coluna Prestes, movimento revolucionário que passou pela região.",
+        "lat": -10.2500,
+        "lon": -48.3333,
+        "detalhes": {
+          "endereço": "Praça dos Girassóis, Palmas - TO",
+          "hospedagem": "Hotéis em Palmas",
+          "clima": "Tropical, média de 30°C",
+          "transporte": "Ônibus urbano ou táxi"
+        }
+      },
+      {
+        "nome": "Museu Histórico do Tocantins",
+        "descricao": "Preserva a história da criação do estado e sua cultura, com artefatos indígenas e objetos do ciclo do ouro.",
+        "lat": -10.1847,
+        "lon": -48.3339,
+        "detalhes": {
+          "endereço": "Praça dos Girassóis, Palmas - TO",
+          "hospedagem": "Hotéis em Palmas",
+          "clima": "Tropical, média de 30°C",
+          "transporte": "Ônibus urbano"
+        }
+      },
+      {
+        "nome": "Museu da Cultura Indígena Karajá",
+        "descricao": "Celebra a cultura e tradições do povo Karajá, com artesanato, cerâmicas e objetos rituais.",
+        "lat": -9.9167,
+        "lon": -49.9333,
+        "detalhes": {
+          "endereço": "Aldeia Santa Isabel do Morro, Ilha do Bananal - TO",
+          "hospedagem": "Pousadas em São Félix do Araguaia",
+          "clima": "Tropical úmido, média de 32°C",
+          "transporte": "Barco ou avião monomotor"
+        }
+      },
+      {
+        "nome": "Museu do Pequeno Príncipe",
+        "descricao": "Museu temático dedicado à obra de Saint-Exupéry, com exposições interativas.",
+        "lat": -10.2125,
+        "lon": -48.8817,
+        "detalhes": {
+          "endereço": "Rua 27 de Outubro, Gurupi - TO",
+          "hospedagem": "Hotéis em Gurupi",
+          "clima": "Tropical, média de 29°C",
+          "transporte": "Ônibus urbano"
+        }
+      },
+      {
+        "nome": "Casa de Cultura de Natividade",
+        "descricao": "Antiga cadeia pública transformada em centro cultural, com exposições sobre o ciclo do ouro.",
+        "lat": -11.7139,
+        "lon": -47.7236,
+        "detalhes": {
+          "endereço": "Praça da Matriz, Natividade - TO",
+          "hospedagem": "Pousadas em Natividade",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "Carro (200km de Palmas)"
+        }
+      }
+    ],
+    "Cultura e história": [
+      {
+        "nome": "Centro Histórico de Natividade",
+        "descricao": "Cidade colonial fundada no século XVIII, com igrejas barrocas e ruas de pedra.",
+        "lat": -11.7139,
+        "lon": -47.7236,
+        "detalhes": {
+          "endereço": "Natividade - TO",
+          "hospedagem": "Pousadas coloniais",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "Carro (200km de Palmas)"
+        }
+      },
+      {
+        "nome": "Praça dos Girassóis",
+        "descricao": "Maior praça pública do Brasil, com monumentos que contam a história do Tocantins.",
+        "lat": -10.1847,
+        "lon": -48.3339,
+        "detalhes": {
+          "endereço": "Palmas - TO",
+          "hospedagem": "Hotéis em Palmas",
+          "clima": "Tropical, média de 32°C",
+          "transporte": "A pé no centro"
+        }
+      },
+      {
+        "nome": "Forte de São João das Duas Barras",
+        "descricao": "Ruínas do século XVIII que protegiam a navegação no Rio Araguaia.",
+        "lat": -9.4333,
+        "lon": -48.2167,
+        "detalhes": {
+          "endereço": "Confluência dos rios Araguaia e Javaés - TO",
+          "hospedagem": "Pousadas em Caseara",
+          "clima": "Tropical úmido, média de 34°C",
+          "transporte": "Barco a partir de Caseara"
+        }
+      },
+      {
+        "nome": "Feira da 304 Sul",
+        "descricao": "Maior feira ao ar livre de Palmas, com artesanato, comidas típicas e música regional.",
+        "lat": -10.2050,
+        "lon": -48.3358,
+        "detalhes": {
+          "endereço": "Quadra 304 Sul - Palmas - TO",
+          "hospedagem": "Hotéis em Palmas",
+          "clima": "Tropical, média de 32°C",
+          "transporte": "Ônibus urbano"
+        }
+      },
+      {
+        "nome": "Cachoeira da Roncadeira",
+        "descricao": "Cenário de lendas indígenas e quilombolas, com queda d'água de 70 metros.",
+        "lat": -12.9167,
+        "lon": -46.8333,
+        "detalhes": {
+          "endereço": "Arraias - TO",
+          "hospedagem": "Pousadas em Arraias",
+          "clima": "Tropical semiárido, média de 33°C",
+          "transporte": "Carro (300km de Palmas)"
+        }
+      }
+    ],
     "Parques naturais": [
       {
-        "nome": "Jalapão",
-        "descricao": "Fervedouros, dunas e rios cristalinos",
+        "nome": "Parque Estadual do Jalapão",
+        "descricao": "Paisagens únicas com dunas alaranjadas, cachoeiras e formações rochosas.",
+        "lat": -10.5333,
+        "lon": -46.6667,
         "detalhes": {
-          "endereço": "Estrada TO-255 - Mateiros - TO",
-          "hospedagem": "Pousadas locais",
-          "clima": "Tropical",
-          "transporte": "Veículos 4x4"
+          "endereço": "Região Leste do Tocantins",
+          "hospedagem": "Eco-pousadas em Mateiros",
+          "clima": "Semiárido, média de 35°C",
+          "transporte": "Carro 4x4 (300km de Palmas)"
+        }
+      },
+      {
+        "nome": "Parque Nacional do Araguaia (Ilha do Bananal)",
+        "descricao": "Maior ilha fluvial do mundo, com savanas e áreas alagadas ricas em vida selvagem.",
+        "lat": -10.5000,
+        "lon": -50.6667,
+        "detalhes": {
+          "endereço": "Sul do Tocantins",
+          "hospedagem": "Alojamentos em São Félix do Araguaia",
+          "clima": "Tropical úmido, média de 32°C",
+          "transporte": "Barcos ou aviões monomotores"
+        }
+      },
+      {
+        "nome": "Parque Estadual do Cantão",
+        "descricao": "Ecossistema único com mais de 800 lagos e 300 espécies de aves.",
+        "lat": -9.5833,
+        "lon": -49.9167,
+        "detalhes": {
+          "endereço": "Entre os rios Araguaia e Coco",
+          "hospedagem": "Pousadas em Caseara",
+          "clima": "Tropical úmido, média de 33°C",
+          "transporte": "Barco a partir de Caseara"
+        }
+      },
+      {
+        "nome": "Serra Geral do Tocantins",
+        "descricao": "Cenário de cânions e cachoeiras no extremo sul do estado.",
+        "lat": -11.5000,
+        "lon": -47.3667,
+        "detalhes": {
+          "endereço": "Divisa com Bahia",
+          "hospedagem": "Pousadas em Ponte Alta do Tocantins",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "Carro 4x4"
+        }
+      },
+      {
+        "nome": "Lagoa do Japonês",
+        "descricao": "Lagoa de águas cristalinas cercada por dunas no coração do Jalapão.",
+        "lat": -10.3833,
+        "lon": -46.5333,
+        "detalhes": {
+          "endereço": "Próximo a Mateiros - TO",
+          "hospedagem": "Acampamentos ou pousadas em Mateiros",
+          "clima": "Semiárido, média de 36°C",
+          "transporte": "Carro 4x4 com guia"
+        }
+      }
+    ],
+    "Litorais": [
+      {
+        "nome": "Praia da Graciosa",
+        "descricao": "Praia fluvial no Rio Tocantins, com estrutura de lazer e esportes aquáticos.",
+        "lat": -10.2167,
+        "lon": -48.3333,
+        "detalhes": {
+          "endereço": "Palmas - TO",
+          "hospedagem": "Hotéis em Palmas",
+          "clima": "Tropical, média de 32°C",
+          "transporte": "Ônibus urbano"
+        }
+      },
+      {
+        "nome": "Praia do Caju",
+        "descricao": "Praia de água doce com areias brancas e vegetação típica do cerrado.",
+        "lat": -5.6667,
+        "lon": -47.8833,
+        "detalhes": {
+          "endereço": "Tocantinópolis - TO",
+          "hospedagem": "Pousadas em Tocantinópolis",
+          "clima": "Tropical úmido, média de 34°C",
+          "transporte": "Carro (400km de Palmas)"
+        }
+      },
+      {
+        "nome": "Praia do Javaés",
+        "descricao": "Extensa praia fluvial na Ilha do Bananal, acessível apenas por barco.",
+        "lat": -9.9167,
+        "lon": -50.1333,
+        "detalhes": {
+          "endereço": "Ilha do Bananal - TO",
+          "hospedagem": "Alojamentos rústicos",
+          "clima": "Tropical úmido, média de 33°C",
+          "transporte": "Barco a partir de Caseara"
+        }
+      },
+      {
+        "nome": "Praia do Arnos",
+        "descricao": "Praia fluvial no Rio Araguaia, popular durante a temporada de seca (julho a outubro).",
+        "lat": -9.9167,
+        "lon": -48.9667,
+        "detalhes": {
+          "endereço": "Araguacema - TO",
+          "hospedagem": "Barracas e pousadas simples",
+          "clima": "Tropical, média de 35°C",
+          "transporte": "Carro (200km de Palmas)"
+        }
+      },
+      {
+        "nome": "Praia do Buriti",
+        "descricao": "Praia de rio com dunas de areia branca no Parque Estadual do Cantão.",
+        "lat": -9.5833,
+        "lon": -49.9167,
+        "detalhes": {
+          "endereço": "Caseara - TO",
+          "hospedagem": "Pousadas em Caseara",
+          "clima": "Tropical úmido, média de 33°C",
+          "transporte": "Barco a partir de Caseara"
+        }
+      }
+    ],
+    "Gastronomia": [
+      {
+        "nome": "Feira do Bosque",
+        "descricao": "Feira noturna em Palmas com comidas típicas como peixe na telha e arroz com pequi.",
+        "lat": -10.2000,
+        "lon": -48.3333,
+        "detalhes": {
+          "endereço": "Avenida NS-10 - Palmas - TO",
+          "hospedagem": "Hotéis em Palmas",
+          "clima": "Tropical, média de 30°C",
+          "transporte": "Ônibus urbano"
+        }
+      },
+      {
+        "nome": "Restaurante Flutuante do Rio Araguaia",
+        "descricao": "Experiência gastronômica em plataformas sobre o rio, servindo pescado fresco.",
+        "lat": -9.9167,
+        "lon": -48.9667,
+        "detalhes": {
+          "endereço": "Araguacema - TO",
+          "hospedagem": "Pousadas em Araguacema",
+          "clima": "Tropical, média de 35°C",
+          "transporte": "Carro ou barco"
+        }
+      },
+      {
+        "nome": "Feira de Natividade",
+        "descricao": "Feira colonial com doces artesanais, queijos e cachaças de alambique.",
+        "lat": -11.7139,
+        "lon": -47.7236,
+        "detalhes": {
+          "endereço": "Centro Histórico, Natividade - TO",
+          "hospedagem": "Pousadas em Natividade",
+          "clima": "Tropical, média de 28°C",
+          "transporte": "Carro"
+        }
+      },
+      {
+        "nome": "Bar do Peixe",
+        "descricao": "Famoso por pratos com peixes do Rio Tocantins como tucunaré e pirarucu.",
+        "lat": -10.1833,
+        "lon": -48.3333,
+        "detalhes": {
+          "endereço": "Avenida JK, Palmas - TO",
+          "hospedagem": "Hotéis em Palmas",
+          "clima": "Tropical, média de 32°C",
+          "transporte": "Táxi"
+        }
+      },
+      {
+        "nome": "Vila do Pequi",
+        "descricao": "Evento gastronômico em Gurupi dedicado ao pequi, fruto símbolo do cerrado.",
+        "lat": -11.7289,
+        "lon": -49.0686,
+        "detalhes": {
+          "endereço": "Gurupi - TO",
+          "hospedagem": "Hotéis em Gurupi",
+          "clima": "Tropical, média de 29°C",
+          "transporte": "Ônibus urbano"
         }
       }
     ]
-  
   }
 }
