@@ -54,7 +54,7 @@ palavras_chave = {
     "Litoral": ["praias", "litoral", "mar", "costa", "praia"],
     "Cultura e história": ["historia", "cultura", "igreja", "monumento", "centro historico"],
     "Museus": ["museu", "exposicao", "arte"],
-    "Gastronomia": ["comida", "culinaria", "restaurante", "gastronomia", "prato tipico"]
+    "Gastronomia": ["comida", "culinaria", "restaurante", "gastronomia", "prato tipico", "comidas",]
 }
 
 # Memória para recomendações
