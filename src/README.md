@@ -102,8 +102,8 @@ Inclua aqui prints, gifs ou vídeos mostrando a interface ou o funcionamento do 
 
 | Nome | GitHub |
 |------|--------|
-| Leonel Santos Caires | [@fulano](https://github.com/leoncaires) |
-| Elton Dos Santos Rodrigues| [@ciclano](https://github.com/eltonrodrigues) |
+| Leonel Santos Caires | [@leoncaires](https://github.com/leoncaires) |
+| Elton Dos Santos Rodrigues| [@elton-sr](https://github.com/elton-sr) |
 
 ---
 
