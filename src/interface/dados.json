@@ -2813,7 +2813,7 @@
     {
     "nome": "Feira da Praia Grande",
     "descricao": "Uma das feiras mais tradicionais de São Luís, oferece uma variedade de pratos típicos maranhenses, como arroz de cuxá, peixe frito e sucos regionais.",
-    "Lat": -2.5300,
+    "lat": -2.5300,
     "lon": -44.3900,
     "detalhes": {
         "endereço": "Praia Grande, São Luís - MA",
@@ -2825,7 +2825,7 @@
     {
     "nome": "Vila Palmeira",
     "descricao": "Conhecida por seus bares e restaurantes que servem pratos típicos como torta de camarão e carne de sol com macaxeira.",
-    "Lat": -2.5400,
+    "lat": -2.5400,
     "lon": -44.2800,
     "detalhes": {
         "endereço": "Vila Palmeira, São Luís - MA",
@@ -2837,7 +2837,7 @@
     {
     "nome": "Mercado do Peixe",
     "descricao": "Famoso pela venda de peixes frescos e pratos regionais como caldeirada e moqueca de peixe.",
-    "Lat": -2.5200,
+    "lat": -2.5200,
     "lon": -44.3800,
     "detalhes": {
         "endereço": "Av. Guaxenduba, Centro, São Luís - MA",
@@ -2849,7 +2849,7 @@
     {
     "nome": "Feira do Bacanga",
     "descricao": "Oferece uma experiência autêntica da culinária maranhense, com destaque para o sururu e o caranguejo.",
-    "Lat": -2.5500,
+    "lat": -2.5500,
     "lon": -44.3500,
     "detalhes": {
         "endereço": "Bacanga, São Luís - MA",
@@ -2861,7 +2861,7 @@
     {
     "nome": "Restaurante Senac",
     "descricao": "Referência em gastronomia maranhense, oferece pratos tradicionais como o cuxá e o bobó de camarão em um ambiente sofisticado.",
-    "Lat": -2.5100,
+    "lat": -2.5100,
     "lon": -44.3700,
     "detalhes": {
         "endereço": "Rua do Egito, Centro, São Luís - MA",
@@ -2877,7 +2877,7 @@
     {
     "nome": "Parque Nacional da Chapada dos Guimarães",
     "descricao": "Conhecido por suas formações rochosas impressionantes, cachoeiras deslumbrantes e trilhas ecológicas que oferecem vistas panorâmicas únicas.",
-    "Lat": -15.4167,
+    "lat": -15.4167,
     "lon": -55.8333,
     "detalhes": {
         "endereço": "Chapada dos Guimarães, MT",
@@ -2889,7 +2889,7 @@
     {
     "nome": "Parque Estadual Cristalino",
     "descricao": "Um dos mais importantes refúgios de biodiversidade da Amazônia, com torres de observação que permitem avistar a copa das árvores e animais silvestres.",
-    "Lat": -9.5333,
+    "lat": -9.5333,
     "lon": -55.8333,
     "detalhes": {
         "endereço": "Alta Floresta, MT",
@@ -2901,7 +2901,7 @@
     {
     "nome": "Parque Nacional do Pantanal Matogrossense",
     "descricao": "Patrimônio Natural da Humanidade pela UNESCO, oferece experiências únicas de observação da vida selvagem pantaneira, incluindo jacarés e aves raras.",
-    "Lat": -16.5000,
+    "lat": -16.5000,
     "lon": -56.4167,
     "detalhes": {
         "endereço": "Poconé, MT",
@@ -2913,7 +2913,7 @@
     {
     "nome": "Parque Estadual Serra Azul",
     "descricao": "Destaca-se por suas formações de cerrado e serras azuladas, com nascentes de água cristalina e trilhas para banho em cachoeiras.",
-    "Lat": -14.9667,
+    "lat": -14.9667,
     "lon": -53.8833,
     "detalhes": {
         "endereço": "Barra do Garças, MT",
@@ -2925,7 +2925,7 @@
     {
     "nome": "Parque Municipal Mãe Bonifácia",
     "descricao": "Principal área verde urbana de Cuiabá, ideal para caminhadas, observação de aves e contato com a natureza sem sair da capital.",
-    "Lat": -15.5833,
+    "lat": -15.5833,
     "lon": -56.0833,
     "detalhes": {
         "endereço": "Av. Miguel Sutil - Jardim Fortaleza, Cuiabá - MT",
@@ -2939,7 +2939,7 @@
     {
     "nome": "Casa do Artesão",
     "descricao": "Espaço que preserva e comercializa o artesanato típico de Mato Grosso, com peças em cerâmica, madeira e fibras naturais feitas por indígenas e artesãos locais.",
-    "Lat": -15.5969,
+    "lat": -15.5969,
     "lon": -56.0947,
     "detalhes": {
         "endereço": "Rua 13 de Junho, 315 - Centro Sul, Cuiabá - MT",
@@ -2951,7 +2951,7 @@
     {
     "nome": "Igreja Nossa Senhora do Rosário e São Benedito",
     "descricao": "Construída no século XVIII, é considerada a igreja mais antiga de Cuiabá e abriga importantes manifestações culturais como a Festa de São Benedito.",
-    "Lat": -15.5964,
+    "lat": -15.5964,
     "lon": -56.0961,
     "detalhes": {
         "endereço": "Praça do Rosário, s/n - Centro, Cuiabá - MT",
@@ -2963,7 +2963,7 @@
     {
     "nome": "Centro Geodésico da América do Sul",
     "descricao": "Marco histórico que simboliza o ponto central do continente sul-americano, calculado no século XIX pelo Marechal Rondon.",
-    "Lat": -15.5961,
+    "lat": -15.5961,
     "lon": -56.0967,
     "detalhes": {
         "endereço": "Praça Moreira Cabral - Centro, Cuiabá - MT",
@@ -2975,7 +2975,7 @@
     {
     "nome": "Casarão do Padre Paes",
     "descricao": "Importante construção do período colonial que serviu como residência de um dos primeiros sacerdotes de Cuiabá, hoje espaço cultural com eventos e exposições.",
-    "Lat": -15.5958,
+    "lat": -15.5958,
     "lon": -56.0958,
     "detalhes": {
         "endereço": "Rua Galdino Pimentel, 21 - Centro, Cuiabá - MT",
@@ -2987,7 +2987,7 @@
     {
     "nome": "Memorial Rondon",
     "descricao": "Homenagem ao marechal Cândido Rondon, explorador e sertanista mato-grossense, com acervo sobre suas expedições e a construção das linhas telegráficas.",
-    "Lat": -15.5972,
+    "lat": -15.5972,
     "lon": -56.0972,
     "detalhes": {
         "endereço": "Av. Historiador Rubens de Mendonça - Bosque da Saúde, Cuiabá - MT",
@@ -3001,7 +3001,7 @@
       {
     "nome": "Museu Histórico de Mato Grosso",
     "descricao": "Instalado no Palácio da Instrução, o museu preserva importantes documentos e objetos que contam a história política e cultural do estado desde o período colonial.",
-    "Lat": -15.5969,
+    "lat": -15.5969,
     "lon": -56.0958,
     "detalhes": {
         "endereço": "Praça da República, 131 - Centro, Cuiabá - MT",
@@ -3013,7 +3013,7 @@
     {
     "nome": "Museu de Arte e Cultura Popular (MACP)",
     "descricao": "Localizado na Universidade Federal de Mato Grosso, o museu abriga rico acervo de arte popular, com peças que representam as tradições indígenas e regionais.",
-    "Lat": -15.6083,
+    "lat": -15.6083,
     "lon": -56.0644,
     "detalhes": {
         "endereço": "Av. Fernando Corrêa da Costa, 2367 - Boa Esperança, Cuiabá - MT",
@@ -3025,7 +3025,7 @@
     {
     "nome": "Museu do Morro da Caixa d'Água Velha",
     "descricao": "Instalado no primeiro reservatório de água de Cuiabá, construído em 1882, o museu apresenta exposições sobre a história do saneamento e desenvolvimento urbano da cidade.",
-    "Lat": -15.5936,
+    "lat": -15.5936,
     "lon": -56.0939,
     "detalhes": {
         "endereço": "Rua Comandante Costa, s/n - Centro, Cuiabá - MT",
@@ -3037,7 +3037,7 @@
     {
     "nome": "Museu Rondon",
     "descricao": "Dedicado à memória do Marechal Cândido Rondon, o museu apresenta artefatos etnográficos, documentos históricos e objetos das expedições pelo interior do Brasil.",
-    "Lat": -15.6081,
+    "lat": -15.6081,
     "lon": -56.0639,
     "detalhes": {
         "endereço": "Av. Fernando Corrêa da Costa, 2367 - UFMT, Cuiabá - MT",
@@ -3049,7 +3049,7 @@
     {
     "nome": "Museu de Pré-História Casa Dom Aquino",
     "descricao": "Aborda a pré-história mato-grossense com fósseis de animais gigantes e artefatos arqueológicos, incluindo um acervo paleontológico de mais de 5 mil peças.",
-    "Lat": -15.6036,
+    "lat": -15.6036,
     "lon": -56.0819,
     "detalhes": {
         "endereço": "Av. Beira Rio, 2000 - Jardim Dom Aquino, Cuiabá - MT",
@@ -3063,7 +3063,7 @@
       {
     "nome": "Feira do Porto",
     "descricao": "Principal feira gastronômica de Cuiabá, oferece pratos típicos como mojica de pintado, pacu assado e sobá, além de artesanato local.",
-    "Lat": -15.5958,
+    "lat": -15.5958,
     "lon": -56.0961,
     "detalhes": {
         "endereço": "Av. Manoel José de Arruda - Porto, Cuiabá - MT",
@@ -3075,7 +3075,7 @@
     {
     "nome": "Vila Bela da Santíssima Trindade",
     "descricao": "Primeira capital de Mato Grosso, preserva tradições gastronômicas como o furrundu (doce de mamão) e peixes típicos da região.",
-    "Lat": -15.0089,
+    "lat": -15.0089,
     "lon": -59.9508,
     "detalhes": {
         "endereço": "Vila Bela da Santíssima Trindade - MT",
@@ -3087,7 +3087,7 @@
     {
     "nome": "Feira do Peixe de Várzea Grande",
     "descricao": "Famosa pela variedade de peixes do Pantanal preparados na hora, incluindo caldo de piranha e pacu frito.",
-    "Lat": -15.6500,
+    "lat": -15.6500,
     "lon": -56.1333,
     "detalhes": {
         "endereço": "Av. da FEB, 2200 - Cristo Rei, Várzea Grande - MT",
@@ -3099,7 +3099,7 @@
     {
     "nome": "Cuiabá Antiga",
     "descricao": "Complexo gastronômico em casarões históricos que oferece desde comida típica mato-grossense até gastronomia contemporânea.",
-    "Lat": -15.5964,
+    "lat": -15.5964,
     "lon": -56.0953,
     "detalhes": {
         "endereço": "Rua Voluntários da Pátria, 90 - Porto, Cuiabá - MT",
@@ -3111,7 +3111,7 @@
     {
     "nome": "Feira do Largo da Mandioca",
     "descricao": "Tradicional feira de comida regional onde se encontra desde farofa de banana da terra até licores de frutas do cerrado.",
-    "Lat": -15.5981,
+    "lat": -15.5981,
     "lon": -56.0975,
     "detalhes": {
         "endereço": "Largo da Mandioca - Centro, Cuiabá - MT",
@@ -3127,7 +3127,7 @@
      {
     "nome": "Parque Nacional da Serra da Bodoquena",
     "descricao": "Conhecido por suas águas cristalinas, grutas e cachoeiras, é um dos principais destinos de ecoturismo do estado, com rica biodiversidade do Cerrado e Pantanal.",
-    "Lat": -20.6500,
+    "lat": -20.6500,
     "lon": -56.8167,
     "detalhes": {
         "endereço": "Bodoquena - MS",
@@ -3139,7 +3139,7 @@
     {
     "nome": "Parque Natural Municipal Salto do Sucuriú",
     "descricao": "Abriga uma das mais belas cachoeiras do estado, com queda d'água de 50 metros de altura, ideal para banho e contemplação da natureza.",
-    "Lat": -22.2214,
+    "lat": -22.2214,
     "lon": -53.3286,
     "detalhes": {
         "endereço": "Jardim - MS",
@@ -3151,7 +3151,7 @@
     {
     "nome": "Parque Estadual do Prosa",
     "descricao": "Localizado em Campo Grande, preserva áreas de Cerrado e é importante para pesquisas e educação ambiental, com trilhas e mirante natural.",
-    "Lat": -20.4667,
+    "lat": -20.4667,
     "lon": -54.6000,
     "detalhes": {
         "endereço": "Av. Cônsul Assaf Trad, 4796 - Parque dos Novos Estados, Campo Grande - MS",
@@ -3163,7 +3163,7 @@
     {
     "nome": "Parque Nacional das Emas",
     "descricao": "Patrimônio Natural da Humanidade pela UNESCO, abriga espécies ameaçadas como o tamanduá-bandeira e o tatu-canastra, além de vastas planícies do Cerrado.",
-    "Lat": -18.0833,
+    "lat": -18.0833,
     "lon": -52.9167,
     "detalhes": {
         "endereço": "Mineiros - GO (acesso também por MS)",
@@ -3175,7 +3175,7 @@
     {
     "nome": "Parque Natural Municipal Grutas de São Miguel",
     "descricao": "Complexo de cavernas e formações calcárias com pinturas rupestres indígenas, além de trilhas e riachos de águas cristalinas.",
-    "Lat": -21.9833,
+    "lat": -21.9833,
     "lon": -56.3833,
     "detalhes": {
         "endereço": "São Miguel - MS",
@@ -3189,7 +3189,7 @@
       {
         "nome": "Marco do Centro Geográfico da América do Sul",
         "descricao": "Localizado em Chapada dos Guimarães, este marco simboliza o ponto central do continente sul-americano, calculado no século XIX.",
-        "Lat": -15.4606,
+        "lat": -15.4606,
         "lon": -55.7497,
         "detalhes": {
             "endereço": "Chapada dos Guimarães - MT",
@@ -3201,7 +3201,7 @@
     {
         "nome": "Igreja Nossa Senhora Santana",
         "descricao": "Construída em 1779, é considerada a igreja mais antiga de Mato Grosso do Sul, localizada no distrito de Albuquerque, em Corumbá.",
-        "Lat": -19.0083,
+        "lat": -19.0083,
         "lon": -57.6514,
         "detalhes": {
             "endereço": "Distrito de Albuquerque, Corumbá - MS",
@@ -3213,7 +3213,7 @@
     {
         "nome": "Casa do Artesão de Campo Grande",
         "descricao": "Centro cultural que preserva e comercializa o artesanato típico de Mato Grosso do Sul, com peças indígenas e regionais.",
-        "Lat": -20.4686,
+        "lat": -20.4686,
         "lon": -54.6222,
         "detalhes": {
             "endereço": "Av. Calógeras, 2050 - Centro, Campo Grande - MS",
@@ -3225,7 +3225,7 @@
     {
         "nome": "Forte Coimbra",
         "descricao": "Construção militar do século XVIII às margens do Rio Paraguai, importante marco histórico das defesas fronteiriças brasileiras.",
-        "Lat": -19.9333,
+        "lat": -19.9333,
         "lon": -57.8000,
         "detalhes": {
             "endereço": "Margem direita do Rio Paraguai, Corumbá - MS",
@@ -3237,7 +3237,7 @@
     {
         "nome": "Memorial da Cultura Indígena",
         "descricao": "Espaço dedicado à preservação das tradições dos povos Terena, Kadiwéu e Guarani, com exposição de artefatos e arquitetura tradicional.",
-        "Lat": -20.4697,
+        "lat": -20.4697,
         "lon": -54.6200,
         "detalhes": {
             "endereço": "Av. Calógeras, 3000 - Centro, Campo Grande - MS",
@@ -3251,7 +3251,7 @@
       {
         "nome": "Museu de Arte Contemporânea (MARCO)",
         "descricao": "Principal espaço de arte contemporânea do estado, com acervo de obras de artistas regionais e nacionais, além de exposições temporárias.",
-        "Lat": -20.4686,
+        "lat": -20.4686,
         "lon": -54.6222,
         "detalhes": {
             "endereço": "Av. Calógeras, 1205 - Centro, Campo Grande - MS",
@@ -3263,7 +3263,7 @@
     {
         "nome": "Museu da Imagem e do Som (MIS)",
         "descricao": "Preserva a memória audiovisual do estado, com acervo fotográfico, discográfico e equipamentos antigos de comunicação.",
-        "Lat": -20.4694,
+        "lat": -20.4694,
         "lon": -54.6208,
         "detalhes": {
             "endereço": "Av. Fernando Corrêa da Costa, 559 - Centro, Campo Grande - MS",
@@ -3275,7 +3275,7 @@
     {
         "nome": "Museu do Pantanal",
         "descricao": "Localizado em Corumbá, retrata a história natural e cultural do Pantanal, com exposições sobre a fauna, flora e tradições pantaneiras.",
-        "Lat": -19.0083,
+        "lat": -19.0083,
         "lon": -57.6514,
         "detalhes": {
             "endereço": "Rua Manoel Cavassa, 275 - Porto Geral, Corumbá - MS",
@@ -3287,7 +3287,7 @@
     {
         "nome": "Museu de História do Pantanal (MUHPAN)",
         "descricao": "Navega pela história da região pantaneira desde os primeiros habitantes até os dias atuais, com acervo interativo e tecnologias modernas.",
-        "Lat": -19.0078,
+        "lat": -19.0078,
         "lon": -57.6508,
         "detalhes": {
             "endereço": "Rua Manoel Cavassa, 275 - Porto Geral, Corumbá - MS",
@@ -3299,7 +3299,7 @@
     {
         "nome": "Museu José Antônio Pereira",
         "descricao": "Homenageia o fundador de Campo Grande, com réplicas de construções históricas e objetos que contam a origem da capital sul-mato-grossense.",
-        "Lat": -20.4700,
+        "lat": -20.4700,
         "lon": -54.6211,
         "detalhes": {
             "endereço": "Av. Guaicurus, s/n - Jardim Monte Alegre, Campo Grande - MS",
@@ -3313,7 +3313,7 @@
       {
         "nome": "Feira Central de Campo Grande",
         "descricao": "Tradicional feira noturna que oferece pratos típicos como o sobá (macarrão oriental adaptado), caldo de piranha e carne de jacaré.",
-        "Lat": -20.4686,
+        "lat": -20.4686,
         "lon": -54.6222,
         "detalhes": {
             "endereço": "Av. Calógeras, s/n - Centro, Campo Grande - MS",
@@ -3325,7 +3325,7 @@
     {
         "nome": "Vila Nasser em Corumbá",
         "descricao": "Famosa por seus restaurantes à beira do Rio Paraguai, especializados em peixes pantaneiros como pacu, pintado e dourado.",
-        "Lat": -19.0083,
+        "lat": -19.0083,
         "lon": -57.6514,
         "detalhes": {
             "endereço": "Av. General Rondon, s/n - Centro, Corumbá - MS",
@@ -3337,7 +3337,7 @@
     {
         "nome": "Feira do Peixe de Três Lagoas",
         "descricao": "Conhecida pela variedade de peixes do Rio Paraná preparados na hora, incluindo receitas tradicionais como o pacu assado na brasa.",
-        "Lat": -20.7511,
+        "lat": -20.7511,
         "lon": -51.6783,
         "detalhes": {
             "endereço": "Av. Filinto Müller, s/n - Centro, Três Lagoas - MS",
@@ -3349,7 +3349,7 @@
     {
         "nome": "Casa do Artesão de Bonito",
         "descricao": "Além de artesanato, oferece degustação de doces e licores típicos da região, como os de bocaiuva e jenipapo.",
-        "Lat": -21.1303,
+        "lat": -21.1303,
         "lon": -56.4819,
         "detalhes": {
             "endereço": "Rua Cel. Pilad Rebuá, 1786 - Centro, Bonito - MS",
@@ -3361,7 +3361,7 @@
     {
         "nome": "Feira Indígena de Dourados",
         "descricao": "Espaço onde comunidades indígenas comercializam produtos tradicionais como milho pipoca, mandioca e mel silvestre.",
-        "Lat": -22.2214,
+        "lat": -22.2214,
         "lon": -54.8058,
         "detalhes": {
             "endereço": "Av. Marcelino Pires, s/n - Centro, Dourados - MS",
@@ -3377,7 +3377,7 @@
           {
         "nome": "Parque Nacional da Serra do Cipó",
         "descricao": "Conhecido por suas cachoeiras deslumbrantes, cânions impressionantes e rica biodiversidade da flora do Cerrado e Campos Rupestres.",
-        "Lat": -19.3833,
+        "lat": -19.3833,
         "lon": -43.5333,
         "detalhes": {
             "endereço": "Serra do Cipó - MG",
@@ -3389,7 +3389,7 @@
     {
         "nome": "Parque Estadual do Ibitipoca",
         "descricao": "Famoso por suas formações rochosas únicas, grutas e mirantes naturais com vistas panorâmicas, além da Lagoa Seca e Pico do Pião.",
-        "Lat": -21.7167,
+        "lat": -21.7167,
         "lon": -43.8833,
         "detalhes": {
             "endereço": "Lima Duarte - MG",
@@ -3401,7 +3401,7 @@
     {
         "nome": "Parque Nacional das Sempre-Vivas",
         "descricao": "Protege ecossistemas únicos de Campos Rupestres e é famoso pela diversidade de flores sempre-vivas, além de nascentes de importantes rios.",
-        "Lat": -17.8333,
+        "lat": -17.8333,
         "lon": -43.7667,
         "detalhes": {
             "endereço": "Região do Alto Jequitinhonha - MG",
@@ -3413,7 +3413,7 @@
     {
         "nome": "Parque Estadual do Rio Doce",
         "descricao": "Maior reserva de Mata Atlântica de Minas Gerais, com 42 lagoas naturais, rica fauna silvestre e trilhas ecológicas.",
-        "Lat": -19.6833,
+        "lat": -19.6833,
         "lon": -42.5500,
         "detalhes": {
             "endereço": "Marliéria - MG",
@@ -3425,7 +3425,7 @@
     {
         "nome": "Parque Estadual do Biribiri",
         "descricao": "Situado no distrito de Biribiri em Diamantina, oferece cachoeiras cristalinas, antiga vila operária e paisagens da Serra do Espinhaço.",
-        "Lat": -18.2667,
+        "lat": -18.2667,
         "lon": -43.6000,
         "detalhes": {
             "endereço": "Diamantina - MG",
@@ -3439,7 +3439,7 @@
     {
         "nome": "Centro Histórico de Ouro Preto",
         "descricao": "Patrimônio Mundial da UNESCO, com igrejas barrocas, casarões coloniais e ruas de paralelepípedos que preservam o auge do ciclo do ouro no Brasil.",
-        "Lat": -20.3856,
+        "lat": -20.3856,
         "lon": -43.5036,
         "detalhes": {
             "endereço": "Ouro Preto - MG",
@@ -3451,7 +3451,7 @@
     {
         "nome": "Santuário do Bom Jesus de Matosinhos",
         "descricao": "Conjunto arquitetônico e paisagístico em Congonhas, famoso pelos 12 profetas esculpidos por Aleijadinho e os passos da Paixão.",
-        "Lat": -20.5000,
+        "lat": -20.5000,
         "lon": -43.8578,
         "detalhes": {
             "endereço": "Praça do Santuário, s/n - Congonhas - MG",
@@ -3463,7 +3463,7 @@
     {
         "nome": "Cidade Histórica de Diamantina",
         "descricao": "Outro Patrimônio Mundial da UNESCO, preserva arquitetura colonial e tradições como a Vesperata, com músicos tocando das sacadas dos casarões.",
-        "Lat": -18.2419,
+        "lat": -18.2419,
         "lon": -43.6031,
         "detalhes": {
             "endereço": "Diamantina - MG",
@@ -3475,7 +3475,7 @@
     {
         "nome": "Conjunto Arquitetônico da Pampulha",
         "descricao": "Projetado por Oscar Niemeyer em Belo Horizonte, inclui a Igreja de São Francisco, o Museu de Arte e o Cassino (atual Museu da Pampulha).",
-        "Lat": -19.8519,
+        "lat": -19.8519,
         "lon": -43.9714,
         "detalhes": {
             "endereço": "Av. Otacílio Negrão de Lima - Pampulha, Belo Horizonte - MG",
@@ -3487,7 +3487,7 @@
     {
         "nome": "Arraial do Tijuco em Serro",
         "descricao": "Cidade histórica que preserva tradições como a fabricação do queijo do Serro e arquitetura colonial em um dos conjuntos mais autênticos de MG.",
-        "Lat": -18.6047,
+        "lat": -18.6047,
         "lon": -43.3806,
         "detalhes": {
             "endereço": "Serro - MG",
@@ -3501,7 +3501,7 @@
       {
         "nome": "Museu da Inconfidência",
         "descricao": "Instalado na antiga Casa de Câmara e Cadeia de Ouro Preto, preserva documentos e objetos relacionados à Inconfidência Mineira e ao ciclo do ouro.",
-        "Lat": -20.3856,
+        "lat": -20.3856,
         "lon": -43.5036,
         "detalhes": {
             "endereço": "Praça Tiradentes, 139 - Centro, Ouro Preto - MG",
@@ -3513,7 +3513,7 @@
     {
         "nome": "Museu de Arte da Pampulha (MAP)",
         "descricao": "Primeiro projeto de Oscar Niemeyer no conjunto da Pampulha, abriga importante acervo de arte moderna e contemporânea brasileira.",
-        "Lat": -19.8519,
+        "lat": -19.8519,
         "lon": -43.9714,
         "detalhes": {
             "endereço": "Av. Otacílio Negrão de Lima, 16585 - Pampulha, Belo Horizonte - MG",
@@ -3525,7 +3525,7 @@
     {
         "nome": "Museu do Oratório",
         "descricao": "Aborda a religiosidade mineira através de uma coleção única de oratórios e imagens sacras dos séculos XVII ao XX.",
-        "Lat": -20.3850,
+        "lat": -20.3850,
         "lon": -43.5033,
         "detalhes": {
             "endereço": "Adro da Igreja do Carmo, 28 - Centro, Ouro Preto - MG",
@@ -3537,7 +3537,7 @@
     {
         "nome": "Museu Casa Guignard",
         "descricao": "Dedicado ao pintor Alberto da Veiga Guignard, funciona na casa onde viveu em Ouro Preto, com obras do artista e exposições temporárias.",
-        "Lat": -20.3861,
+        "lat": -20.3861,
         "lon": -43.5028,
         "detalhes": {
             "endereço": "Rua Conde de Bobadela, 110 - Centro, Ouro Preto - MG",
@@ -3549,7 +3549,7 @@
     {
         "nome": "Museu de Artes e Ofícios",
         "descricao": "Localizado na Estação Ferroviária de Belo Horizonte, apresenta o universo do trabalho antes da industrialização, com ferramentas e equipamentos históricos.",
-        "Lat": -19.9167,
+        "lat": -19.9167,
         "lon": -43.9333,
         "detalhes": {
             "endereço": "Praça Rui Barbosa, 600 - Centro, Belo Horizonte - MG",
@@ -3563,7 +3563,7 @@
       {
         "nome": "Feira Hippie de Belo Horizonte",
         "descricao": "Maior feira ao ar livre da América Latina, com diversas barracas de comida mineira tradicional como pão de queijo, feijão tropeiro e doce de leite.",
-        "Lat": -19.9167,
+        "lat": -19.9167,
         "lon": -43.9333,
         "detalhes": {
             "endereço": "Av. Afonso Pena - Centro, Belo Horizonte - MG",
@@ -3575,7 +3575,7 @@
     {
         "nome": "Vila do Queijo em Serro",
         "descricao": "Famosa pela produção artesanal do Queijo do Serro, com lojas que oferecem degustação e venda do queijo tradicional e derivados.",
-        "Lat": -18.6047,
+        "lat": -18.6047,
         "lon": -43.3806,
         "detalhes": {
             "endereço": "Serro - MG",
@@ -3587,7 +3587,7 @@
     {
         "nome": "Feira de São Joaquim em Sabará",
         "descricao": "Tradicional feira que preserva receitas centenárias como o Frango com Quiabo e Angu, além de doces em compotas e licores artesanais.",
-        "Lat": -19.8906,
+        "lat": -19.8906,
         "lon": -43.8069,
         "detalhes": {
             "endereço": "Praça Melo Viana - Centro, Sabará - MG",
@@ -3599,7 +3599,7 @@
     {
         "nome": "Vila de Biribiri",
         "descricao": "Distrito de Diamantina que oferece comidas típicas em ambiente rústico, como costelinha com mandioca e doces de frutas do cerrado.",
-        "Lat": -18.2667,
+        "lat": -18.2667,
         "lon": -43.6000,
         "detalhes": {
             "endereço": "Diamantina - MG",
@@ -3611,7 +3611,7 @@
     {
         "nome": "Feira do Largo da Ordem em Tiradentes",
         "descricao": "Evento gastronômico aos finais de semana com quitandas mineiras, cachaças artesanais e pratos típicos servidos em ambiente histórico.",
-        "Lat": -21.1103,
+        "lat": -21.1103,
         "lon": -44.1744,
         "detalhes": {
             "endereço": "Largo das Forras - Centro, Tiradentes - MG",
@@ -3627,7 +3627,7 @@
         {
         "nome": "Praia de Alter do Chão",
         "descricao": "Conhecida como 'Caribe Brasileiro', possui águas cristalinas e areias brancas, formando ilhas fluviais no Rio Tapajós durante a vazante.",
-        "Lat": -2.5069,
+        "lat": -2.5069,
         "lon": -54.9528,
         "detalhes": {
             "endereço": "Alter do Chão, Santarém - PA",
@@ -3639,7 +3639,7 @@
     {
         "nome": "Praia do Amor",
         "descricao": "Praia isolada com formações rochosas impressionantes, ideal para banho e contemplação da natureza no Rio Tapajós.",
-        "Lat": -2.4167,
+        "lat": -2.4167,
         "lon": -54.7333,
         "detalhes": {
             "endereço": "Ilha do Amor, Alter do Chão - PA",
@@ -3651,7 +3651,7 @@
     {
         "nome": "Praia de Marudá",
         "descricao": "Portal de entrada para a Ilha de Marajó, com extensa faixa de areia e cultura ribeirinha preservada.",
-        "Lat": -0.7500,
+        "lat": -0.7500,
         "lon": -47.6000,
         "detalhes": {
             "endereço": "Marudá, Salinópolis - PA",
@@ -3663,7 +3663,7 @@
     {
         "nome": "Praia do Pesqueiro",
         "descricao": "Uma das mais movimentadas de Salinópolis, com infraestrutura de barracas e esportes aquáticos no litoral paraense.",
-        "Lat": -0.6333,
+        "lat": -0.6333,
         "lon": -47.3500,
         "detalhes": {
             "endereço": "Salinópolis - PA",
@@ -3675,7 +3675,7 @@
     {
         "nome": "Praia de Ajuruteua",
         "descricao": "Extensa praia oceânica com dunas e manguezais preservados, parte do complexo do Golfão Maranhense.",
-        "Lat": -0.8000,
+        "lat": -0.8000,
         "lon": -46.6000,
         "detalhes": {
             "endereço": "Bragança - PA",
@@ -3689,7 +3689,7 @@
       {
         "nome": "Parque Nacional da Amazônia",
         "descricao": "Um dos maiores parques nacionais do Brasil, protege uma extensa área da Floresta Amazônica com rica biodiversidade, incluindo espécies ameaçadas como a onça-pintada e o peixe-boi.",
-        "Lat": -4.4500,
+        "lat": -4.4500,
         "lon": -56.8333,
         "detalhes": {
             "endereço": "Itaituba - PA",
@@ -3701,7 +3701,7 @@
     {
         "nome": "Parque Estadual do Utinga",
         "descricao": "Localizado na região metropolitana de Belém, protege importantes mananciais de água e oferece trilhas, mirantes e observação de fauna silvestre.",
-        "Lat": -1.4167,
+        "lat": -1.4167,
         "lon": -48.4000,
         "detalhes": {
             "endereço": "Av. João Paulo II, s/n - Belém - PA",
@@ -3713,7 +3713,7 @@
     {
         "nome": "Parque Nacional dos Campos Ferruginosos",
         "descricao": "Protege ecossistemas únicos de campos rupestres sobre formações ferruginosas na Serra dos Carajás, com espécies endêmicas da flora.",
-        "Lat": -6.0833,
+        "lat": -6.0833,
         "lon": -50.1500,
         "detalhes": {
             "endereço": "Parauapebas - PA",
@@ -3725,7 +3725,7 @@
     {
         "nome": "Parque Estadual Monte Alegre",
         "descricao": "Abriga sítios arqueológicos com pinturas rupestres milenares e formações geológicas impressionantes na região do Baixo Amazonas.",
-        "Lat": -1.9833,
+        "lat": -1.9833,
         "lon": -54.0667,
         "detalhes": {
             "endereço": "Monte Alegre - PA",
@@ -3737,7 +3737,7 @@
     {
         "nome": "Parque Estadual Charapucu",
         "descricao": "Área de proteção ambiental na região do Araguaia, com lagos, igarapés e fauna diversificada, incluindo aves migratórias.",
-        "Lat": -5.1667,
+        "lat": -5.1667,
         "lon": -48.2667,
         "detalhes": {
             "endereço": "Araguatins - TO (acesso pelo PA)",
@@ -3751,7 +3751,7 @@
     {
         "nome": "Complexo Feliz Lusitânia",
         "descricao": "Conjunto arquitetônico no centro histórico de Belém que inclui a Fortaleza do Castelo, a Catedral da Sé e o Museu de Arte Sacra, representando a fundação da cidade.",
-        "Lat": -1.4542,
+        "lat": -1.4542,
         "lon": -48.5033,
         "detalhes": {
             "endereço": "Praça Dom Frei Caetano Brandão - Cidade Velha, Belém - PA",
@@ -3763,7 +3763,7 @@
     {
         "nome": "Ver-o-Peso",
         "descricao": "Famoso mercado público às margens da Baía do Guajará, símbolo da cultura paraense com venda de produtos regionais, ervas medicinais e artesanato.",
-        "Lat": -1.4519,
+        "lat": -1.4519,
         "lon": -48.5036,
         "detalhes": {
             "endereço": "Av. Boulevard Castilhos França - Campina, Belém - PA",
@@ -3775,7 +3775,7 @@
     {
         "nome": "Cidade Histórica de Vigia",
         "descricao": "Uma das primeiras povoações portuguesas na Amazônia, preserva casarões coloniais e a Igreja de São Francisco Xavier do século XVIII.",
-        "Lat": -0.8500,
+        "lat": -0.8500,
         "lon": -48.1500,
         "detalhes": {
             "endereço": "Vigia de Nazaré - PA",
@@ -3787,7 +3787,7 @@
     {
         "nome": "Engenho do Murutucu",
         "descricao": "Ruínas de um dos mais importantes engenhos de cana-de-açúcar do período colonial na Amazônia, com arquitetura do século XVIII.",
-        "Lat": -1.4167,
+        "lat": -1.4167,
         "lon": -48.4333,
         "detalhes": {
             "endereço": "Rod. Augusto Montenegro - Belém - PA",
@@ -3799,7 +3799,7 @@
     {
         "nome": "Forte do Presépio",
         "descricao": "Primeira construção militar portuguesa na Amazônia (1616), marco fundador de Belém, com vista para a Baía do Guajará e exposições sobre o período colonial.",
-        "Lat": -1.4544,
+        "lat": -1.4544,
         "lon": -48.5031,
         "detalhes": {
             "endereço": "Praça Dom Frei Caetano Brandão - Cidade Velha, Belém - PA",
@@ -3813,7 +3813,7 @@
       {
         "nome": "Museu Emílio Goeldi",
         "descricao": "Importante instituição de pesquisa científica na Amazônia, com acervo de história natural, etnografia e um zoológico com espécies da região.",
-        "Lat": -1.4544,
+        "lat": -1.4544,
         "lon": -48.4900,
         "detalhes": {
             "endereço": "Av. Magalhães Barata, 376 - São Brás, Belém - PA",
@@ -3825,7 +3825,7 @@
     {
         "nome": "Museu de Arte Sacra do Pará",
         "descricao": "Instalado na Igreja de Santo Alexandre, apresenta importante acervo de arte sacra colonial amazônica dos séculos XVII ao XIX.",
-        "Lat": -1.4542,
+        "lat": -1.4542,
         "lon": -48.5033,
         "detalhes": {
             "endereço": "Praça Frei Caetano Brandão - Cidade Velha, Belém - PA",
@@ -3837,7 +3837,7 @@
     {
         "nome": "Museu do Círio",
         "descricao": "Dedicado à maior manifestação religiosa da Amazônia, o Círio de Nazaré, com acervo de ex-votos, fotografias e objetos históricos da festa.",
-        "Lat": -1.4539,
+        "lat": -1.4539,
         "lon": -48.5036,
         "detalhes": {
             "endereço": "Praça Justo Chermont - Cidade Velha, Belém - PA",
@@ -3849,7 +3849,7 @@
     {
         "nome": "Museu do Forte do Castelo",
         "descricao": "Localizado no Forte do Presépio, apresenta achados arqueológicos e painéis sobre a fundação de Belém e a colonização portuguesa na Amazônia.",
-        "Lat": -1.4544,
+        "lat": -1.4544,
         "lon": -48.5031,
         "detalhes": {
             "endereço": "Praça Dom Frei Caetano Brandão - Cidade Velha, Belém - PA",
@@ -3861,7 +3861,7 @@
     {
         "nome": "Museu do Estado do Pará (MEP)",
         "descricao": "Instalado no Palácio Lauro Sodré, apresenta acervo histórico e artístico que retrata a evolução política e cultural do estado.",
-        "Lat": -1.4547,
+        "lat": -1.4547,
         "lon": -48.5039,
         "detalhes": {
             "endereço": "Praça Dom Pedro II - Cidade Velha, Belém - PA",
@@ -3875,7 +3875,7 @@
       {
         "nome": "Feira do Açaí do Ver-o-Peso",
         "descricao": "Tradicional feira onde se encontra o melhor açaí do Pará, preparado na hora e servido com peixe frito, farinha e camarão seco.",
-        "Lat": -1.4519,
+        "lat": -1.4519,
         "lon": -48.5036,
         "detalhes": {
             "endereço": "Av. Boulevard Castilhos França - Campina, Belém - PA",
@@ -3887,7 +3887,7 @@
     {
         "nome": "Vila Sorriso em Marudá",
         "descricao": "Comunidade de pescadores que oferece pratos típicos com camarão e caranguejo frescos, além da famosa 'torta de camarão'.",
-        "Lat": -0.7500,
+        "lat": -0.7500,
         "lon": -47.6000,
         "detalhes": {
             "endereço": "Marudá, Salinópolis - PA",
@@ -3899,7 +3899,7 @@
     {
         "nome": "Feira do Peixe de Bragança",
         "descricao": "Famosa pela variedade de peixes e frutos do mar do litoral paraense, como o pescado assado na folha de bananeira.",
-        "Lat": -1.0667,
+        "lat": -1.0667,
         "lon": -46.7667,
         "detalhes": {
             "endereço": "Av. São Sebastião - Centro, Bragança - PA",
@@ -3911,7 +3911,7 @@
     {
         "nome": "Mercado de Carne de Marabá",
         "descricao": "Conhecido pelos pratos com carne de búfalo, como o famoso 'churrasco de búfalo' e o 'vatapá de carne'.",
-        "Lat": -5.3500,
+        "lat": -5.3500,
         "lon": -49.1167,
         "detalhes": {
             "endereço": "Av. Antônio Maia - Centro, Marabá - PA",
@@ -3923,7 +3923,7 @@
     {
         "nome": "Feira do Tacacá da Doca",
         "descricao": "Ponto tradicional em Belém para degustar o autêntico tacacá paraense, preparado com tucupi, jambu e camarão seco.",
-        "Lat": -1.4533,
+        "lat": -1.4533,
         "lon": -48.4986,
         "detalhes": {
             "endereço": "Av. Boulevard Castilhos França - Doca, Belém - PA",
@@ -3939,7 +3939,7 @@
     {
         "nome": "Praia de Tambaba",
         "descricao": "Famosa por ser uma das poucas praias de naturismo oficial do Brasil, com falésias coloridas e piscinas naturais formadas pelos recifes.",
-        "Lat": -7.1981,
+        "lat": -7.1981,
         "lon": -34.8208,
         "detalhes": {
             "endereço": "Conde - PB",
@@ -3951,7 +3951,7 @@
     {
         "nome": "Praia do Jacaré",
         "descricao": "Conhecida pelo pôr do sol ao som do Bolero de Ravel, com bares flutuantes no Rio Paraíba e passeios de catamarã.",
-        "Lat": -7.0167,
+        "lat": -7.0167,
         "lon": -34.8417,
         "detalhes": {
             "endereço": "Cabedelo - PB",
@@ -3963,7 +3963,7 @@
     {
         "nome": "Praia de Coqueirinho",
         "descricao": "Uma das mais belas da Paraíba, com coqueirais, falésias avermelhadas e mar calmo ideal para banho.",
-        "Lat": -7.1833,
+        "lat": -7.1833,
         "lon": -34.8500,
         "detalhes": {
             "endereço": "Conde - PB",
@@ -3975,7 +3975,7 @@
     {
         "nome": "Praia de Cabo Branco",
         "descricao": "Urbanizada em João Pessoa, com famosa estátua do Iemanjá, calçadão e mirante no ponto mais oriental das Américas.",
-        "Lat": -7.1458,
+        "lat": -7.1458,
         "lon": -34.7939,
         "detalhes": {
             "endereço": "João Pessoa - PB",
@@ -3987,7 +3987,7 @@
     {
         "nome": "Praia do Seixas",
         "descricao": "Considerada o ponto mais oriental das Américas, com mar tranquilo e vista para o Farol do Cabo Branco.",
-        "Lat": -7.1500,
+        "lat": -7.1500,
         "lon": -34.7917,
         "detalhes": {
             "endereço": "João Pessoa - PB",
@@ -4001,7 +4001,7 @@
       {
         "nome": "Parque Estadual da Mata do Pau-Ferro",
         "descricao": "Reserva de Mata Atlântica que abriga espécies endêmicas da flora e fauna, com trilhas ecológicas e cachoeiras.",
-        "Lat": -6.7667,
+        "lat": -6.7667,
         "lon": -35.7000,
         "detalhes": {
             "endereço": "Areia - PB",
@@ -4013,7 +4013,7 @@
     {
         "nome": "Parque Estadual da Pedra da Boca",
         "descricao": "Famosa por suas formações rochosas impressionantes, ideais para escalada e rapel, com mirantes naturais.",
-        "Lat": -6.4500,
+        "lat": -6.4500,
         "lon": -35.4833,
         "detalhes": {
             "endereço": "Araruna - PB",
@@ -4025,7 +4025,7 @@
     {
         "nome": "Parque Natural Municipal do Pico do Jabre",
         "descricao": "Ponto mais alto da Paraíba (1.197m), com vegetação de caatinga e cerrado, ideal para trekking e observação de aves.",
-        "Lat": -7.2500,
+        "lat": -7.2500,
         "lon": -37.4000,
         "detalhes": {
             "endereço": "Matureia - PB",
@@ -4037,7 +4037,7 @@
     {
         "nome": "Parque Estadual Marinho de Areia Vermelha",
         "descricao": "Banco de areia que emerge na maré baixa formando uma piscina natural, com rica vida marinha e passeios de barco.",
-        "Lat": -7.0167,
+        "lat": -7.0167,
         "lon": -34.8333,
         "detalhes": {
             "endereço": "Cabedelo - PB",
@@ -4049,7 +4049,7 @@
     {
         "nome": "Parque Ecológico Engenho Água Fria",
         "descricao": "Área de preservação ambiental com trilhas, nascentes e remanescentes de Mata Atlântica, próximo à capital.",
-        "Lat": -7.1333,
+        "lat": -7.1333,
         "lon": -34.8833,
         "detalhes": {
             "endereço": "João Pessoa - PB",
@@ -4063,7 +4063,7 @@
       {
         "nome": "Centro Histórico de João Pessoa",
         "descricao": "Conjunto arquitetônico colonial com casarões coloridos, igrejas barrocas e o famoso Hotel Globo, marco da arquitetura art déco na cidade.",
-        "Lat": -7.1167,
+        "lat": -7.1167,
         "lon": -34.8833,
         "detalhes": {
             "endereço": "Centro, João Pessoa - PB",
@@ -4075,7 +4075,7 @@
     {
         "nome": "Forte de Santa Catarina",
         "descricao": "Construção militar do século XVI em Cabedelo, que protegía a entrada do Rio Paraíba e foi palco de batalhas contra invasores holandeses.",
-        "Lat": -7.0167,
+        "lat": -7.0167,
         "lon": -34.8333,
         "detalhes": {
             "endereço": "Cabedelo - PB",
@@ -4087,7 +4087,7 @@
     {
         "nome": "Igreja de São Francisco",
         "descricao": "Conjunto barroco do século XVIII em João Pessoa, com igreja e convento considerados uma das mais belas expressões da arte sacra no Nordeste.",
-        "Lat": -7.1167,
+        "lat": -7.1167,
         "lon": -34.8833,
         "detalhes": {
             "endereço": "Praça São Francisco - Centro, João Pessoa - PB",
@@ -4099,7 +4099,7 @@
     {
         "nome": "Farol do Cabo Branco",
         "descricao": "Símbolo de João Pessoa e marco do ponto mais oriental das Américas, com arquitetura moderna em forma de estrela.",
-        "Lat": -7.1458,
+        "lat": -7.1458,
         "lon": -34.7939,
         "detalhes": {
             "endereço": "Av. Cabo Branco - João Pessoa - PB",
@@ -4111,7 +4111,7 @@
     {
         "nome": "Casarão do Padre Rolim",
         "descricao": "Antiga residência do líder da Revolução de 1817 em Areia, preservando características da arquitetura e mobiliário do período colonial.",
-        "Lat": -6.9667,
+        "lat": -6.9667,
         "lon": -35.7000,
         "detalhes": {
             "endereço": "Rua Pedro Américo - Centro, Areia - PB",
@@ -4125,7 +4125,7 @@
       {
         "nome": "Museu Casa de José Américo",
         "descricao": "Antiga residência do escritor e político José Américo de Almeida, preservando seu acervo pessoal, biblioteca e objetos que contam a história cultural da Paraíba.",
-        "Lat": -7.1167,
+        "lat": -7.1167,
         "lon": -34.8667,
         "detalhes": {
             "endereço": "Av. Cabo Branco, 3336 - Tambaú, João Pessoa - PB",
@@ -4137,7 +4137,7 @@
     {
         "nome": "Museu de Arte Sacra São Frei Pedro Gonçalves",
         "descricao": "Localizado no Convento de Santo Antônio, exibe importante coleção de arte sacra dos séculos XVII ao XIX, incluindo imagens barrocas e paramentos religiosos.",
-        "Lat": -7.1167,
+        "lat": -7.1167,
         "lon": -34.8833,
         "detalhes": {
             "endereço": "Praça São Francisco - Centro, João Pessoa - PB",
@@ -4149,7 +4149,7 @@
     {
         "nome": "Museu Fotográfico Walfredo Rodriguez",
         "descricao": "Preserva a memória visual da Paraíba através de fotografias históricas, equipamentos antigos e exposições temporárias sobre a evolução da fotografia.",
-        "Lat": -7.1167,
+        "lat": -7.1167,
         "lon": -34.8833,
         "detalhes": {
             "endereço": "Praça Antenor Navarro - Centro, João Pessoa - PB",
@@ -4161,7 +4161,7 @@
     {
         "nome": "Museu do Brejo Paraibano",
         "descricao": "Documenta a cultura e tradições da região do Brejo paraibano, com acervo sobre engenhos de cana-de-açúcar, arte popular e folclore regional.",
-        "Lat": -6.9667,
+        "lat": -6.9667,
         "lon": -35.7000,
         "detalhes": {
             "endereço": "Rua Pedro Américo - Centro, Areia - PB",
@@ -4173,7 +4173,7 @@
     {
         "nome": "Museu Histórico e Geográfico de Campina Grande",
         "descricao": "Preserva documentos, fotografias e objetos que contam a história da desenvolvimento da segunda maior cidade da Paraíba e sua importância regional.",
-        "Lat": -7.2333,
+        "lat": -7.2333,
         "lon": -35.8833,
         "detalhes": {
             "endereço": "Praça da Bandeira - Centro, Campina Grande - PB",
@@ -4187,7 +4187,7 @@
       {
         "nome": "Feira Central de Campina Grande",
         "descricao": "Uma das maiores feiras ao ar livre do Nordeste, oferece pratos típicos como buchada de bode, galinha à cabidela e tapioca com queijo coalho.",
-        "Lat": -7.2306,
+        "lat": -7.2306,
         "lon": -35.8811,
         "detalhes": {
             "endereço": "Centro, Campina Grande - PB",
@@ -4199,7 +4199,7 @@
     {
         "nome": "Vila do Artesão em João Pessoa",
         "descricao": "Além de artesanato, oferece barracas com comidas regionais como carne de sol com macaxeira e queijo de coalho grelhado.",
-        "Lat": -7.1333,
+        "lat": -7.1333,
         "lon": -34.8833,
         "detalhes": {
             "endereço": "Av. Pres. Epitácio Pessoa - Tambaú, João Pessoa - PB",
@@ -4211,7 +4211,7 @@
     {
         "nome": "Feira de São Vicente em Itabaiana",
         "descricao": "Famosa pela variedade de pratos com carne de bode, incluindo o tradicional 'bode assado na lata', especialidade da região.",
-        "Lat": -7.3333,
+        "lat": -7.3333,
         "lon": -35.3333,
         "detalhes": {
             "endereço": "Centro, Itabaiana - PB",
@@ -4223,7 +4223,7 @@
     {
         "nome": "Mercado Público de Cabedelo",
         "descricao": "Especializado em frutos do mar frescos, com restaurantes que servem moqueca de peixe, camarão na moranga e caldinho de sururu.",
-        "Lat": -7.0167,
+        "lat": -7.0167,
         "lon": -34.8333,
         "detalhes": {
             "endereço": "Av. Presidente João Pessoa - Centro, Cabedelo - PB",
@@ -4235,7 +4235,7 @@
     {
         "nome": "Feira do Agricultor em Bananeiras",
         "descricao": "Oferece produtos orgânicos e comidas típicas da região do Brejo paraibano, como bolos de macaxeira e licores de frutas regionais.",
-        "Lat": -6.7500,
+        "lat": -6.7500,
         "lon": -35.6333,
         "detalhes": {
             "endereço": "Praça Epitácio Pessoa - Centro, Bananeiras - PB",
@@ -4251,7 +4251,7 @@
           {
         "nome": "Praia de Matinhos",
         "descricao": "Uma das mais movimentadas do litoral paranaense, com extensa faixa de areia, ondas fortes ideais para surf e estrutura completa de serviços.",
-        "Lat": -25.8167,
+        "lat": -25.8167,
         "lon": -48.5333,
         "detalhes": {
             "endereço": "Matinhos - PR",
@@ -4263,7 +4263,7 @@
     {
         "nome": "Praia de Caiobá",
         "descricao": "Famosa por suas formações rochosas e piscinas naturais na maré baixa, além do Morro do Cristo com vista panorâmica.",
-        "Lat": -25.8667,
+        "lat": -25.8667,
         "lon": -48.5833,
         "detalhes": {
             "endereço": "Matinhos - PR",
@@ -4275,7 +4275,7 @@
     {
         "nome": "Praia do Guaratuba",
         "descricao": "Situada na baía de mesmo nome, oferece águas calmas ideais para famílias e passeios de barco pelas ilhas próximas.",
-        "Lat": -25.8833,
+        "lat": -25.8833,
         "lon": -48.5833,
         "detalhes": {
             "endereço": "Guaratuba - PR",
@@ -4287,7 +4287,7 @@
     {
         "nome": "Praia de Pontal do Paraná",
         "descricao": "Conhecida por ser próxima ao Complexo Estuarino de Paranaguá, com areias douradas e gastronomia baseada em frutos do mar.",
-        "Lat": -25.5833,
+        "lat": -25.5833,
         "lon": -48.3500,
         "detalhes": {
             "endereço": "Pontal do Paraná - PR",
@@ -4299,7 +4299,7 @@
     {
         "nome": "Praia de Superagui",
         "descricao": "Localizada no Parque Nacional do Superagui, acesso apenas por barco, com natureza preservada e possibilidade de avistar botos.",
-        "Lat": -25.4167,
+        "lat": -25.4167,
         "lon": -48.2333,
         "detalhes": {
             "endereço": "Paranaguá - PR (acesso por barco)",
@@ -4313,7 +4313,7 @@
     {
         "nome": "Parque Nacional do Iguaçu",
         "descricao": "Patrimônio Natural da Humanidade pela UNESCO, abriga as Cataratas do Iguaçu, uma das maiores e mais impressionantes quedas d'água do mundo, cercadas por floresta subtropical.",
-        "Lat": -25.6833,
+        "lat": -25.6833,
         "lon": -54.4333,
         "detalhes": {
             "endereço": "Foz do Iguaçu - PR",
@@ -4325,7 +4325,7 @@
     {
         "nome": "Parque Nacional de Superagui",
         "descricao": "Protege ecossistemas costeiros como manguezais, restingas e a Ilha do Superagui, habitat do ameaçado mico-leão-de-cara-preta e diversas aves migratórias.",
-        "Lat": -25.4167,
+        "lat": -25.4167,
         "lon": -48.2333,
         "detalhes": {
             "endereço": "Guaraqueçaba - PR",
@@ -4337,7 +4337,7 @@
     {
         "nome": "Parque Estadual de Vila Velha",
         "descricao": "Famoso por suas formações areníticas esculpidas pela erosão, além das furnas (grandes crateras com lagos).",
-        "Lat": -25.2333,
+        "lat": -25.2333,
         "lon": -50.0000,
         "detalhes": {
             "endereço": "Ponta Grossa - PR",
@@ -4349,7 +4349,7 @@
     {
         "nome": "Parque Estadual do Marumbi",
         "descricao": "Protege parte da Serra do Mar paranaense, com picos que chegam a 1.500m de altitude, trilhas desafiadoras e rica biodiversidade da Mata Atlântica.",
-        "Lat": -25.4500,
+        "lat": -25.4500,
         "lon": -48.9333,
         "detalhes": {
             "endereço": "Morretes - PR",
@@ -4361,7 +4361,7 @@
     {
         "nome": "Parque Estadual do Pau Oco",
         "descricao": "Área de preservação com formações rochosas impressionantes, cachoeiras e trilhas que levam a mirantes naturais na Serra da Prata.",
-        "Lat": -25.7833,
+        "lat": -25.7833,
         "lon": -48.7167,
         "detalhes": {
             "endereço": "Morretes - PR",
@@ -4375,7 +4375,7 @@
       {
         "nome": "Centro Histórico de Curitiba",
         "descricao": "Conjunto arquitetônico que preserva edificações dos séculos XIX e XX, incluindo a Praça Tiradentes, marco zero da cidade, e a Catedral Basílica Menor.",
-        "Lat": -25.4297,
+        "lat": -25.4297,
         "lon": -49.2719,
         "detalhes": {
             "endereço": "Centro, Curitiba - PR",
@@ -4387,7 +4387,7 @@
     {
         "nome": "Caminho do Itupava",
         "descricao": "Antiga trilha calçada por índios e escravos no século XVII, ligando Curitiba ao litoral, com trechos preservados de paralelepípedos e pontes de madeira.",
-        "Lat": -25.3833,
+        "lat": -25.3833,
         "lon": -48.9833,
         "detalhes": {
             "endereço": "Quatro Barras - PR (acesso principal)",
@@ -4399,7 +4399,7 @@
     {
         "nome": "Igreja Nossa Senhora do Rosário",
         "descricao": "Construída por escravos em 1737 em Antonina, é considerada a igreja mais antiga do Paraná, com arquitetura barroca simples.",
-        "Lat": -25.4286,
+        "lat": -25.4286,
         "lon": -48.7119,
         "detalhes": {
             "endereço": "Praça Coronel Macedo - Centro, Antonina - PR",
@@ -4411,7 +4411,7 @@
     {
         "nome": "Forte Nossa Senhora dos Prazeres",
         "descricao": "Construção militar do século XVIII na Ilha do Mel, projetada para defender a Baía de Paranaguá contra invasores, com vista panorâmica.",
-        "Lat": -25.5500,
+        "lat": -25.5500,
         "lon": -48.3167,
         "detalhes": {
             "endereço": "Ilha do Mel - Paranaguá - PR",
@@ -4423,7 +4423,7 @@
     {
         "nome": "Vila Histórica de Lapa",
         "descricao": "Preserva casarios coloniais e o Teatro São João, palco da Revolução Federalista (1894), com arquitetura típica do século XIX.",
-        "Lat": -25.7667,
+        "lat": -25.7667,
         "lon": -49.7167,
         "detalhes": {
             "endereço": "Centro, Lapa - PR",
@@ -4437,7 +4437,7 @@
     {
         "nome": "Museu Oscar Niemeyer (MON)",
         "descricao": "Conhecido como 'Museu do Olho' por sua arquitetura icônica, abriga exposições de artes visuais, arquitetura e design, com ênfase na obra de Oscar Niemeyer.",
-        "Lat": -25.4489,
+        "lat": -25.4489,
         "lon": -49.2392,
         "detalhes": {
             "endereço": "Rua Marechal Hermes, 999 - Centro Cívico, Curitiba - PR",
@@ -4449,7 +4449,7 @@
     {
         "nome": "Museu Paranaense",
         "descricao": "Mais antigo museu do Paraná, fundado em 1876, com acervo histórico, antropológico e arqueológico que conta a formação do estado.",
-        "Lat": -25.4297,
+        "lat": -25.4297,
         "lon": -49.2719,
         "detalhes": {
             "endereço": "Rua Kellers, 289 - São Francisco, Curitiba - PR",
@@ -4461,7 +4461,7 @@
     {
         "nome": "Museu de Arte Contemporânea do Paraná (MAC-PR)",
         "descricao": "Importante acervo de arte moderna e contemporânea brasileira, com obras de artistas paranaenses e nacionais de destaque.",
-        "Lat": -25.4297,
+        "lat": -25.4297,
         "lon": -49.2719,
         "detalhes": {
             "endereço": "Rua Desembargador Westphalen, 16 - Centro, Curitiba - PR",
@@ -4473,7 +4473,7 @@
     {
         "nome": "Museu do Expedicionário",
         "descricao": "Homenagem aos soldados paranaenses na Segunda Guerra Mundial, com uniformes, armas, documentos e um raro tanque Sherman em exposição.",
-        "Lat": -25.4297,
+        "lat": -25.4297,
         "lon": -49.2719,
         "detalhes": {
             "endereço": "Praça do Expedicionário - Alto da XV, Curitiba - PR",
@@ -4485,7 +4485,7 @@
     {
         "nome": "Museu Histórico de Londrina",
         "descricao": "Instalado na antiga Estação Ferroviária, preserva a memória da colonização do norte do Paraná, com ênfase no ciclo do café.",
-        "Lat": -23.3100,
+        "lat": -23.3100,
         "lon": -51.1628,
         "detalhes": {
             "endereço": "Rua Benjamin Constant, 900 - Centro, Londrina - PR",
@@ -4499,7 +4499,7 @@
       {
         "nome": "Feira do Largo da Ordem",
         "descricao": "Tradicional feira em Curitiba que reúne artesanato, música e gastronomia, com destaque para o barreado (prato típico paranaense) e pão de mel artesanal.",
-        "Lat": -25.4297,
+        "lat": -25.4297,
         "lon": -49.2719,
         "detalhes": {
             "endereço": "Largo da Ordem - Centro Histórico, Curitiba - PR",
@@ -4511,7 +4511,7 @@
     {
         "nome": "Vila de Morretes",
         "descricao": "Famosa pelo barreado (cozido de carne em panela de barro) e pela cachaça artesanal, em meio a casarios coloniais às margens do Rio Nhundiaquara.",
-        "Lat": -25.4833,
+        "lat": -25.4833,
         "lon": -48.8333,
         "detalhes": {
             "endereço": "Centro, Morretes - PR",
@@ -4523,7 +4523,7 @@
     {
         "nome": "Mercado Municipal de Curitiba",
         "descricao": "Oferece produtos típicos como pinhão, queijo do interior e melado de cana, além de restaurantes com pratos da culinária paranaense.",
-        "Lat": -25.4297,
+        "lat": -25.4297,
         "lon": -49.2719,
         "detalhes": {
             "endereço": "Av. Sete de Setembro, 1865 - Centro, Curitiba - PR",
@@ -4535,7 +4535,7 @@
     {
         "nome": "Feira do Produtor de Ponta Grossa",
         "descricao": "Conhecida pela variedade de produtos coloniais, como queijos, embutidos e doces caseiros, além de pratos típicos da região dos Campos Gerais.",
-        "Lat": -25.1000,
+        "lat": -25.1000,
         "lon": -50.1500,
         "detalhes": {
             "endereço": "Av. Visconde de Mauá - Centro, Ponta Grossa - PR",
@@ -4547,7 +4547,7 @@
     {
         "nome": "Vila de Antonina",
         "descricao": "Além do barreado, oferece pratos com frutos do mar frescos da Baía de Paranaguá, servidos em restaurantes à beira do rio.",
-        "Lat": -25.4286,
+        "lat": -25.4286,
         "lon": -48.7119,
         "detalhes": {
             "endereço": "Centro, Antonina - PR",
@@ -4563,7 +4563,7 @@
         {
         "nome": "Praia de Porto de Galinhas",
         "descricao": "Famosa pelas piscinas naturais de águas cristalinas e areias brancas, ideal para mergulho e observação de peixes coloridos. Um dos destinos mais visitados do Nordeste.",
-        "Lat": -8.4833,
+        "lat": -8.4833,
         "lon": -35.0000,
         "detalhes": {
             "endereço": "Ipojuca - PE",
@@ -4575,7 +4575,7 @@
     {
         "nome": "Praia de Boa Viagem",
         "descricao": "Principal praia urbana de Recife, com extenso calçadão, coqueirais e piscinas naturais formadas pelos recifes. Centro da vida noturna e gastronômica da capital.",
-        "Lat": -8.1333,
+        "lat": -8.1333,
         "lon": -34.9000,
         "detalhes": {
             "endereço": "Bairro de Boa Viagem, Recife - PE",
@@ -4587,7 +4587,7 @@
     {
         "nome": "Praia de Tamandaré",
         "descricao": "Conhecida pelas águas calmas e verdes, é sede do Centro de Preservação do Peixe-Boi Marinho e possui excelente infraestrutura turística.",
-        "Lat": -8.7500,
+        "lat": -8.7500,
         "lon": -35.1000,
         "detalhes": {
             "endereço": "Tamandaré - PE",
@@ -4599,7 +4599,7 @@
     {
         "nome": "Praia de Maracaípe",
         "descricao": "Vizinha a Porto de Galinhas, é point do surf nacional com ondas fortes e constante movimento de jovens e esportistas. Abriga o famoso passeio de jangada até as piscinas naturais.",
-        "Lat": -8.5000,
+        "lat": -8.5000,
         "lon": -35.0167,
         "detalhes": {
             "endereço": "Ipojuca - PE",
@@ -4611,7 +4611,7 @@
     {
         "nome": "Praia de Itamaracá",
         "descricao": "Ilha histórica com praias tranquilas, o Forte Orange (século XVII) e o Centro de Visitação do Peixe-Boi Marinho. Destaque para a Praia do Forte e Coroa do Avião.",
-        "Lat": -7.7500,
+        "lat": -7.7500,
         "lon": -34.8333,
         "detalhes": {
             "endereço": "Ilha de Itamaracá - PE",
@@ -4625,7 +4625,7 @@
       {
         "nome": "Parque Nacional do Catimbau",
         "descricao": "Conhecido como 'Vale do Catimbau', possui formações rochosas impressionantes, sítios arqueológicos com pinturas rupestres e uma biodiversidade única da Caatinga.",
-        "Lat": -8.5667,
+        "lat": -8.5667,
         "lon": -37.2167,
         "detalhes": {
             "endereço": "Buíque - PE",
@@ -4637,7 +4637,7 @@
     {
         "nome": "Parque Estadual Mata da Pimenteira",
         "descricao": "Importante remanescente de Mata Atlântica no agreste pernambucano, com trilhas ecológicas e nascentes que abastecem a região.",
-        "Lat": -8.2833,
+        "lat": -8.2833,
         "lon": -36.0167,
         "detalhes": {
             "endereço": "Serra Talhada - PE",
@@ -4649,7 +4649,7 @@
     {
         "nome": "Parque Municipal da Pedra da Xangô",
         "descricao": "Área protegida em Salvador que inclui formações rochosas sagradas para religiões de matriz africana, com trilhas e mirantes naturais.",
-        "Lat": -12.9167,
+        "lat": -12.9167,
         "lon": -38.4333,
         "detalhes": {
             "endereço": "Salvador - BA (embora administrado por PE)",
@@ -4661,7 +4661,7 @@
     {
         "nome": "Parque Estadual Dois Irmãos",
         "descricao": "Um dos últimos remanescentes de Mata Atlântica na região metropolitana do Recife, abrigando o Zoológico Dois Irmãos e diversas espécies nativas.",
-        "Lat": -8.0500,
+        "lat": -8.0500,
         "lon": -34.9500,
         "detalhes": {
             "endereço": "Praça Farias Neves, s/n - Dois Irmãos, Recife - PE",
@@ -4673,7 +4673,7 @@
     {
         "nome": "Parque Natural Municipal Professor João Vasconcelos Sobrinho",
         "descricao": "Protege ecossistemas de brejo de altitude no agreste, com cachoeiras e trilhas que levam a mirantes com vista panorâmica.",
-        "Lat": -8.3667,
+        "lat": -8.3667,
         "lon": -36.6500,
         "detalhes": {
             "endereço": "Caruaru - PE",
@@ -4687,7 +4687,7 @@
     {
         "nome": "Centro Histórico de Olinda",
         "descricao": "Patrimônio Mundial da UNESCO, com ladeiras de paralelepípedos, igrejas barrocas e casarios coloniais coloridos que preservam a memória do período colonial.",
-        "Lat": -8.0167,
+        "lat": -8.0167,
         "lon": -34.8500,
         "detalhes": {
             "endereço": "Olinda - PE",
@@ -4699,7 +4699,7 @@
     {
         "nome": "Forte das Cinco Pontas",
         "descricao": "Última construção holandesa no Brasil (1630), abriga o Museu da Cidade do Recife e oferece vista panorâmica do porto.",
-        "Lat": -8.0639,
+        "lat": -8.0639,
         "lon": -34.8736,
         "detalhes": {
             "endereço": "Praça das Cinco Pontas - São José, Recife - PE",
@@ -4711,7 +4711,7 @@
     {
         "nome": "Instituto Ricardo Brennand",
         "descricao": "Complexo cultural em estilo medieval que abriga um dos mais importantes acervos de armaduras e arte colonial brasileira, além de jardins escultóricos.",
-        "Lat": -8.0392,
+        "lat": -8.0392,
         "lon": -34.9589,
         "detalhes": {
             "endereço": "Alameda Antônio Brennand - Várzea, Recife - PE",
@@ -4723,7 +4723,7 @@
     {
         "nome": "Casa da Cultura",
         "descricao": "Antigo presídio transformado em centro de artesanato, com celas que viraram lojas de produtos típicos nordestinos e apresentações culturais.",
-        "Lat": -8.0639,
+        "lat": -8.0639,
         "lon": -34.8736,
         "detalhes": {
             "endereço": "Rua Floriano Peixoto - São José, Recife - PE",
@@ -4735,7 +4735,7 @@
     {
         "nome": "Sítio Histórico de Igarassu",
         "descricao": "Abriga a Igreja dos Santos Cosme e Damião (1535), considerada a mais antiga em funcionamento no Brasil, e um conjunto arquitetônico colonial preservado.",
-        "Lat": -7.8333,
+        "lat": -7.8333,
         "lon": -34.9000,
         "detalhes": {
             "endereço": "Centro, Igarassu - PE",
@@ -4749,7 +4749,7 @@
       {
         "nome": "Museu Cais do Sertão",
         "descricao": "Moderno museu interativo que celebra a cultura sertaneja, com foco na vida e obra de Luiz Gonzaga, usando tecnologia para imersão no universo do sertão nordestino.",
-        "Lat": -8.0639,
+        "lat": -8.0639,
         "lon": -34.8714,
         "detalhes": {
             "endereço": "Av. Alfredo Lisboa, s/n - Recife Antigo, Recife - PE",
@@ -4761,7 +4761,7 @@
     {
         "nome": "Museu do Homem do Nordeste",
         "descricao": "Apresenta a formação sociocultural da região através de acervo antropológico, com ênfase nas tradições populares, ciclos econômicos e sincretismo religioso.",
-        "Lat": -8.0392,
+        "lat": -8.0392,
         "lon": -34.9589,
         "detalhes": {
             "endereço": "Av. 17 de Agosto, 2187 - Casa Forte, Recife - PE",
@@ -4773,7 +4773,7 @@
     {
         "nome": "Museu de Arte Moderna Aloísio Magalhães (MAMAM)",
         "descricao": "Importante centro de arte contemporânea, com acervo de obras de artistas pernambucanos e nacionais, instalado em sobrado histórico no Recife Antigo.",
-        "Lat": -8.0639,
+        "lat": -8.0639,
         "lon": -34.8736,
         "detalhes": {
             "endereço": "Rua da Aurora, 265 - Boa Vista, Recife - PE",
@@ -4785,7 +4785,7 @@
     {
         "nome": "Museu do Estado de Pernambuco",
         "descricao": "Instalado no Palácio da Soledade, apresenta acervo histórico e artístico que vai do período colonial ao século XX, incluindo mobiliário e arte sacra.",
-        "Lat": -8.0500,
+        "lat": -8.0500,
         "lon": -34.8833,
         "detalhes": {
             "endereço": "Av. Rui Barbosa, 960 - Graças, Recife - PE",
@@ -4797,7 +4797,7 @@
     {
         "nome": "Museu da Abolição",
         "descricao": "Único no país dedicado à memória da escravidão e abolição, instalado no sobrado que foi residência do conselheiro João Alfredo, ministro que assinou a Lei Áurea.",
-        "Lat": -8.0500,
+        "lat": -8.0500,
         "lon": -34.9000,
         "detalhes": {
             "endereço": "Rua Benfica, 1150 - Madalena, Recife - PE",
@@ -4811,7 +4811,7 @@
       {
         "nome": "Feira de São José",
         "descricao": "Tradicional feira livre no centro do Recife, famosa pela diversidade de comidas típicas como bolo de rolo, tapioca e carne de sol com macaxeira.",
-        "Lat": -8.0639,
+        "lat": -8.0639,
         "lon": -34.8736,
         "detalhes": {
             "endereço": "Praça Dom Vital - São José, Recife - PE",
@@ -4823,7 +4823,7 @@
     {
         "nome": "Vila Velha em Olinda",
         "descricao": "Conjunto de bares e restaurantes no centro histórico que servem pratos como sarapatel, dobradinha e a autêntica feijoada pernambucana, em ambiente colonial.",
-        "Lat": -8.0167,
+        "lat": -8.0167,
         "lon": -34.8500,
         "detalhes": {
             "endereço": "Rua do Amparo - Carmo, Olinda - PE",
@@ -4835,7 +4835,7 @@
     {
         "nome": "Mercado da Boa Vista",
         "descricao": "Centenário mercado público com barracas que oferecem desde acarajé até o tradicional buchada de bode, além de doces regionais como cartola e suspiro.",
-        "Lat": -8.0500,
+        "lat": -8.0500,
         "lon": -34.8833,
         "detalhes": {
             "endereço": "Praça da Boa Vista - Boa Vista, Recife - PE",
@@ -4847,7 +4847,7 @@
     {
         "nome": "Feira de Caruaru",
         "descricao": "Maior feira ao ar livre do Nordeste, com setor gastronômico especializado em pratos como sarapatel, panelada e a famosa galinha à cabidela.",
-        "Lat": -8.2833,
+        "lat": -8.2833,
         "lon": -35.9667,
         "detalhes": {
             "endereço": "Centro, Caruaru - PE",
@@ -4859,7 +4859,7 @@
     {
         "nome": "Vila de Porto de Galinhas",
         "descricao": "Além das praias, oferece restaurantes à beira-mar especializados em frutos do frescos como moquecas e caldeiradas, além do tradicional camarão na moranga.",
-        "Lat": -8.4833,
+        "lat": -8.4833,
         "lon": -35.0000,
         "detalhes": {
             "endereço": "Centro, Porto de Galinhas - PE",
@@ -4875,7 +4875,7 @@
         {
         "nome": "Praia do Coqueiro",
         "descricao": "Considerada uma das mais belas do Piauí, com águas calmas e cristalinas, cercada por coqueirais e dunas. Ideal para banho e relaxamento.",
-        "Lat": -3.0833,
+        "lat": -3.0833,
         "lon": -41.8333,
         "detalhes": {
             "endereço": "Luís Correia - PI",
@@ -4887,7 +4887,7 @@
     {
         "nome": "Praia de Atalaia",
         "descricao": "Principal praia de Parnaíba, com estrutura turística completa, bares e restaurantes. Conhecida pelo pôr do sol espetacular no Delta do Parnaíba.",
-        "Lat": -2.9167,
+        "lat": -2.9167,
         "lon": -41.7667,
         "detalhes": {
             "endereço": "Parnaíba - PI",
@@ -4899,7 +4899,7 @@
     {
         "nome": "Praia do Arrombado",
         "descricao": "Nome curioso para uma praia de águas calmas e areias brancas, cercada por falésias. Acesso por trilha ou barco, com cenário paradisíaco.",
-        "Lat": -2.9500,
+        "lat": -2.9500,
         "lon": -41.3333,
         "detalhes": {
             "endereço": "Cajueiro da Praia - PI",
@@ -4911,7 +4911,7 @@
     {
         "nome": "Praia do Peito de Moça",
         "descricao": "Nome poético para uma praia de dunas douradas e águas verdes, com formações rochosas que criam piscinas naturais na maré baixa.",
-        "Lat": -3.0667,
+        "lat": -3.0667,
         "lon": -41.8500,
         "detalhes": {
             "endereço": "Luís Correia - PI",
@@ -4923,7 +4923,7 @@
     {
         "nome": "Praia da Pedra do Sal",
         "descricao": "Famosa por sua grande formação rochosa que dá nome à praia, com ondas fortes ideais para surf. Ponto de encontro de jovens e esportistas.",
-        "Lat": -2.9333,
+        "lat": -2.9333,
         "lon": -41.7833,
         "detalhes": {
             "endereço": "Parnaíba - PI",
@@ -4937,7 +4937,7 @@
     {
         "nome": "Parque Nacional da Serra da Capivara",
         "descricao": "Patrimônio Mundial da UNESCO, famoso por seus sítios arqueológicos com pinturas rupestres datadas de até 25.000 anos, em meio a formações rochosas impressionantes da caatinga.",
-        "Lat": -8.6667,
+        "lat": -8.6667,
         "lon": -42.5333,
         "detalhes": {
             "endereço": "São Raimundo Nonato - PI",
@@ -4949,7 +4949,7 @@
     {
         "nome": "Parque Nacional das Sete Cidades",
         "descricao": "Conhecido por suas formações rochosas esculpidas pela erosão em formas curiosas que lembram animais e objetos, além de sítios arqueológicos com inscrições rupestres.",
-        "Lat": -4.0833,
+        "lat": -4.0833,
         "lon": -41.7000,
         "detalhes": {
             "endereço": "Piripiri - PI",
@@ -4961,7 +4961,7 @@
     {
         "nome": "Parque Estadual do Delta do Parnaíba",
         "descricao": "Protege o único delta em mar aberto das Américas, com manguezais, dunas e ilhas fluviais que abrigam aves migratórias e espécies como o peixe-boi marinho.",
-        "Lat": -2.7833,
+        "lat": -2.7833,
         "lon": -41.7333,
         "detalhes": {
             "endereço": "Parnaíba - PI",
@@ -4973,7 +4973,7 @@
     {
         "nome": "Parque Estadual da Serra das Confusões",
         "descricao": "Vizinho à Serra da Capivara, possui cânions, cavernas e sítios arqueológicos ainda pouco explorados, em uma área remota e preservada de caatinga.",
-        "Lat": -9.1667,
+        "lat": -9.1667,
         "lon": -43.5000,
         "detalhes": {
             "endereço": "Caracol - PI",
@@ -4985,7 +4985,7 @@
     {
         "nome": "Parque Municipal da Cachoeira do Urubu",
         "descricao": "Área de preservação com cachoeiras e piscinas naturais no Rio Poti, importante oásis de biodiversidade no semiárido piauiense.",
-        "Lat": -5.0833,
+        "lat": -5.0833,
         "lon": -42.8000,
         "detalhes": {
             "endereço": "Teresina - PI",
@@ -4999,7 +4999,7 @@
       {
         "nome": "Centro Histórico de Oeiras",
         "descricao": "Primeira capital do Piauí, preserva casarões coloniais, igrejas barrocas e o Pelourinho, testemunhos do período colonial e da formação do estado.",
-        "Lat": -7.0167,
+        "lat": -7.0167,
         "lon": -42.1333,
         "detalhes": {
             "endereço": "Oeiras - PI",
@@ -5011,7 +5011,7 @@
     {
         "nome": "Casa de Pedro II",
         "descricao": "Antiga hospedagem onde o imperador Dom Pedro II pernoitou em sua visita ao Piauí em 1859, preservando mobiliário e objetos do período imperial.",
-        "Lat": -5.0833,
+        "lat": -5.0833,
         "lon": -42.8000,
         "detalhes": {
             "endereço": "Praça Marechal Deodoro - Centro, Teresina - PI",
@@ -5023,7 +5023,7 @@
     {
         "nome": "Igreja de Nossa Senhora do Rosário dos Pretos",
         "descricao": "Construída por escravos no século XVIII em Parnaíba, representa a resistência cultural afro-brasileira com arquitetura simples e festas tradicionais.",
-        "Lat": -2.9167,
+        "lat": -2.9167,
         "lon": -41.7667,
         "detalhes": {
             "endereço": "Rua Duque de Caxias - Centro, Parnaíba - PI",
@@ -5035,7 +5035,7 @@
     {
         "nome": "Casarão do Major Selemérico",
         "descricao": "Importante construção do ciclo do algodão em Campo Maior, que serviu como quartel-general durante a Balaiada (1838-1841).",
-        "Lat": -4.8333,
+        "lat": -4.8333,
         "lon": -42.1667,
         "detalhes": {
             "endereço": "Praça Rodrigues Santos - Centro, Campo Maior - PI",
@@ -5047,7 +5047,7 @@
     {
         "nome": "Complexo Turístico da Ponte Estaiada",
         "descricao": "Moderno marco de Teresina com mirante a 95m de altura, oferecendo vista panorâmica da confluência dos rios Poti e Parnaíba.",
-        "Lat": -5.0667,
+        "lat": -5.0667,
         "lon": -42.8000,
         "detalhes": {
             "endereço": "Av. Raul Lopes - Noivos, Teresina - PI",
@@ -5061,7 +5061,7 @@
       {
         "nome": "Museu do Piauí - Casa de Odilon Nunes",
         "descricao": "Principal museu do estado, com acervo que vai da pré-história ao período republicano, incluindo artefatos indígenas, mobiliário colonial e documentos históricos.",
-        "Lat": -5.0833,
+        "lat": -5.0833,
         "lon": -42.8000,
         "detalhes": {
             "endereço": "Rua 13 de Maio, 236 - Centro, Teresina - PI",
@@ -5073,7 +5073,7 @@
     {
         "nome": "Museu da Balaiada",
         "descricao": "Dedicado à revolta popular de 1838-1841, com documentos, armas e objetos que contam a história deste importante movimento social do Nordeste.",
-        "Lat": -3.7500,
+        "lat": -3.7500,
         "lon": -42.1667,
         "detalhes": {
             "endereço": "Praça da Bandeira - Centro, Caxias - MA (na divisa com PI)",
@@ -5085,7 +5085,7 @@
     {
         "nome": "Museu de Arte Sacra Dom Paulo Libório",
         "descricao": "Localizado na Catedral de Teresina, preserva imagens sacras dos séculos XVIII e XIX, paramentos e objetos litúrgicos da história religiosa piauiense.",
-        "Lat": -5.0833,
+        "lat": -5.0833,
         "lon": -42.8000,
         "detalhes": {
             "endereço": "Praça da Catedral - Centro, Teresina - PI",
@@ -5097,7 +5097,7 @@
     {
         "nome": "Museu do Sertão",
         "descricao": "Documenta a vida e cultura sertaneja, com objetos do cotidiano, instrumentos de trabalho e exposições sobre a resistência na caatinga.",
-        "Lat": -5.0833,
+        "lat": -5.0833,
         "lon": -42.8000,
         "detalhes": {
             "endereço": "Av. João Cabral, 2525 - Vermelha, Teresina - PI",
@@ -5109,7 +5109,7 @@
     {
         "nome": "Museu Municipal de Parnaíba",
         "descricao": "Instalado no antigo prédio da Alfândega (1822), conta a história da segunda cidade mais importante do Piauí, com ênfase no ciclo do charque e comércio fluvial.",
-        "Lat": -2.9167,
+        "lat": -2.9167,
         "lon": -41.7667,
         "detalhes": {
             "endereço": "Rua São Sebastião, 150 - Centro, Parnaíba - PI",
@@ -5123,7 +5123,7 @@
       {
         "nome": "Feira do Dirceu",
         "descricao": "Maior feira livre de Teresina, famosa pela variedade de pratos típicos como carne de sol com macaxeira, baião de dois e doces regionais como a cocada de leite.",
-        "Lat": -5.0833,
+        "lat": -5.0833,
         "lon": -42.8000,
         "detalhes": {
             "endereço": "Av. Frei Serafim - Dirceu, Teresina - PI",
@@ -5135,7 +5135,7 @@
     {
         "nome": "Vila da Santa Cruz dos Milagres",
         "descricao": "Comunidade rural que preserva tradições culinárias como o sarapatel, a panelada e o famoso 'cuscuz de arroz' piauiense, em ambiente rústico.",
-        "Lat": -5.8333,
+        "lat": -5.8333,
         "lon": -42.1667,
         "detalhes": {
             "endereço": "Santa Cruz dos Milagres - PI",
@@ -5147,7 +5147,7 @@
     {
         "nome": "Mercado Central de Teresina",
         "descricao": "Centenário mercado com boxes especializados em queijo de coalho, rapadura, cajuína e o tradicional 'bode assado no buraco', técnica única do Piauí.",
-        "Lat": -5.0833,
+        "lat": -5.0833,
         "lon": -42.8000,
         "detalhes": {
             "endereço": "Praça João Luís Ferreira - Centro, Teresina - PI",
@@ -5159,7 +5159,7 @@
     {
         "nome": "Feira da Piçarra",
         "descricao": "Tradicional feira à beira do Rio Poti em Teresina, onde se encontra o verdadeiro 'arroz de cuxá' (com vinagreira) e peixes regionais como o surubim.",
-        "Lat": -5.0833,
+        "lat": -5.0833,
         "lon": -42.8000,
         "detalhes": {
             "endereço": "Av. Maranhão - Centro-Sul, Teresina - PI",
@@ -5171,7 +5171,7 @@
     {
         "nome": "Vila Parnaibana",
         "descricao": "Conjunto de restaurantes à beira do Rio Igaraçu especializados em frutos do mar do Delta, como o camarão regional e o caranguejo-uçá.",
-        "Lat": -2.9167,
+        "lat": -2.9167,
         "lon": -41.7667,
         "detalhes": {
             "endereço": "Av. São Sebastião - Centro, Parnaíba - PI",
@@ -5187,7 +5187,7 @@
     {
         "nome": "Praia de Copacabana",
         "descricao": "Uma das praias mais famosas do mundo, com seu calçadão em onda desenhado por Burle Marx, águas azuis e vida noturna vibrante.",
-        "Lat": -22.9667,
+        "lat": -22.9667,
         "lon": -43.1833,
         "detalhes": {
             "endereço": "Copacabana, Rio de Janeiro - RJ",
@@ -5199,7 +5199,7 @@
     {
         "nome": "Praia de Ipanema",
         "descricao": "Famosa por seu pôr do sol deslumbrante e pela música 'Garota de Ipanema', é um símbolo da cultura carioca com areias douradas e ondas fortes.",
-        "Lat": -22.9833,
+        "lat": -22.9833,
         "lon": -43.2000,
         "detalhes": {
             "endereço": "Ipanema, Rio de Janeiro - RJ",
@@ -5211,7 +5211,7 @@
     {
         "nome": "Praia do Leblon",
         "descricao": "Adjacente a Ipanema, é mais tranquila e sofisticada, com excelentes restaurantes e vista para o Morro Dois Irmãos.",
-        "Lat": -22.9886,
+        "lat": -22.9886,
         "lon": -43.2244,
         "detalhes": {
             "endereço": "Leblon, Rio de Janeiro - RJ",
@@ -5223,7 +5223,7 @@
     {
         "nome": "Praia de Grumari",
         "descricao": "Praia selvagem e preservada, cercada por vegetação de restinga e parte do Parque Estadual da Pedra Branca. Ideal para quem busca tranquilidade.",
-        "Lat": -23.0500,
+        "lat": -23.0500,
         "lon": -43.5333,
         "detalhes": {
             "endereço": "Grumari, Rio de Janeiro - RJ",
@@ -5235,7 +5235,7 @@
     {
         "nome": "Praia de Prainha",
         "descricao": "Pequena e paradisíaca, cercada por morros cobertos de Mata Atlântica. Popular entre surfistas pelas suas ondas consistentes.",
-        "Lat": -23.0417,
+        "lat": -23.0417,
         "lon": -43.5250,
         "detalhes": {
             "endereço": "Prainha, Rio de Janeiro - RJ",
@@ -5249,7 +5249,7 @@
       {
         "nome": "Parque Nacional da Tijuca",
         "descricao": "Maior floresta urbana do mundo replantada, abriga o Corcovado e a estátua do Cristo Redentor, com trilhas, cachoeiras e mirantes naturais.",
-        "Lat": -22.9500,
+        "lat": -22.9500,
         "lon": -43.2500,
         "detalhes": {
             "endereço": "Alto da Boa Vista, Rio de Janeiro - RJ",
@@ -5261,7 +5261,7 @@
     {
         "nome": "Parque Estadual da Pedra Branca",
         "descricao": "Maior parque urbano do Brasil, com o pico da Pedra Branca (1.025m), trilhas selvagens e nascentes de água cristalina na floresta atlântica.",
-        "Lat": -22.9667,
+        "lat": -22.9667,
         "lon": -43.4667,
         "detalhes": {
             "endereço": "Zona Oeste, Rio de Janeiro - RJ",
@@ -5273,7 +5273,7 @@
     {
         "nome": "Parque Natural Municipal da Prainha",
         "descricao": "Área preservada entre o mar e a montanha, com trilhas que levam a mirantes com vista panorâmica e praias desertas de beleza selvagem.",
-        "Lat": -23.0417,
+        "lat": -23.0417,
         "lon": -43.5250,
         "detalhes": {
             "endereço": "Prainha, Rio de Janeiro - RJ",
@@ -5285,7 +5285,7 @@
     {
         "nome": "Parque Estadual dos Três Picos",
         "descricao": "Maior parque do estado, na Serra do Mar fluminense, com formações rochosas impressionantes e trilhas desafiadoras entre Niterói e Cachoeiras de Macacu.",
-        "Lat": -22.4167,
+        "lat": -22.4167,
         "lon": -42.6167,
         "detalhes": {
             "endereço": "Vários municípios - RJ",
@@ -5297,7 +5297,7 @@
     {
         "nome": "Parque Natural Municipal Chico Mendes",
         "descricao": "Refúgio de biodiversidade na zona oeste, com lagos, trilhas interpretativas e centro de reabilitação de animais silvestres.",
-        "Lat": -22.9667,
+        "lat": -22.9667,
         "lon": -43.4000,
         "detalhes": {
             "endereço": "Av. Jarbas de Carvalho, 679 - Recreio dos Bandeirantes, Rio de Janeiro - RJ",
@@ -5311,7 +5311,7 @@
       {
         "nome": "Centro Histórico do Rio de Janeiro",
         "descricao": "Patrimônio Mundial da UNESCO, abriga construções coloniais como o Paço Imperial, o Mosteiro de São Bento e o Arcos da Lapa, marco da arquitetura portuguesa no Brasil.",
-        "Lat": -22.9036,
+        "lat": -22.9036,
         "lon": -43.1756,
         "detalhes": {
             "endereço": "Região Central, Rio de Janeiro - RJ",
@@ -5323,7 +5323,7 @@
     {
         "nome": "Escadaria Selarón",
         "descricao": "Obra do artista chileno Jorge Selarón, com 215 degraus revestidos de azulejos coloridos de todo o mundo, tornou-se símbolo da cultura boêmia da Lapa.",
-        "Lat": -22.9111,
+        "lat": -22.9111,
         "lon": -43.1822,
         "detalhes": {
             "endereço": "R. Manuel Carneiro - Santa Teresa, Rio de Janeiro - RJ",
@@ -5335,7 +5335,7 @@
     {
         "nome": "Confeitaria Colombo",
         "descricao": "Fundada em 1894, é um marco da Belle Époque carioca, com espelhos belgas, mobiliário francês e tradição na confeitaria portuguesa.",
-        "Lat": -22.9036,
+        "lat": -22.9036,
         "lon": -43.1756,
         "detalhes": {
             "endereço": "R. Gonçalves Dias, 32 - Centro, Rio de Janeiro - RJ",
@@ -5347,7 +5347,7 @@
     {
         "nome": "Forte de Copacabana",
         "descricao": "Construção militar de 1914 que protegia a entrada da Baía de Guanabara, hoje oferece vista panorâmica e abriga o Museu Histórico do Exército e a tradicional Confeitaria Colombo Filial.",
-        "Lat": -22.9833,
+        "lat": -22.9833,
         "lon": -43.1833,
         "detalhes": {
             "endereço": "Praça Coronel Eugênio Franco, 1 - Copacabana, Rio de Janeiro - RJ",
@@ -5359,7 +5359,7 @@
     {
         "nome": "Arcos da Lapa",
         "descricao": "Antigo aqueduto do século XVIII que abastecia a cidade, transformado em viaduto para o bonde de Santa Teresa e marco da vida noturna carioca.",
-        "Lat": -22.9111,
+        "lat": -22.9111,
         "lon": -43.1822,
         "detalhes": {
             "endereço": "Lapa, Rio de Janeiro - RJ",
@@ -5373,7 +5373,7 @@
     {
         "nome": "Museu de Arte do Rio (MAR)",
         "descricao": "Dedicado à arte e cultura visual, com exposições que dialogam com a história da cidade e acervo que une arte erudita e popular. Localizado na Praça Mauá, com arquitetura contemporânea.",
-        "Lat": -22.8931,
+        "lat": -22.8931,
         "lon": -43.1803,
         "detalhes": {
             "endereço": "Praça Mauá, 5 - Centro, Rio de Janeiro - RJ",
@@ -5385,7 +5385,7 @@
     {
         "nome": "Museu do Amanhã",
         "descricao": "Museu de ciências aplicadas com exposições imersivas sobre sustentabilidade e futuro do planeta, em edifício futurista projetado por Santiago Calatrava.",
-        "Lat": -22.8942,
+        "lat": -22.8942,
         "lon": -43.1806,
         "detalhes": {
             "endereço": "Praça Mauá, 1 - Centro, Rio de Janeiro - RJ",
@@ -5397,7 +5397,7 @@
     {
         "nome": "Museu Nacional de Belas Artes",
         "descricao": "Importante acervo de arte brasileira dos séculos XVII ao XX, incluindo obras de Debret, Portinari e Di Cavalcanti, em prédio histórico na Cinelândia.",
-        "Lat": -22.9086,
+        "lat": -22.9086,
         "lon": -43.1769,
         "detalhes": {
             "endereço": "Av. Rio Branco, 199 - Centro, Rio de Janeiro - RJ",
@@ -5409,7 +5409,7 @@
     {
         "nome": "Museu Histórico Nacional",
         "descricao": "Maior museu de história do Brasil, com acervo de mais de 300 mil itens que contam a história do país desde o período colonial até a República.",
-        "Lat": -22.9056,
+        "lat": -22.9056,
         "lon": -43.1728,
         "detalhes": {
             "endereço": "Praça Marechal Âncora, s/n - Centro, Rio de Janeiro - RJ",
@@ -5421,7 +5421,7 @@
     {
         "nome": "Museu da República",
         "descricao": "Instalado no Palácio do Catete, onde ocorreu a Proclamação da República, preserva mobiliário histórico e exposições sobre a política brasileira.",
-        "Lat": -22.9250,
+        "lat": -22.9250,
         "lon": -43.1756,
         "detalhes": {
             "endereço": "R. do Catete, 153 - Catete, Rio de Janeiro - RJ",
@@ -5435,7 +5435,7 @@
       {
         "nome": "Feira de São Cristóvão",
         "descricao": "Maior centro de cultura nordestina do Rio, com mais de 600 barracas oferecendo pratos típicos como baião de dois, carne de sol e queijo coalho grelhado, ao som de forró pé-de-serra.",
-        "Lat": -22.8964,
+        "lat": -22.8964,
         "lon": -43.2269,
         "detalhes": {
             "endereço": "Campo de São Cristóvão, 209 - São Cristóvão, Rio de Janeiro - RJ",
@@ -5447,7 +5447,7 @@
     {
         "nome": "Vila Gourmet da Urca",
         "descricao": "Conjunto de pequenos quiosques à sombra dos arcos da Ladeira da Urca, especializados em frutos do mar frescos e petiscos cariocas como bolinho de bacalhau e pasteis.",
-        "Lat": -22.9500,
+        "lat": -22.9500,
         "lon": -43.1667,
         "detalhes": {
             "endereço": "Ladeira da Urca - Urca, Rio de Janeiro - RJ",
@@ -5459,7 +5459,7 @@
     {
         "nome": "Mercado Municipal do Rio",
         "descricao": "Reformado em 2018, oferece desde ingredientes frescos até restaurantes com pratos feitos, destacando-se pela variedade de peixes e frutos do mar da baía de Guanabara.",
-        "Lat": -22.8964,
+        "lat": -22.8964,
         "lon": -43.2269,
         "detalhes": {
             "endereço": "R. da Gamboa, 303 - Gamboa, Rio de Janeiro - RJ",
@@ -5471,7 +5471,7 @@
     {
         "nome": "Feira Orgânica da Glória",
         "descricao": "Pioneira no Rio, oferece produtos orgânicos e comida de rua saudável, como tapiocas funcionais e sucos detox, em ambiente arborizado próximo ao Parque do Flamengo.",
-        "Lat": -22.9250,
+        "lat": -22.9250,
         "lon": -43.1756,
         "detalhes": {
             "endereço": "Praça do Russel - Glória, Rio de Janeiro - RJ",
@@ -5483,7 +5483,7 @@
     {
         "nome": "Vila do Sossego em Niterói",
         "descricao": "Complexo gastronômico com vista para o Rio de Janeiro, especializado em frutos do mar e pratos regionais como moqueca capixaba e camarão na moranga.",
-        "Lat": -22.8964,
+        "lat": -22.8964,
         "lon": -43.1269,
         "detalhes": {
             "endereço": "Av. Quintino Bocaiúva, 255 - São Francisco, Niterói - RJ",
