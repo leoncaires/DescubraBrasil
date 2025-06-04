@@ -17,7 +17,7 @@
   --text-color: rgb(250, 196, 145);
   --user-color: rgb(10, 207, 10);
   --border-color: #ddd;
-  --shadow: 0 2px 4px rgba(0,0,0,0.1);
+  --shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 html, body {
@@ -29,33 +29,39 @@ html, body {
 body {
   background-color: var(--gray1);
   margin: 0;
-  display: flex;
+  position: relative;
 }
 
 #topo {
-  position: fixed;
-  top: 5%;
-  left: 17%;
+  position: absolute;
+  top: 20px;
+  left: 20%;
+  transform: translateX(-50%);
   font-size: 25px;
   font-weight: bold;
   color: var(--text-color);
   z-index: 1000;
+  padding: 10px 20px;
 }
 
 /* Layout principal */
 #layout {
-  display: flex;
   width: 100%;
   height: 100%;
+  position: relative;
 }
 
 /* Menu lateral */
 #menu {
+  position: absolute;
+  top: 80px;
+  left: 20px;
   width: 250px;
   background-color: var(--gray2);
   color: var(--text-color);
   padding: 20px 0;
   border-radius: 10px;
+  z-index: 10;
 }
 
 #menu ul {
@@ -76,30 +82,31 @@ body {
 
 /* Área do chat */
 #caixa {
-  flex-grow: 1;
-  display: flex;
-  flex-direction: column;
-  padding: 0;
-  position: relative;
-  background-color: var(--gray1);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
   overflow: hidden;
-  border-radius: 10px;
 }
 
+/* Chat ajustado */
 #chat {
+  position: absolute;
+  top: 20px; /* abaixo do título */
+  bottom: 100px; /* acima da barra de pesquisa */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 600px;
   padding: 20px;
   background-color: var(--gray1);
   color: white;
-  height: 80%;
-  width: 600px;
-  margin: 0 auto;
-  scrollbar-width: none;
-  flex-grow: 1;
   overflow-y: auto;
-  position: relative;
   text-align: left;
-  margin-bottom: 70px;
   font-size: 18px;
+  z-index: 1;
+  border-radius: 10px;
 }
 
 #chat::-webkit-scrollbar {
@@ -116,8 +123,8 @@ body {
 }
 
 .bot {
-  color: white;
   background-color: var(--gray2);
+  color: white;
 }
 
 .user {
@@ -150,17 +157,18 @@ body {
 /* Barra de pesquisa */
 #barradepesquisa {
   position: absolute;
-  bottom: 10px;
-  left: 57%;
+  bottom: 30px;
+  left: 50%;
   transform: translateX(-50%);
   display: flex;
   align-items: center;
   background-color: var(--gray);
   border-radius: 40px;
-  padding: 5px 10px;
+  padding: 12px 24px;
   width: 60%;
+  max-width: 700px;
   z-index: 10;
-  height: 7%;
+  gap: 12px;
 }
 
 #barradepesquisa input {
@@ -170,17 +178,17 @@ body {
   background: transparent;
   color: white;
   font-size: 16px;
-  padding-left: 10px;
+  padding: 10px 12px;
 }
 
 #botao-pesquisa {
   background-color: rgb(85, 85, 85);
   border: none;
   border-radius: 50%;
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   cursor: pointer;
-  font-size: 17px;
+  font-size: 18px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -195,17 +203,20 @@ input::-ms-input-placeholder {
   color: rgba(255, 255, 255, 0.6);
 }
 
-/* Mapa e componentes interativos */
+/* Mapa */
 #map-container {
   position: absolute;
   top: 20px;
   right: 20px;
+  left: 75%;
   width: 300px;
   height: 200px;
   z-index: 10;
   border: 2px solid #0078A8;
   border-radius: 8px;
   overflow: hidden;
+  box-shadow: var(--shadow);
+  background-color: var(--gray2);
 }
 
 #map {
@@ -241,4 +252,15 @@ button:hover, .btn-hospedagem:hover, .btn-ultima:hover {
   border-radius: 4px;
   padding: 2px;
   max-width: 100%;
+}
+
+.bot ol, .bot ul {
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.bot ol {
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 12px;
+  border-radius: 6px;
 }
